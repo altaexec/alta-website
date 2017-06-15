@@ -1,0 +1,3978 @@
+From tim at csse.unimelb.edu.au  Thu Jan  8 13:59:34 2009
+From: tim at csse.unimelb.edu.au (Timothy Baldwin)
+Date: Thu, 08 Jan 2009 11:59:34 +0900 (JST)
+Subject: [ALTA-Tech] PACLING 2009: 1st Call for Papers
+Message-ID: <20090108.115934.169779140.tim@csse.unimelb.edu.au>
+
+
+			      ==================
+			      CALL  FOR  PAPERS
+			      ==================
+
+				 PACLING2009
+
+     Conference of the Pacific Association for Computational Linguistics
+
+			     September 1-4, 2009
+		     Hokkaido University, Sapporo, Japan
+	       http://sig.media.eng.hokudai.ac.jp/pacling2009/
+
+
+SCOPE
+
+Pacling2009 is a low profile, high-quality and workshop-oriented conference whose aim is to 
+promote friendly scientific interaction relating to computational linguistics among Pacific 
+Rim countries.  The emphasis of the conference is on interdisciplinary scientific exchange 
+demonstrating openness towards high-quality research falling outside current dominant 
+?schools of thought?, and on technological transfer within the Pacific region.  The 
+conference represents a unique forum for scientific and technological exchange, being smaller 
+than ACL and COLING, and more regional with extensive representation from the Pacific.
+
+
+TOPICS
+
+Substantial, original, and unpublished research is welcome on any topics in computational 
+linguistics, including, but not limited to, the following:
+
+ * Phonology and Phonetics
+ * Morphology and Morphological Analysis
+ * Syntax and Syntactic Analysis
+ * Semantics and Semantic Analysis
+ * Pragmatics and Discourse Analysis
+ * Spoken Language and Dialogue
+ * Corpora and Corpus-based Language Processing
+ * Text and Message Understanding
+ * Text and Message Generation
+ * Machine Translation
+ * Text Summarization
+ * Information Extraction and Text Mining
+ * Information Retrieval and Question-Answering
+ * Language Learning
+ * Natural Language Interfaces
+ * Electronic Dictionaries, Thesauri and Ontology
+ * Semantic Web
+ * Semantic Computation
+
+In addition to these topics on general computational linguistics, Pacling2009 will also have 
+a workshop to discuss the challenging theme below:
+
+         Language and Human Mind.
+
+This theme covers research areas of modeling a human mind in terms of natural, efficient and 
+sympathetic communication between humans and computers, i.e. user-model-based communication 
+systems, emotional and affective expressions comprehension, understanding of other person?s 
+mind, etc.
+
+
+SUBMISSION OF PAPERS
+
+Authors should prepare anonymous submissions, in English, of up to 6 pages including 
+references.  Guidelines and style sheets (based on the ACL styles) are available at the web 
+site:
+    http://sig.media.eng.hokudai.ac.jp/pacling2009/
+
+Papers that are being submitted to other conferences, whether verbatim or in essence must 
+declare this fact. If a paper appears at another conference, it must be withdrawn from 
+PACLING2009. Papers that violate these requirements are subject to rejection without review.
+All papers will be submitted electronically in PDF format, through a web-based submission 
+system. The link to the submission web site will be soon made available on the web site.
+
+
+PUBLICATIONS
+
+All accepted papers will be published in the conference proceedings in paper and in CD-ROM.
+
+
+IMPORTANT DATES
+ Submission deadline:		Apr 15,  2009
+ Notification of acceptance:	Jun 16,  2009
+ Camera-ready copy due:		Jul  7,  2009
+ Conference dates:		Sep 1-4, 2009
+
+
+ORGANIZATION
+ President:		Shun Ishizaki (Keio University, Japan)
+  Former Presidents:	Naoyuki Okada (Kyushu Institute of Technology, Japan)
+                    Nick Cercone (York University, Canada)
+
+ORGANIZATION COMMITTEE
+ Members:	Robert Dale (Macquarie University, Australia)
+    Randy Goebel (University of Alberta, Canada)
+    Sergei Nirenburg (New Mexico State University, USA)
+    Tsutomu Endo (Kyushu Institute of Technology, Japan)
+
+ADVISORY COMMITTEE
+ Members:	Naoyuki Okada (Kyushu Institute of Technology, Japan)
+    Yorick Wilks (Sheffield University, England)
+    Charles Fillmore (University of California, Berkeley, USA)
+    Nick Cercone (York University, Canada)
+    Hiroshi Sakaki (Japan)
+
+
+
+PROGRAM COMMITTEE
+ Chair:			Hiroyuki Kameda (Tokyo Institute of Technology, Japan)
+  Vise-Chairs		Masato Tokuhisa (Tottori University, Japan)
+                    	Sumio Ohno (Tokyo Institute of Technology, Japan)
+                  	Masami Suzuki (KDDI, Japan)
+
+LOCAL COMMITTEE
+ Chair:		Kenji Araki (Hokkaido University, Japan)
+   Members:	Rafal Rzepka?Hokkaido University, Japan?
+      	Hiroshi Echizenya (Hokkai-gakunen University, Japan)
+      	Yasutomo Kimura (Otaru University of Commerce, Japan)
+      	Jonas Sjobergh (Hokkaido University, Japan)
+
+CONFERENCE COMMITTEE
+ Members(tentative):
+       Kenji Araki (Hokkaido University, Japan)
+    Wirote Aroonmanakun (Chulalongkorn University, Thailand)
+    Timothy Baldwin (Melbourne University, Australia) 
+    Emily Bender (Washington University, USA)
+    Steven Bird (Melbourne University, Australia)
+    Christian Boitet (Imag, France)
+    Francis Bond (NICT, Japan) 
+    Sandra Carberry (University of Delaware, USA) 
+    Lawrence Cavedon (NICTA, Australia)
+    Tetsuro Chino (Toshiba Corp., Japan)
+    Hercules Dalianis (Royal Inst. of Tech., DSV-KTH, Sweden) 
+    Chrysanne DiMarco (University of Waterloo, Canada) 
+    Shinichi Doi (NEC Corp., Japan) 
+    Tsutomu Endo (Kyushu Institute of Technology, Japan) 
+    Junichi Fukumoto (Ritsumeikan University, Japan) 
+    Koiti Hasida (AIST, Japan) 
+    Graeme Hirst (University of Toronto, Canada) 
+    Jimmy Huang (University of Waterloo, Canada) 
+    Bowen Hui (University of Toronto, Canada) 
+    Satoru Ikehara (Tottori University, Japan) 
+    Kentaro Inui (Nara Institute of Science and Technology, Japan) 
+    Hitoshi Isahara (NICT, Japan)
+    Shun Ishizaki (Keio University, Japan) 
+    Kenji Itoh (The University of Tokyo, Japan) 
+    Hiroyuki Kameda (Tokyo University of Technology, Japan) 
+    Asanee Kawtrakul (Kasesart University, Thailand) 
+    Vlado Keselj (Dalhousie University, Canada) 
+    Ali Knott (Otago University, New Zealand)
+    Kiyoshi Kogure (NTT, Japan) 
+    Guy Lapalme (University of Montreal, Canada) 
+    Qin Lu (Hong Kong Polytechnic University, Hong Kong) 
+    Rob Malouf (San Diego State University, USA)
+    Fumito Masui (Mie University, Japan) 
+    Kunio Matsui (Fujitsu Labs., Japan) 
+    Diego Molla (Macquarie University, Australia)
+    Hiromi Nakaiwa (NTT Corp., Japan) 
+    Shigeko Nariyama (Melbourne University, Australia)
+    Yoshihiko Nitta (Nihon University, Japan) 
+    Sumio Ohno (Tokyo University of Technology, Japan)
+    T. Pattabhiraman (Conversay, USA) 
+    Gerald Penn (University of Toronto, Canada) 
+    Hiroaki Saito (Keio University, Japan) 
+    Kazutaka Shimada (Kyushu Institute of Technology, Japan) 
+    Akira Shimazu (Japan Advanced Institute of Science and Technology, Japan) 
+    Virach Sornlertlamvanich (NICT, Thailand) 
+    Tomek Strzalkowski (SUNY Albany, USA) 
+    Thepchai Supnithi (NECTEC, Thailand) 
+    Hisami Suzuki (Microsoft, Australia)
+    Masami Suzuki (KDDI, Japan) 
+    Kumiko TANAKA-Ishii (The University of Tokyo, Japan) 
+    Thanaruk Theeramunkong(SIIT, Thailand)
+    Masato Tokuhisa (Tottori University, Japan)
+    Mutsuko Tomokiyo (Imag, France) 
+    Jianna Zhang (Western Washington University, USA) 
+    Ingrid Zukerman (Monash University, Australia)  
+
+
+From diego at ics.mq.edu.au  Mon Jan 19 13:18:05 2009
+From: diego at ics.mq.edu.au (Diego Molla)
+Date: Mon, 19 Jan 2009 13:18:05 +1100
+Subject: [ALTA-Tech] Fwd: [HCSNet] HCSNet Collaborative Grant-Writing
+	Support Program
+In-Reply-To: <E1LNqRR-0000Gz-Vk@syd-srv06.ezyreg.com>
+References: <E1LNqRR-0000Gz-Vk@syd-srv06.ezyreg.com>
+Message-ID: <8807e0a90901181818m5bab95b9ya7e760772988d139@mail.gmail.com>
+
+For all thinking of preparing a grant in collaboration with other
+institutions, check HCSNet's  Collaborative Grant-Writing Support
+Program.
+
+Diego
+
+---------- Forwarded message ----------
+From: HCSNet <donotreply at hcsnet.edu.au>
+Date: Sat, Jan 17, 2009 at 2:17 AM
+Subject: [HCSNet] HCSNet Collaborative Grant-Writing Support Program
+To: diego at ics.mq.edu.au
+
+
+
+Dear Diego
+
+HCSNet's Collaborative Grant-Writing Support Program aims to encourage
+the submission of cross-disciplinary and cross-institutional project
+proposals to major funding schemes such as the ARC Discovery Program,
+the ARC Linkage Program, and the NHMRC, by supporting travel for the
+purpose of grant preparation. The program provides travel and
+accommodation support up to a maximum of $500 per person, for up to
+two persons travelling to the site of a third party in order to
+prepare a grant proposal.
+
+We are now accepting applications for funding to aid in the
+preparation of grant applications to the 2010 ARC Discovery round;
+closing date for applications is Friday 23rd January 2009, and funding
+decisions will be made by Monday 26th January. Up to two awards per
+Priority Area are available. For more information, please see
+http://www.hcsnet.edu.au/programs/collaborativegrantwriting.
+
+Robert Dale
+HCSNet Convenor
+
+
+
+
+-- 
+Do you want to know what is going on in Language Technology in
+Australia and New Zealand? Join ALTA -- http://www.alta.asn.au/
+
+  This message is intended for the addressee named and may
+  contain confidential information.  If you are not the intended
+  recipient, please delete it and notify the sender.  Views expressed
+  in this message are those of the individual sender, and are not
+  necessarily the views of Macquarie University.
+---------------------------------------------------------------------
+Diego MOLLA ALIOD                                 diego at ics.mq.edu.au
+Department of Computing               http://www.ics.mq.edu.au/~diego
+Macquarie University
+
+From tim at csse.unimelb.edu.au  Tue Jan 20 00:40:56 2009
+From: tim at csse.unimelb.edu.au (Timothy Baldwin)
+Date: Mon, 19 Jan 2009 22:40:56 +0900 (JST)
+Subject: [ALTA-Tech] EACL09 Workshop on the Linguistics and Computational
+ Linguistics: First Call for Participation
+In-Reply-To: <20090117.121516.87366831.tim@csse.unimelb.edu.au>
+References: <496DF8BA.3010103@coli.uni-sb.de>
+	<20090116.110738.82822442.tim@csse.unimelb.edu.au>
+	<49709D44.10506@coli.uni-sb.de>
+	<20090117.121516.87366831.tim@csse.unimelb.edu.au>
+Message-ID: <20090119.224056.90790897.tim@csse.unimelb.edu.au>
+
+# Apologies for cross-postings
+
+
+
+			 First Call for Participation
+
+				       
+			      EACL 2009 Workshop
+				    on the
+			     Interaction between
+		  Linguistics and Computational Linguistics:
+			Virtuous, Vicious or Vacuous?
+
+
+				March 30, 2009
+
+				Athens, Greece
+
+		 http://www.cs.mu.oz.au/~tim/events/eacl2009/
+
+
+We are delighted to announce this unique event, bringing together a formidable
+group of invited speakers and panelists to explore the interaction between
+linguistics and computational linguistics. Join us to reflect on the past,
+present and future of the linguistics--computational linguistics interface,
+and explore the nature of the relationship between the two fields: virtuous,
+vicious or vacuous.
+
+
+Invited Speakers:
+
+  Mark Johnson (Brown University, USA)
+  Frank Keller (University of Edinburgh, UK)
+  Mark Liberman (University of Pennsylvania, USA)
+  Stelios Piperidis (Institute for Language and Speech Processing, Greece)
+  Geoffrey Pullum (University of Edinburgh, UK)
+
+Panelists:
+
+  Emily Bender (University of Washington, USA)
+  Gregor Erbach (European Union)
+  Bob Moore (Microsoft Research, USA)
+  Gertjan van Noord (University of Groningen, Netherlands)
+  Hans Uszkoreit (Saarland University, Germany)
+
+
+
+Overview:
+
+This workshop is an attempt to bring together linguists and computational
+linguists across the broad spectrum of the two fields who operate across or
+near the computational "divide", to reflect on the relationship between the
+two fields, including the following questions:
+
+  * What contributions has computational linguistics made to linguistics, and
+    vice versa?
+
+  * What are examples of success/failure of marrying linguistics and
+    computational linguistics, and what can we learn from them?
+
+  * How can we better facilitate the virtuous cycle between computational
+    linguistics and linguistics?
+
+  * Is modern-day computational linguistics relevant to current-day
+    linguistics, and vice versa? If not, should it be made more relevant, and
+    how?
+
+  * What do computational and core linguistics stand to gain from greater
+    cross-awareness between the two fields?
+
+  * What untapped areas/aspects of linguistics are ripe for
+    cross-fertilisation with computational linguistics, and vice versa?
+
+On the basis of exploring answers to these and other questions, the workshop
+aims to explore possible trajectories for linguistics and computational
+linguistics, in terms of both concrete low-level tasks and high-level
+aspirations/synergies.
+
+
+Background:
+
+In its infancy, computational linguistics drew heavily on theoretical
+linguistics. There have been numerous examples of co-development successes
+between computational and theoretical linguistics over the years
+(e.g. syntactic theories, discourse processing and language resource
+development), and significant crossover with other areas of linguistics such
+as psycholinguistics and corpus linguistics.
+
+Throughout the history of the field, however, there has always been a subset
+of computational linguistics which has openly distanced itself from
+theoretical linguistics, perhaps most famously in the field of machine
+translation (MT) where there is relatively little in the majority of
+"successful" MT systems that a core linguist would identify with. In the
+current climate of hard-core empiricism within computational linguistics it is
+appropriate to reflect on where we have come from and where we are headed
+relative to the various other fields of linguistics. As part of this
+reflection, it is timely to look beyond theoretical linguistics to the various
+other fields of linguistics which have traditionally received less exposure in
+computational linguistics, including sociolinguistics, historical linguistics,
+neurolinguistics and evolutionary linguistics.  
+
+
+Target Audience:
+
+The workshop is intended to be of interest to both the large numbers of people
+interested in deep linguistic processing (e.g. grammar developers,
+computational syntacticians, computational semanticists, researchers working
+on parsing and generation, and researchers applying deep linguistic processing
+in various application areas), but also those who have perhaps explicitly
+distanced themselves from linguistics, or who come from a linguistic
+background but have moved away from it in their computational linguist
+research. We also strongly encourage (pure) linguists to come along.
+
+
+Workshop Organisers:
+
+  Timothy Baldwin (University of Melbourne)
+  Valia Kordoni (DFKI and Saarland University)
+
+
+Address any queries regarding the workshop to:
+
+  eacl2009-ling at unimelb.edu.au
+
+From Cecile.Paris at csiro.au  Tue Jan 27 11:15:15 2009
+From: Cecile.Paris at csiro.au (Cecile.Paris at csiro.au)
+Date: Tue, 27 Jan 2009 11:15:15 +1100
+Subject: [ALTA-Tech] Social Health Networks Survey: call for volunteer
+Message-ID: <1E24F8498F299B4986C854A88847244019E624A2@EXNSW-MBX01.nexus.csiro.au>
+
+
+Dear Colleague:
+
+We woud appreciate if you could participate and if you could send this call as appropriate.
+
+Thanks and kind regards
+Cecile Paris
+
+*************************************************************
+
+Dear colleagues,
+
+We are currently conducting a study on the use of health related social networking sites. These sites are designed to bring together users with various health concerns so that they can interact with each other for mutual benefit. We hope to gain some insight into how these sites are used, who uses them, what is useful about them as well as what might make them more useful.
+
+If you are someone who has a serious or chronic medical condition (e.g. illness, injury, mental condition, etc.) OR you are a close friend or family member of someone who fits this description we would like to invite you to participate in this online survey.
+If you can think of anyone else who might fit the criteria, please pass this on to them as well.
+
+You can access the survey from: http://rosella.wirrapoi.com/limesurvey/index.php?sid=81638&newtest=Y
+The survey is already active and will be closed in a week's time on the 1st of February.
+It is likely to take you at most 20min to complete.
+If you have any questions please contact Melody Wang (Melody.Wang at csiro.au<mailto:Melody.Wang at csiro.au>)
+
+Many thanks for your time,
+Melody Wang
+
+
+-------------------------------------
+Dr C?cile Paris
+Research Leader, ICT Centre
+CSIRO ICT Centre
+Locked Bag 17, North Ryde, NSW 1670
+
+Physical Address:
+CSIRO ICT Centre
+Building E6B, Macquarie University Campus
+North Ryde NSW 2113
+Australia
+Phone: +61 2 9325 3160
+Fax: +61 2 9325 3200
+Email: Cecile.Paris at csiro.au
+http://www<http://www/>.ict.csiro.au/InfoEngagement
+http://www<http://www/>.ict.csiro.au/staff/Cecile.Paris
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090127/51bb2ee3/attachment-0001.html>
+
+From diego at ics.mq.edu.au  Tue Jan 27 14:12:25 2009
+From: diego at ics.mq.edu.au (Diego Molla)
+Date: Tue, 27 Jan 2009 14:12:25 +1100
+Subject: [ALTA-Tech] Fwd: HCSNet Graduate Student Network Awards for 2009
+Message-ID: <8807e0a90901261912r61b3e1e2i9845dd0cecc70c24@mail.gmail.com>
+
+HCSNet Graduate Student Network Awards 2009
+
+HCSNet is now inviting applications for the HCSNet Graduate Student
+Network Awards for 2009. The Awards are designed to promote excellence
+and opportunity in Higher Degree Research (HDR) training and
+development. The scheme provides financial support for an
+Australian-based HDR student in each of our five priority areas to
+spend a block of time (two weeks or longer) at an Australian research
+lab, university department or facility with an interest in human
+communication. The proposed visit should be designed to enhance the
+student's knowledge or skills base, build professional networks, and
+provide an opportunity to discuss research with experts in the field.
+Longer-term goals to be encouraged are a joint publication involving
+the student and host institution, and/or presentation of a joint paper
+at an international conference with publication of the paper in the
+conference proceedings. Applications close on 16 February 2009. For
+more information, please see http://www.hcsnet.edu.au/programs/hdr.
+
+
+
+
+
+
+
+
+-- 
+Do you want to know what is going on in Language Technology in
+Australia and New Zealand? Join ALTA -- http://www.alta.asn.au/
+
+  This message is intended for the addressee named and may
+  contain confidential information.  If you are not the intended
+  recipient, please delete it and notify the sender.  Views expressed
+  in this message are those of the individual sender, and are not
+  necessarily the views of Macquarie University.
+---------------------------------------------------------------------
+Diego MOLLA ALIOD                                 diego at ics.mq.edu.au
+Department of Computing               http://www.ics.mq.edu.au/~diego
+Macquarie University
+
+From snkim at csse.unimelb.edu.au  Thu Jan 29 09:51:08 2009
+From: snkim at csse.unimelb.edu.au (Su Nam Kim)
+Date: Thu, 29 Jan 2009 09:51:08 +1100
+Subject: [ALTA-Tech] Fwd: CFP: Multiword Expressions: Identification,
+	Interpretation, Disambiguation and Applications (MWE 2009)
+In-Reply-To: <20090128154447.97z8kv7xcksc8s8c@webmail.df.eu>
+References: <20090128154447.97z8kv7xcksc8s8c@webmail.df.eu>
+Message-ID: <46a1d1880901281451j7a0b141aha1afb82dab53c19a@mail.gmail.com>
+
+many apologies for multiple postings
+
+
+----------------------------------------------------------------------------------------------------------------
+Multiword Expressions: Identification, Interpretation, Disambiguation
+and Applications (MWE 2009)
+Workshop at the ACL/IJCNLP 2009 Conference (Singapore), 06 August 2009
+
+The workshop is endorsed by the ACL Special Interest Group on the
+Lexicon (SIGLEX)
+
+The link to MWE 2009 is the following:
+http://multiword.sourceforge.net/PHITE.php?sitesig=CONF&page=CONF_40_MWE_2009___lb__ACL__rb__
+
+A short description of the workshop, the topics as well as submission
+information, important dates and the members of the Programme
+Committee are presented below.
+
+Description
+
+       Multi-Word Expressions (MWEs) are an indispensable part of
+natural languages and appear steadily on a daily basis, both new and
+already existing but paraphrased. Thus, the automated processing of
+MWEs is important for many natural language applications. The meaning
+of MWEs can be either motivated or arbitrary. Native speakers master
+most MWEs, while learners of a foreign language have to learn MWEs by
+heart. The interpretation of MWEs poses a major challenge for
+automated analysis helping both groups easily master MWEs.
+
+       The growing interest in MWEs in the NLP community has led to
+many specialized workshops held every year since 2001 in conjunction
+with ACL, EACL and LREC; there have been also two recent special
+issues on MWEs published by leading journals: the International
+Journal of Language Resources and Evaluation, and the Journal of
+Computer Speech and Language.
+
+       As a result of the overall progress in the field, the time has
+come to move from basic preliminary research to actual applications in
+real-world NLP tasks. Following this trend, the LREC-MWE'08 focused on
+gathering resources and creating a common repository in order to rank
+MWE candidates and facilitate further research.
+
+Call for papers
+
+       In MWE'09 we are interested in the overall process of dealing
+with MWEs, asking for original research related (but not limited) to
+the following four fundamental topics.
+
+       Workshop topics
+
+             (1) Identification. Identification is a major problem for
+MWEs. The MWE identification task is to determine whether a MWE is
+used non-compositionally (figuratively) or compositionally (literally)
+in a particular context. The identification of MWEs by automated means
+is a difficult task, as it does not suffice to store the MWE into a
+dictionary database. Rule-based (morphosyntactic rules) and/or
+statistical approaches may be needed to identify MWEs in context.
+
+             (2) Interpretation. Semantic interpretation of MWEs,
+particularly noun compounds and determinerless prepositional phrases,
+is the task of determining the implicit semantic relation holding
+between the MWE's sub-components. This specific area is inviting
+research on (linguistically) identifying the semantic relations (SRs)
+and automatic SR interpretation in MWEs. The relation inventories used
+can be of different granularity and dependent on the particular type
+of MWE construction. In some cases, MWE's semantics can be also
+specified in terms of a suitable paraphrase.
+
+             (3) Disambiguation. Disambiguation (Semantic
+classification) is the task of specifying the semantics of MWEs based
+on an inventory of semantic relations. It tends to presuppose the
+ability to classify the (degree of) compositionality of MWEs and
+applies only to compositional MWEs. The aim is to specify the
+semantics of MWEs in terms of predefined semantic categories, e.g., in
+WordNet.
+
+             (4) Applications. Identifying MWEs in context and
+understanding their syntax and semantics is important for many natural
+language applications, including but not limited to question
+answering, machine translation, information retrieval, information
+extraction, and textual entailment. Still, despite the growing
+research interest, there are not enough successful applications in
+real NLP problems, which we believe is the key for the advancement of
+the field.
+
+       Submission information
+
+             Submissions must describe substantial, original, and
+unpublished work. Submissions will be judged on correctness,
+originality, technical strength, significance and relevance to the
+conference, and interest to the attendees. Full papers may consist of
+up to eight (8) pages in total (references icluded) and will be
+presented orally. The deadline for paper submission is May 1, 2009
+(GMT + 8).
+             The official style files for ACL/IJCNLP 2009 are
+available at: http://www.acl-ijcnlp-2009.org/main/authors/stylefiles/.
+The workshop submissions should use the same formatting guidelines.
+
+       Format
+
+             Full paper submissions should follow the two-column
+format of ACL-IJCNLP 2009 proceedings without exceeding eight (8)
+pages including references. We strongly recommend the use of ACL LaTeX
+style files or Microsoft Word Style files tailored for this year's
+conference, which will be available on the conference website. All
+submissions must conform to the official ACL-IJCNLP 2009 style
+guidelines to be announced in the conference website and they must be
+electronic in PDF.
+             As the reviewing will be blind, the paper must not
+include the authors' names and affiliations. Furthermore,
+self-references that reveal the author's identity, e.g., "We
+previously showed (Smith, 1991) ...", must be avoided. Instead, use
+citations such as "Smith previously showed (Smith, 1991) ...". Papers
+that do not conform to these requirements will be rejected without
+review.
+
+
+Important dates
+
+       Paper submission deadline               May 1, 2009
+       Notification of acceptance of papers    June 1, 2009
+       Camera-ready copies due                         June 14, 2009
+       ACL-IJCNLP 2009 Workshops               August 6-7, 2009
+
+Programme committee
+
+     * Inaki Alegria, University of the Basque Country (Spain)
+     * Timothy Baldwin, Stanford University (USA); University of
+Melbourne (Australia)
+     * Colin Bannard, Max Planck Institute (Germany)
+     * Francis Bond, National Institute of Information and
+Communications Technology (Japan)
+     * Gael Dias, Beira Interior University (Portugal)
+     * Ulrich Heid, Stuttgart University (Germany)
+     * Stefan Evert, University of Osnabrueck (Germany)
+     * Afsaneh Fazly,University of Toronto (Canada)
+     * Nicole Gregoire,University of Utrecht (The Netherlands)
+     * Roxana Girju,University of Illinois at Urbana-Champaign (USA)
+     * Kyo Kageura, University of Tokyo (Japan)
+     * Brigitte Krenn, Austrian Research Institute for Artificial
+Intelligence (Austria)
+     * Eric Laporte, University of Marne-la-Vall?e (France)
+     * Rosamund Moon, University of Birmingham (UK)
+     * Diana McCarthy, University of Sussex (UK)
+     * Jan Odijk, University of Utrecht (The Netherlands)
+     * Stephan Oepen, Stanford University (USA); University of Oslo (Norway)
+     * Darren Pearce, London Knowledge Lab (UK)
+     * Pavel Pecina, Charles University (Czech Republic)
+     * Scott Piao, University of Manchester (UK)
+     * Violeta Seretan, University of Geneva (Switzerland)
+     * Suzanne Stevenson, University of Toronto (Canada)
+     * Stan Szpakowicz, University of Ottawa (Canada)
+     * Beata Trawinski, University of Tuebingen (Germany)
+     * Peter Turney, National Research Council of Canada (Canada)
+     * Kiyoko Uchiyama, Keio University (Japan)
+     * Begona Villada Moiron, University of Groningen (The Netherlands)
+     * Aline Villavicencio, Federal University of Rio Grande do Sul (Brazil)
+
+Workshop chairs
+
+     * Dimitra Anastasiou, Localisation Research Centre, Limerick
+University, Ireland
+     * Chikara Hashimoto, National Institute of Information and
+Communications Technology, Japan
+     * Preslav Nakov, National University of Singapore, Singapore
+     * Su Nam Kim, University of Melbourne, Australia
+
+Contact
+
+       For any inquiries regarding the workshop please contact Dimitra
+Anastasiou (dimitra at d-anastasiou.com).
+
+On behalf of the organising committee,
+Dimitra Anastasiou
+
+
+
+
+
+
+
+
+
+-- 
+--------------------------------------------------------------------
+ SU NAM KIM
+ a Postdoctoral Research Fellow
+ Language Technology Lab. University of Melbourne
+ snkim at csse.unimelb.edu.au
+ www.csse.unimelb.edu.au/~snkim
+--------------------------------------------------------------------
+
+From Cecile.Paris at csiro.au  Thu Jan 29 11:55:17 2009
+From: Cecile.Paris at csiro.au (Cecile.Paris at csiro.au)
+Date: Thu, 29 Jan 2009 11:55:17 +1100
+Subject: [ALTA-Tech] Social Health Networks Survey: call for volunteer
+Message-ID: <1E24F8498F299B4986C854A88847244019E624CE@EXNSW-MBX01.nexus.csiro.au>
+
+
+
+Dear Colleague:
+
+We woud appreciate if you could participate and if you could send this call as appropriate.
+
+Thanks and kind regards
+Cecile Paris
+
+*************************************************************
+
+Dear colleagues,
+
+We are currently conducting a study on the use of health related social networking sites. These sites are designed to bring together users with various health concerns so that they can interact with each other for mutual benefit. We hope to gain some insight into how these sites are used, who uses them, what is useful about them as well as what might make them more useful.
+
+If you are someone who has a serious or chronic medical condition (e.g. illness, injury, mental condition, etc.) OR you are a close friend or family member of someone who fits this description we would like to invite you to participate in this online survey.
+If you can think of anyone else who might fit the criteria, please pass this on to them as well.
+
+You can access the survey from: http://rosella.wirrapoi.com/limesurvey/index.php?sid=81638&newtest=Y
+The survey is already active and will be closed in a week's time on the 1st of February.
+It is likely to take you at most 20min to complete.
+If you have any questions please contact Melody Wang (Melody.Wang at csiro.au<mailto:Melody.Wang at csiro.au>)
+
+Many thanks for your time,
+Melody Wang
+
+
+-------------------------------------
+Dr C?cile Paris
+Research Leader, ICT Centre
+CSIRO ICT Centre
+Locked Bag 17, North Ryde, NSW 1670
+
+Physical Address:
+CSIRO ICT Centre
+Building E6B, Macquarie University Campus
+North Ryde NSW 2113
+Australia
+Phone: +61 2 9325 3160
+Fax: +61 2 9325 3200
+Email: Cecile.Paris at csiro.au
+http://www<http://www/>.ict.csiro.au/InfoEngagement
+http://www<http://www/>.ict.csiro.au/staff/Cecile.Paris
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090129/788b56f5/attachment.html>
+
+From Andrew.Lampert at csiro.au  Sat Feb 14 17:34:16 2009
+From: Andrew.Lampert at csiro.au (Andrew.Lampert at csiro.au)
+Date: Sat, 14 Feb 2009 17:34:16 +1100
+Subject: [ALTA-Tech] Call For Papers: Workshop on Email in e-Commerce and
+ Enterprise Contexts (E3C)
+Message-ID: <1E24F8498F299B4986C854A8884724401ECAE76E@EXNSW-MBX01.nexus.csiro.au>
+
+Call for Papers
+
+The 1st International Workshop on
+Emails in e-Commerce and Enterprise Contexts (E3C)
+
+Held at the 11th IEEE Conference on Commerce and Enterprise Computing
+(CEC 2009)
+
+July 20th -23rd, 2009
+Vienna, Austria
+
+Workshop web site:
+http://www.infosys.tuwien.ac.at/autocompwiki/index.php/E3C
+Conference web site: http://cec2009.isis.tuwien.ac.at/
+
+
+Important Dates:
+----------------
+* Full paper submission: March 15th, 2009
+* Authors Notification: April 15th, 2009
+* Camera ready versions due: May 15th, 2009
+* Workshop: July 20, 2009
+
+
+Scope
+-----
+Despite the rise of competing technologies, email remains a crucial
+business communication tool and an important source of enterprise
+information and knowledge. According to recent surveys, (i) information
+workers spend an average of 20% of their time dealing with email, and
+(ii) about 80% of users prefer email as a business communication tool.
+In Europe, about 98.8% of enterprises are SMEs (Small and Medium
+Enterprises). With an average of 7 employees per SME, email is widely
+used by SMEs to manage tasks and cooperation in conducting their
+business. Web 2.0 and e-commerce systems also rely on email for
+notifying users about transactions, changes, services or events.
+
+Email is used for many functions, including alerting, archiving, task
+management, collaboration and interoperability. Partly due to this
+diversity of use, email is rarely a standalone information source. Email
+messages often contain pointers to files (e.g., saved attachments),
+links to resources and services on the Web, and references to other
+people. Email communication also interconnects business transactions
+with human communication, collaboration and interaction, thus providing
+a rich source of information for social and business-oriented computing.
+
+Existing email research has focused largely on topics such as
+understanding social aspects of email, email task management and user
+interaction with email. There has been little interaction between email
+research and work on enterprise computing which considers information
+from various legacy systems, business Web services, business process
+templates and documents.To effectively exploit the capability of email
+in e-commerce and enterprise contexts, in particular for SMEs, we
+foresee the need to join efforts from these different research
+communities to identify issues and share research results.
+
+The aim of this workshop is to gather email and enterprise computing
+researchers and practitioners to discuss and propose solutions for email
+in e-commerce and enterprise contexts.
+
+E3C would like to build on previous successful events such as the
+Workshop on Enhanced Messaging (EMAIL-2008) at AAAI-08.
+
+
+Research Topics
+---------------
+* Architecture for enterprise cooperation and
+   interoperability over email
+* Intelligent email for SMEs
+* Email-based business task and process management
+* Email content analysis, message summarization, information extraction
+* Semantic Email and Semantic Knowledge Extraction
+* Email social networks for enterprise computing
+* Email analysis of exchanged documents
+   for semantic alignment via negotiation
+* Email Workflow Management for Business Processes
+* Interconnection of email content and enterprise resources
+   (legacy systems, document repositories)
+* Enterprise resource mashup support for business email
+* Approaches for email visualization and
+   user interfaces in business contexts
+* Case studies
+* Business email datasets
+
+
+Workshop Format
+---------------
+We seek original research papers and demos in the workshop:
+
+Original research papers: we seek full papers (maximum of 8 pages in
+IEEE CS style). Full papers should contain original contributions not
+published or submitted elsewhere, and references to related
+state-of-the-art work. Each paper will be reviewed by a minimum of three
+reviewers.
+
+Demos: The workshop also aims at having demo submissions demonstrating
+the usefulness of email-based technologies for SMEs. Demo papers will be
+limited to 2 pages in IEEE CS style.
+
+Panel discussion and invited talk: we plan to have a panel to discuss
+the topics of the workshop. In particular, we are seeking discussion to
+understand the current status and future research on the combination of
+social aspects and enterprise computing based on email. Pending
+appropriate funding, we also plan to have an invited talk.
+
+The workshop proceedings will be published by IEEE CS, following the
+general rules of the CEC 2009.
+
+
+Paper submission
+----------------
+Papers should contain original contributions not published or submitted
+elsewhere, and references to related state-of-the-art work. Authors of
+accepted papers are expected to present their views of the field at the
+oral presentation. Full papers up to 8 pages (including figures, tables
+and references) and demo papers up to 2 pages can be submitted. Papers
+should follow the IEEE format, which is single spaced, two columns, 10
+pt Times/Roman font. Papers should include a title, the name and
+affiliation of each author, an abstract of up to 150 words and no more
+than eight keywords. Authors should also provide contact addresses, if
+different from the submitting electronic address. All submissions should
+be electronic (in PDF) and will be peer-reviewed by a minimum of three
+programm commitee members.
+
+Formatting Instructions and templates are available at
+ftp://pubftp.computer.org/Press/Outgoing/proceedings/IEEE_CS_Latex.zip
+ftp://pubftp.computer.org/press/outgoing/proceedings/instruct.doc
+
+Papers accepted for the workshop will be included in the proceedings,
+published by the IEEE Computer Society Press. Please note that each
+accepted paper should have at least one author register and present the
+paper at the workshop to get the paper published in the proceedings.
+
+To submit your paper, please log into the EasyChair's E3C 2009 webpage.
+
+
+Workshop co-chairs
+------------------
+* Michal Laclavik, Institute of Informatics SAS, Slovakia
+* Andrew Lampert, CSIRO, Australia
+* Simon Scerri, DERI, National University of Ireland Galway, Ireland
+* Hong-Linh Truong, Vienna University of Technology, Austria
+
+Contact workshop chairs at e3c09 at easychair.org
+
+
+Program Committee
+-----------------
+* Vitor R. Carvalho, Carnegie Mellon University, Microsoft Research, USA
+* Mark Dredze (to be confirmed), University of Pennsylvania, USA
+* Siegfried Handschuh, DERI, National University of Ireland Galway
+* Ladislav Hluchy, Institute of Informatics SAS, Slovakia
+* Diana Maynard, University of Shefield, UK
+* Nikolay Mehandjiev, Business School, The University of Manchester, UK
+* Uwe Riss, SAP, Germany
+* Alexander Troussov, IBM, Ireland
+* Dirk Werth, DFKI, Germany
+* Additional members pending confirmation
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090214/891e3ba6/attachment-0001.html>
+
+From diego.molla-aliod at mq.edu.au  Mon Feb 16 10:59:46 2009
+From: diego.molla-aliod at mq.edu.au (Diego Molla)
+Date: Mon, 16 Feb 2009 10:59:46 +1100
+Subject: [ALTA-Tech] Fwd: [HCSNet] HCSNet Workshop Support Program --
+ Upcoming Deadline 9th March 2009
+In-Reply-To: <E1LXknl-0000JA-Vz@syd-srv06.ezyreg.com>
+References: <E1LXknl-0000JA-Vz@syd-srv06.ezyreg.com>
+Message-ID: <4998AC72.9040801@mq.edu.au>
+
+If there is a workshop that you would like to organise and you need
+funding, check the HCSNet workshop support program.
+
+Cheers,
+
+Diego
+
+
+---------- Forwarded message ----------
+From: HCSNet <donotreply at hcsnet.edu.au>
+Date: Fri, Feb 13, 2009 at 10:17 AM
+Subject: [HCSNet] HCSNet Workshop Support Program -- Upcoming Deadline
+9th March 2009
+To: diego at ics.mq.edu.au
+
+
+
+HCSNet provides financial support of up to $20000 for the organisation
+of workshops through its Workshop Support Program. The aims of the
+Program are to push forward thinking on important topics and issues in
+Human Communication Science, and to encourage new and surprising
+intersections between disciplines, by bringing together Network
+Participants in fora that encourage discussion.
+
+Funding for workshops is allocated on the basis of competitive
+applications; the next deadline for Expressions of Interest is 9th
+March 2009.
+
+For more information on our new streamlined application process,
+please see http://www.hcsnet.edu.au/programs/workshop.
+
+Robert Dale
+HCSNet Convenor
+
+
+
+-- 
+Do you want to know what is going on in Language Technology in
+Australia and New Zealand? Join ALTA -- http://www.alta.asn.au/
+
+    This message is intended for the addressee named and may
+    contain confidential information.  If you are not the intended
+    recipient, please delete it and notify the sender.  Views expressed
+    in this message are those of the individual sender, and are not
+    necessarily the views of Macquarie University.
+
+---------------------------------------------------------------------
+Diego MOLLA ALIOD                                 diego at ics.mq.edu.au
+Department of Computing               http://www.ics.mq.edu.au/~diego
+Macquarie University
+
+From H.vandenHeuvel at let.ru.nl  Wed Feb 18 20:41:03 2009
+From: H.vandenHeuvel at let.ru.nl (Henk van den Heuvel)
+Date: Wed, 18 Feb 2009 10:41:03 +0100
+Subject: [ALTA-Tech] PhD position at CLST, Radboud University Nijmegen
+In-Reply-To: <a35e84b20902180140i1aa3e9du7f564088e9f8f3a9@mail.gmail.com>
+References: <a35e84b20902180140i1aa3e9du7f564088e9f8f3a9@mail.gmail.com>
+Message-ID: <a35e84b20902180141n2b10fb00k2a457813d0ad3dd0@mail.gmail.com>
+
+*PhD 'Topic and Speaker Tracking in Broadcast Archives' (1.0 fte)*
+
+
+
+
+
+*Faculty of Arts*
+
+*Vacancy number: 23.08.09*
+
+*Extended closing date: 8 March 2009*
+
+
+
+*Job description*
+
+In the project BATS (Topic and Speaker Tracking in Broadcast Archives) we
+have an opening for a PhD position in audio mining and spoken document
+retrieval.  The project aims at making it possible to search in audio/visual
+archives, as is currently possible in searching for written documents on the
+web.  The approach is to use speech technology tools such as speech and
+speaker recognition to automatically transcribe and label the data in the
+archives, and then apply text retrieval techniques to disclose the archive.
+The doctoral research will focus on two techniques: topic detection, based
+on speech recognition and word spotting techniques; and speaker detection,
+based on a combination of the voice characteristics of the speaker and the
+contents of the speech.  Apart from working on state-of-the-art technology,
+the research will involve development and assessment of a prototype search
+environment, with a focus on iterative, or refined, search strategies.  The
+project will be carried out in close collaboration with the Catholic
+University of Leuven (Prof. H. Van hamme). The PhD thesis will consist of a
+collection of journal papers about the research subjects mentioned above.
+
+
+
+*Requirements*:
+
+The successful candidate must have a strong background in computer science,
+pattern recognition and/or signal processing. In addition, he/she must have
+an interest in human factors issues and user interface design. Good
+communication skills in English are essential, as well as a good record of
+collaboration in teams. Candidates must be authorized to work in the EU.
+
+
+
+*Organization*
+
+The Faculty of Arts consists of eleven departments in the area of language
+and culture, history, history of arts, linguistics and business
+communication, which together cater for about 2,700 students and collaborate
+closely in teaching and research. The PhD student will work in an inspiring
+environment as a member of an international and interdisciplinary team with
+representatives from the universities of Nijmegen and Leuven as well as the
+Flemish Broadcast Organisation, which offers excellent career perspectives
+in academia and industry.
+
+
+
+*Conditions of employment*
+
+The total duration of the contract is 3.5 years. The PhD student will
+receive an initial contract for the duration of 18 months with the
+possibility of prolongation for another 2 years.
+
+
+
+Informal inquiries should be made to Prof Dr David van Leeuwen (*T* +31
+(0)346 356235; *E* d.vanleeuwen at let.ru.nl) or prof. dr Lou Boves (*T* +31
+(0)24 361 2902; *E* L.Boves at let.ru.nl).
+
+
+
+*Additional information*
+
+The starting gross salary is ? 2.000 per month based on a full-time
+employment.
+
+Preferable starting date: April 2008.
+
+
+
+An elaborate description of the project plan (in Dutch) or a summary
+description (in English) can be obtained upon request. Please ask Hella
+Jooren (h.jooren at let.ru.nl).
+
+
+
+
+
+*Application letters, including extensive CV and MA thesis and the names of
+at least two references, *(with vacancy number: 23.08.09, preferably by
+e-mail) *can be sent to:*
+
+
+
+Radboud University Nijmegen, Faculty of Arts,
+
+Department of Human Resources, attn. of Ms. A. Graat
+
+P.O. Box 9103, 6500 HD Nijmegen, the Netherlands
+
+E-mail: vacatures at let.ru.nl
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090218/d120a489/attachment.html>
+
+From diego.molla-aliod at mq.edu.au  Tue Feb 24 18:06:07 2009
+From: diego.molla-aliod at mq.edu.au (Diego Molla-Aliod)
+Date: Tue, 24 Feb 2009 18:06:07 +1100
+Subject: [ALTA-Tech] NGS09 - Call for Abstracts
+Message-ID: <8807e0a90902232306p40a9f85di7007ec7b8db5d2c5@mail.gmail.com>
+
+Please distribute the following announcement and consider
+participating. If you're interested in participating please let me
+know by 2nd March so that we have an idea of the likely numbers.
+
+
+				NGS09
+
+		    Fourth Workshop of the HCSNet
+
+	   Next-Generation Search Technology Priority Area
+
+	 http://www.hcsnet.edu.au/priorityareas/nextgensearch
+
+
+Date:	   16-17 April 2009
+Location:  Jembi-Rinjah Eco-Lodge, Blue Mountains, NSW
+
+Contact:   Diego Molla,	Diego.Molla-Aliod at mq.edu.au
+	   Robert Dale,	Robert.Dale at mq.edu.au
+
+
+CALL FOR EXPRESSIONS OF INTEREST AND ABSTRACTS
+
+
+Search for information is an ever increasingly important and complex
+task. The first retrieval systems effectively treated documents as
+bags of words, and this is still the main approach in current
+systems. Yet the human processing of information makes use of a much
+deeper understanding of text than these systems exhibit. Is there a
+way to combine the computing power of machines with the sophisticated
+processing of humans? In addition, there has been an explosion of
+information available digitally in a wide range of media including
+audio and video. How can we extend current technology to find
+information in all available media?
+
+This workshop is fourth in a series that aims to strengthen
+collaboration among researchers and developers in all areas related to
+search technology. In this last year of HCSNet funding support, we
+would like to place the emphasis in this workshop on 'where next?'.
+Accordingly, the event will take place in a secluded location in the
+Blue Mountains, providing scope for uninterrupted discussions and
+contemplation.  We particularly welcome submissions which sketch
+personal views of where research in search should go in the coming
+years, and how interdisciplinary approaches to research might
+encourage developments.
+
+The workshop will run from the afternoon of the first day to noon of
+the second day, and there will be evening activities to complement the
+day presentations.
+
+
+AUDIENCE
+
+The goal of the workshop is to gather people from all areas of
+research, development and industry. We welcome people from academia
+and industry with interest in any area related to innovative methods
+for search, including but not limited to the following:
+
+    * Cognitive Science
+    * Natural language Processing and Language Technology
+    * Information Retrieval
+    * Human-computer Interaction
+    * Data Mining
+    * Formal Syntax and Morphology
+    * Formal Semantics
+    * Conversational and Discourse Analysis
+    * Philosophy of Language
+
+
+WORKSHOP FORMAT
+
+The workshop will consist of a number of presentations during the day
+and special activities during the evening. The day presentations will
+be:
+
+    * 20-minute presentations that describe a new project or specific
+      idea to be shared with the community, with the aim of fomenting
+      discussion; and
+
+    * 2-minute poster boosters for those bringing a poster.
+
+As evening activities we envisage group activities and discussion
+sessions.
+
+SUBMISSIONS
+
+We plan to bundle accommodation and venue and we need an accurate
+estimate of the number of people who plan to attend. We therefore ask
+those interested in participating to email diego.molla-aliod at mq.edu.au
+indicating the names of people who plan to attend BY MONDAY 2 MARCH
+FEBRUARY.
+
+In addition, submit a brief abstract of 100-150 words in length and a
+paragraph with research interests BY THURSDAY 5 MARCH. Please send the
+submissions by using the submission form at the workshop webpage (link
+at the top of this call).
+
+
+FUNDING
+
+HCSNet will fund accommodation and train fare from Sydney to
+BlackHeath for all participants. In addition, HCSNet fill fund $300
+towards the cost of the air ticket for a number of participants from
+outside the Sydney area. The provision of a submission as described
+above is a prerequisite for funding. If not all participants can be
+covered, funding grants may be allocated based on the relevance of
+your abstract to the workshop theme; also, students and early career
+researchers (in HCSNet terms, those who have received their PhDs in
+the last fifteen years) will have priority.
+
+Note that, although attendance at the workshop is free, membership of
+HCSNet and registration for this workshop are required in advance of
+the event.
+
+Since we intend to book out the entire lodge, it is possible that
+there may be space available for family and friends; if you are
+interested in this possibility please let the organisers know as soon
+as possible. Note that accommodation and travel costs for those who
+are not taking part in the workshop cannot be covered.
+
+
+IMPORTANT DATES
+
+    * Email of Expressions
+      of Interest:	       2 March 2009
+    * Submission of Abstracts: 5 March 2009
+    * Notification of Awards: 12 March 2009
+    * Workshop:               16 April 2009
+
+CONTACT
+
+Diego Molla-Aliod	Diego.Molla-Aliod at mq.edu.au
+Robert Dale		Robert.Dale at mq.edu.au
+
+
+
+-- 
+Do you want to know what is going on in Language Technology in
+Australia and New Zealand? Join ALTA -- http://www.alta.asn.au/
+
+  This message is intended for the addressee named and may
+  contain confidential information.  If you are not the intended
+  recipient, please delete it and notify the sender.  Views expressed
+  in this message are those of the individual sender, and are not
+  necessarily the views of Macquarie University.
+---------------------------------------------------------------------
+Diego MOLLA ALIOD                                 diego at ics.mq.edu.au
+Department of Computing               http://www.ics.mq.edu.au/~diego
+Macquarie University
+Sent from: Sydney New South Wales Australia.
+
+From diego.molla-aliod at mq.edu.au  Wed Mar  4 15:42:25 2009
+From: diego.molla-aliod at mq.edu.au (Diego Molla-Aliod)
+Date: Wed, 4 Mar 2009 15:42:25 +1100
+Subject: [ALTA-Tech] NGS09 - Call for Abstracts
+Message-ID: <8807e0a90903032042i3b32843fs65664cb0a481927e@mail.gmail.com>
+
+				NGS09
+
+		    Fourth Workshop of the HCSNet
+
+	   Next-Generation Search Technology Priority Area
+
+	 http://www.hcsnet.edu.au/priorityareas/nextgensearch
+
+
+Date:	   16-17 April 2009
+Location:  Jembi-Rinjah Eco-Lodge, Blue Mountains, NSW
+
+Contact:   Diego Molla,	Diego.Molla-Aliod at mq.edu.au
+	   Robert Dale,	Robert.Dale at mq.edu.au
+
+
+CALL FOR ABSTRACTS
+
+
+Search for information is an ever increasingly important and complex
+task. The first retrieval systems effectively treated documents as
+bags of words, and this is still the main approach in current
+systems. Yet the human processing of information makes use of a much
+deeper understanding of text than these systems exhibit. Is there a
+way to combine the computing power of machines with the sophisticated
+processing of humans? In addition, there has been an explosion of
+information available digitally in a wide range of media including
+audio and video. How can we extend current technology to find
+information in all available media?
+
+This workshop is fourth in a series that aims to strengthen
+collaboration among researchers and developers in all areas related to
+search technology. In this last year of HCSNet funding support, we
+would like to place the emphasis in this workshop on 'where next?'.
+Accordingly, the event will take place in a secluded location in the
+Blue Mountains, providing scope for uninterrupted discussions and
+contemplation.  We particularly welcome submissions which sketch
+personal views of where research in search should go in the coming
+years, and how interdisciplinary approaches to research might
+encourage developments.
+
+The workshop will run from the afternoon of the first day to noon of
+the second day, and there will be evening activities to complement the
+day presentations.
+
+
+AUDIENCE
+
+The goal of the workshop is to gather people from all areas of
+research, development and industry. We welcome people from academia
+and industry with interest in any area related to innovative methods
+for search, including but not limited to the following:
+
+    * Cognitive Science
+    * Natural language Processing and Language Technology
+    * Information Retrieval
+    * Human-computer Interaction
+    * Data Mining
+    * Formal Syntax and Morphology
+    * Formal Semantics
+    * Conversational and Discourse Analysis
+    * Philosophy of Language
+
+
+WORKSHOP FORMAT
+
+The workshop will consist of a number of presentations during the day
+and special activities during the evening. The day presentations will
+be:
+
+    * 20-minute presentations that describe a new project or specific
+      idea to be shared with the community, with the aim of fomenting
+      discussion; and
+
+    * 2-minute poster boosters for those bringing a poster.
+
+As evening activities we envisage group activities and discussion
+sessions.
+
+SUBMISSIONS
+
+Submit a brief abstract of 100-150 words in length and a paragraph
+with research interests BY FRIDAY 5 MARCH. Please send the submissions
+by using the submission form at the workshop webpage (link at the top
+of this call).
+
+
+FUNDING
+
+HCSNet will fund accommodation and train fare from Sydney to
+BlackHeath for all presenters (one presenter per presentation). In
+addition, HCSNet fill fund $300 towards the cost of the air ticket for
+a number of presenters from outside the Sydney area. The provision of
+a submission as described above is a prerequisite for funding. If not
+all presenters can be covered, funding grants may be allocated based
+on the relevance of your abstract to the workshop theme; also,
+students and early career researchers (in HCSNet terms, those who have
+received their PhDs in the last fifteen years) will have priority.
+
+Note that, although attendance at the workshop is free, membership of
+HCSNet and registration for this workshop are required in advance of
+the event.
+
+Since we intend to book out the entire lodge, it is possible that
+there may be space available for family and friends; if you are
+interested in this possibility please let the organisers know as soon
+as possible. Note that accommodation and travel costs for those who
+are not presenting cannot be covered.
+
+
+IMPORTANT DATES
+
+    * Submission of Abstracts: 6 March 2009
+    * Notification of Awards: 12 March 2009
+    * Registration:           20 March 2009
+    * Workshop:               16 April 2009
+
+CONTACT
+
+Diego Molla-Aliod	Diego.Molla-Aliod at mq.edu.au
+Robert Dale		Robert.Dale at mq.edu.au
+
+
+
+-- 
+Do you want to know what is going on in Language Technology in
+Australia and New Zealand? Join ALTA -- http://www.alta.asn.au/
+
+  This message is intended for the addressee named and may
+  contain confidential information.  If you are not the intended
+  recipient, please delete it and notify the sender.  Views expressed
+  in this message are those of the individual sender, and are not
+  necessarily the views of Macquarie University.
+---------------------------------------------------------------------
+Diego MOLLA ALIOD                                 diego at ics.mq.edu.au
+Department of Computing               http://www.ics.mq.edu.au/~diego
+Macquarie University
+Sent from: Sydney New South Wales Australia.
+
+From alta-tech at alta.asn.au  Fri Mar 13 13:38:08 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Fri, 13 Mar 2009 13:38:08 +1100 (EST)
+Subject: [ALTA-Tech] EACL 2009 Workshop on the Linguistics and Computational
+ Linguistics: Final Call for Participation
+Message-ID: <20090313.133808.641421205568362675.tim@csse.unimelb.edu.au>
+
+# Apologies for cross-postings
+
+
+
+			 Final Call for Participation
+
+				       
+			      EACL 2009 Workshop
+				    on the
+			     Interaction between
+		  Linguistics and Computational Linguistics:
+			Virtuous, Vicious or Vacuous?
+
+
+				March 30, 2009
+
+				Athens, Greece
+
+		 http://www.cs.mu.oz.au/~tim/events/eacl2009/
+
+
+
+
+NEW: We are pleased to announce that the workshop will be webcast live on the
+day. We will post technical details on the website closer to the date of the
+workshop.
+
+
+
+Deadline for pre-registration: March 23, 2009 (http://www.eacl2009.gr/conference/registration)
+
+
+
+We are delighted to announce this unique event, bringing together a formidable
+group of invited speakers and panelists to explore the interaction between
+linguistics and computational linguistics. Join us to reflect on the past,
+present and future of the linguistics--computational linguistics interface,
+and explore the nature of the relationship between the two fields: virtuous,
+vicious or vacuous.
+
+
+Invited Speakers:
+
+  Mark Johnson (Brown University, USA)
+  Frank Keller (University of Edinburgh, UK)
+  Mark Liberman (University of Pennsylvania, USA)
+  Stelios Piperidis (Institute for Language and Speech Processing, Greece)
+  Geoffrey Pullum (University of Edinburgh, UK)
+
+Panelists:
+
+  Emily Bender (University of Washington, USA)
+  Gregor Erbach (European Union)
+  Bob Moore (Microsoft Research, USA)
+  Gertjan van Noord (University of Groningen, Netherlands)
+  Hans Uszkoreit (Saarland University, Germany)
+
+
+The programme for the workshop and talk titles have now been finalised, and
+are detailed on the workshop web page.
+
+
+Overview:
+
+This workshop is an attempt to bring together linguists and computational
+linguists across the broad spectrum of the two fields who operate across or
+near the computational "divide", to reflect on the relationship between the
+two fields, including the following questions:
+
+  * What contributions has computational linguistics made to linguistics, and
+    vice versa?
+
+  * What are examples of success/failure of marrying linguistics and
+    computational linguistics, and what can we learn from them?
+
+  * How can we better facilitate the virtuous cycle between computational
+    linguistics and linguistics?
+
+  * Is modern-day computational linguistics relevant to current-day
+    linguistics, and vice versa? If not, should it be made more relevant, and
+    how?
+
+  * What do computational and core linguistics stand to gain from greater
+    cross-awareness between the two fields?
+
+  * What untapped areas/aspects of linguistics are ripe for
+    cross-fertilisation with computational linguistics, and vice versa?
+
+On the basis of exploring answers to these and other questions, the workshop
+aims to explore possible trajectories for linguistics and computational
+linguistics, in terms of both concrete low-level tasks and high-level
+aspirations/synergies.
+
+
+Background:
+
+In its infancy, computational linguistics drew heavily on theoretical
+linguistics. There have been numerous examples of co-development successes
+between computational and theoretical linguistics over the years
+(e.g. syntactic theories, discourse processing and language resource
+development), and significant crossover with other areas of linguistics such
+as psycholinguistics and corpus linguistics.
+
+Throughout the history of the field, however, there has always been a subset
+of computational linguistics which has openly distanced itself from
+theoretical linguistics, perhaps most famously in the field of machine
+translation (MT) where there is relatively little in the majority of
+"successful" MT systems that a core linguist would identify with. In the
+current climate of hard-core empiricism within computational linguistics it is
+appropriate to reflect on where we have come from and where we are headed
+relative to the various other fields of linguistics. As part of this
+reflection, it is timely to look beyond theoretical linguistics to the various
+other fields of linguistics which have traditionally received less exposure in
+computational linguistics, including sociolinguistics, historical linguistics,
+neurolinguistics and evolutionary linguistics.  
+
+
+Target Audience:
+
+The workshop is intended to be of interest to both the large numbers of people
+interested in deep linguistic processing (e.g. grammar developers,
+computational syntacticians, computational semanticists, researchers working
+on parsing and generation, and researchers applying deep linguistic processing
+in various application areas), but also those who have perhaps explicitly
+distanced themselves from linguistics, or who come from a linguistic
+background but have moved away from it in their computational linguist
+research. We also strongly encourage (pure) linguists to come along.
+
+
+Workshop Organisers:
+
+  Timothy Baldwin (University of Melbourne)
+  Valia Kordoni (DFKI and Saarland University)
+
+The workshop is endorsed by the Erasmus Mundus European Masters Program in
+Language and Communication Technologies (LCT).
+
+
+Address any queries regarding the workshop to:
+
+  eacl2009-ling at unimelb.edu.au
+
+From alta-tech at alta.asn.au  Fri May 15 04:40:05 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Fri, 15 May 2009 04:40:05 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.101.1242326405.5410.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+
+- Unprocessed:
+    Visit us: 
+    www.uinfvpdo.cn
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: Rolex, Cartier, Breitling all less than $99
+Date: Thu, 14 May 2009 12:22:31 -0500
+Size: 1122
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090515/6fce1f76/attachment.mht>
+
+From alta-tech at alta.asn.au  Fri May 15 17:25:13 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Fri, 15 May 2009 17:25:13 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.415.1242372313.5410.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+
+- Unprocessed:
+    - Bedazzle her with the most affordable necklace
+    Visit us: 
+    http://cpjoooi.cn/
+    best regards Lizzie Guevara
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: Updated 2009 brand models now available
+Date: Fri, 15 May 2009 00:24:12 -0800
+Size: 941
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090515/919271ce/attachment.mht>
+
+From alta-tech at alta.asn.au  Wed May 20 09:52:29 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Wed, 20 May 2009 09:52:29 +1000
+Subject: [ALTA-Tech] Fwd: 2nd International Conference on Music
+	Communication Science (ICoMCS2): 3-4 December, 2009, Sydney,
+	Australia
+In-Reply-To: <C6389136.9178%kj.stevens@uws.edu.au>
+References: <C6388F3E.9173%kj.stevens@uws.edu.au>
+	<C6389136.9178%kj.stevens@uws.edu.au>
+Message-ID: <8807e0a90905191652p57f62692t27e5082fb6241349@mail.gmail.com>
+
+- Please distribute -
+
+CALL FOR PAPERS
+2nd International Conference on Music Communication Science (ICoMCS2)
+3-4 December, 2009, Sydney, Australia
+http://marcs.uws.edu.au/links/ICoMusic09/index.html
+
+The 2nd International Conference on Music Communication Science (ICoMCS2)
+will bring together people interested in an interdisciplinary understanding
+or application of music cognition, perception, action, performance, and
+communication. ?ICoMCS2 follows the successful inaugural conference held in
+2007 (http://marcs.uws.edu.au/links/ICoMusic/program.html) and is organised
+jointly by the Australian Music & Psychology Society (AMPS -
+http://marcs.uws.edu.au/links/amps/index.htm) and HCSNet ? the ARC Network
+in Human Communication Science (http://www.hcsnet.edu.au).
+
+ICoMCS2 will be held in Sydney during the week-long HCSNet SummerFest
+(http://www.hcsnet.edu.au/summerfest09) with HCSNet summer school courses
+linked to ICoMCS2.
+
+ICoMCS2 will attract people from all walks of research and performance life,
+including musicologists, psychologists, educators, linguists,
+ethnomusicologists, composers, engineers, computer scientists, speech
+scientists, physicists, philosophers and performance artists.
+
+Papers reporting research concerning music communication in its various
+forms are invited. Broad topic areas include music performance, music
+perception, music cognition, intermodal processes, music information
+retrieval, audio-visual search and retrieval, music and language,
+evolutionary accounts of music and speech, generative systems, amusia,
+dystonia, music education, ethnomusicology, music therapy, sonification,
+spatialization and 3D audio, musical interfaces, digital media, interactive
+arts, psychophysics, and psychoacoustics.
+
+We also encourage submissions for performance and installation sessions.
+Ensembles and individuals with performance programs of less than 10 minutes
+are invited to submit an abstract or full paper of their work.
+
+Submissions will be accepted in two streams. You may submit either a full
+(four page) paper or an abstract of a paper for presentation. ?Full papers
+will be reviewed by the international scientific program committee and
+clearly identified separately in the conference proceedings. ?Papers and
+symposium proposals with an interdisciplinary theme are welcome; papers from
+student researchers are strongly encouraged.
+
+ICoMCS2 IMPORTANT DATES 2009
+Monday, July 13: Submission of abstract, symposium proposal or full paper
+for review
+Monday, August 24: Notification of Acceptance
+Monday, September 21: Registrations open, camera ready versions (for full
+papers) due
+Mon-Fri 30 Nov-4 Dec: HCSNet SummerFest including Summer Schools
+Thurs-Fri 3-4 Dec: ?ICoMCS2 (during HCSNet SummerFest)
+
+CONFERENCE LOCATION
+The conference will be held at the Kensington campus of the University of
+New South Wales in Sydney, Australia
+(www.facilities.unsw.edu.au/Maps/maps.html
+<http://www.facilities.unsw.edu.au/Maps/maps.html> ) during the southern
+summer from Thursday 3 to Friday 4 December 2009.
+
+WEB SITE
+For all information relating to the conference, including details of
+submission formats, go to the ICoMCS2 web site
+http://marcs.uws.edu.au/links/ICoMusic09/index.html.
+
+We hope to see you at ICoMCS2 December 3-4 in Sydney! ?Best wishes,
+
+Kate Stevens, Emery Schubert, and the ICoMCS2 Organising Committee
+--
+Assoc Prof Kate Stevens
+Assoc Head, School of Psychology (Academic) &
+Assoc Director, Music, Sound, & Action: MARCS Auditory Laboratories
+University of Western Sydney - Bankstown
+
+Post: Locked Bag 1797 South Penrith 1797 Australia
+Street: Bldg 1 Rm G.132, Bullecourt Ave, Milperra
+Phone: +612 9772 6324; ?Fax: +612 9772 6040
+
+MARCS: http://marcs.uws.edu.au
+AMPS: ?http://marcs.uws.edu.au/links/amps/index.htm
+--
+
+
+
+
+-- 
+Do you want to know what is going on in Language Technology in
+Australia and New Zealand? Join ALTA -- http://www.alta.asn.au/
+
+  This message is intended for the addressee named and may
+  contain confidential information.  If you are not the intended
+  recipient, please delete it and notify the sender.  Views expressed
+  in this message are those of the individual sender, and are not
+  necessarily the views of Macquarie University.
+---------------------------------------------------------------------
+Diego MOLLA ALIOD                                 diego at ics.mq.edu.au
+Department of Computing               http://www.ics.mq.edu.au/~diego
+Macquarie University
+Sent from Sydney, Nsw, Australia
+
+From alta-tech at alta.asn.au  Wed May 20 15:36:48 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Wed, 20 May 2009 15:36:48 +1000
+Subject: [ALTA-Tech] Call for Abstracts: HCSNet Hands-on Workshop on Mashups
+	for Human Communication Science
+Message-ID: <8807e0a90905192236y59147144l731991573582e685@mail.gmail.com>
+
+HCSNet Hands-on Workshop on Mashups for Human Communication Science
+
+		27-28 July 2009, Macquarie University
+
+	     http://www.hcsnet.edu.au/workshops/mashups09
+
+
+A Joint Workshop between the HCSNet Priority Areas of:
+
+  - Next-Generation Search Technology
+
+  - Effective Interfaces
+
+
+CALL FOR ABSTRACTS
+
+Mashups are all about presenting information from various sources in
+an integrated Web application. While early experiments with
+multimedia-multiweb application integration were done by savvy
+programmers who would effectively decode yet unpublished APIs of
+applications such as Google Maps, currently there is a wide range of
+software platforms for the development of mashups, and building a
+mashup is becoming increasingly easier by everyone. In this hands-on
+workshop, experts from leading mash-up development technologies will
+introduce their products and then groups will be formed to build
+mash-ups on the spot. Emphasis will be given to mashups related to
+HCSNet's Priority Areas.
+
+
+KEYNOTE PRESENTATIONS
+
+There will be presentations by the following people:
+
+* Amanda Millar, coordinator of Yahoo! 7 Australia Open Sessions;
+
+* Pamela Fox, from the Google Geo APIs team; and
+
+* James Hogan, from Queensland University of Technology.
+
+
+AUDIENCE
+
+The goal of the workshop is to introduce mashup technology to all
+people interested in using it for topics related with any of HCSNet's
+Priority Areas. We welcome people from academia and industry with
+interest in any of those areas:
+
+ - Speech
+
+ - Effective Interfaces
+
+ - Next-Generation Search Technology
+
+ - Human Communication Disorders
+
+ - Perception and Action
+
+This workshop is especially suited for students, researchers and
+developers who want to apply this new technology to their projects.
+
+
+WORKSHOP FORMAT
+
+The workshop will run over two days. The central component of the
+workshop will take place in PC labs with all the software required to
+build mashups, and with technical assistance. There will be extensive
+tutorials and presentations by experts in mashups, and the workshop
+will conclude with presentations of the mashups built over the two
+days.
+
+
+SUBMISSIONS
+
+Submit a brief abstract of 100-150 words in length indicating the
+reasons why you are interested in participating in this workshop and a
+topic on which you would like to develop a mashup, and a paragraph
+with research interests BY MONDAY 15 JUNE. Please send the submissions
+by using the submission form at the workshop webpage (see the link at
+the top of this call)
+
+
+FUNDING
+
+HCSNet will fund travel and accommodation to a maximum of $500 for a
+number of participants from outside the Sydney area. The provision of
+a submission as described above is a prerequisite for funding. If not
+all participants can be covered, funding grants may be allocated based
+on the relevance of your abstract to the workshop; also, early career
+researchers (in HCSNet terms, those who have received their PhDs in
+the last fifteen years) will have priority.
+
+In addition, 10 student travel awards will be available for
+postgraduate students outside the Sydney area.
+
+Note that, although attendance at the workshop is free, prior
+registrations to HCSNet and this workshop are required.
+
+Undergraduate and postgraduate students from Macquarie University can
+attend the workshop without prior registration to HCSNet and they must
+register to the workshop using a separate registration process (TBA).
+
+
+IMPORTANT DATES
+
+    * Submission of Abstracts: 15 June 2009
+    * Notification of Awards:  22 June 2009
+    * Registration:            13 July 2009
+    * Workshop:                27-28 July 2009
+
+
+CONTACT
+
+Diego Molla-Aliod	Diego.Molla-Aliod at mq.edu.au
+Lawrence Cavedon	lawrence.cavedon at rmit.edu.au
+
+
+-- 
+Do you want to know what is going on in Language Technology in
+Australia and New Zealand? Join ALTA -- http://www.alta.asn.au/
+
+  This message is intended for the addressee named and may
+  contain confidential information.  If you are not the intended
+  recipient, please delete it and notify the sender.  Views expressed
+  in this message are those of the individual sender, and are not
+  necessarily the views of Macquarie University.
+---------------------------------------------------------------------
+Diego MOLLA ALIOD                                 diego at ics.mq.edu.au
+Department of Computing               http://www.ics.mq.edu.au/~diego
+Macquarie University
+Sent from Sydney, Nsw, Australia
+
+From alta-tech at alta.asn.au  Fri May 22 08:56:07 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Fri, 22 May 2009 08:56:07 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.169.1242946567.26735.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+- Results:
+    Ignoring non-text/plain MIME parts
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: Get The Weight loss trial while the supplies last
+Date: Thu, 21 May 2009 19:55:43 -0300
+Size: 4477
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090522/6ddbad7f/attachment.mht>
+
+From alta-tech at alta.asn.au  Tue May 26 14:19:02 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Tue, 26 May 2009 14:19:02 +1000
+Subject: [ALTA-Tech] Call for Abstracts: HCSNet Workshop on Social
+ Technologies Applications for Health and Medicine, August 20-21 2009,
+ Melbourne
+Message-ID: <1E24F8498F299B4986C854A88847244028F42CDD@EXNSW-MBX01.nexus.csiro.au>
+
+HCSNet Workshop on Social Technologies Applications for Health and Medicine
+Thurs/Friday, August 20-21 2009, Melbourne (Australia)
+http://www.hcsnet.edu.au/node/3103
+                             
+Call for Submissions and Participation
+ 
+Description
+ 
+A great deal of research supports the belief that social interactions affect 
+people?s health in various ways. Online communities have added a relatively 
+new dimension to the lives of many people. This workshop aims to bring together 
+a group of researchers and practitioners from medical, social and information 
+technology communities to understand how social technologies might be used to 
+support health and health initiatives: e.g. supporting people, their families 
+and their communities in managing health; building and supporting communities 
+of health workers and medical practitioners for improved communication and 
+information sharing; allowing communities of health stakeholders (policy makers, 
+practitioners, the public) to develop effective health-related policies and 
+initiatives.
+ 
+We intend this workshop to be a place to foster communication across the 
+relevant disciplines in order to design and develop effective tools and user 
+experience  to support online health communities.
+ 
+This workshop will be held close (in time) to CollabTech 2009 (The Fifth 
+International Conference on Collaboration Technologies 2009), which is being 
+held in Sydney, August 12-14, 2009 (http://www.collabtech.org/).   This will 
+provide opportunities for participants (especially from overseas) to attend 
+both events to exchange ideas and experiences.  
+Audience
+We hope to attract a multidisciplinary range of researchers and practitioners 
+from the medical, social and information technology communities working in 
+areas such as health, social science, and online communities related to health.
+ 
+Issues of interest may include:
+* support for patients vs. support for carers
+* tools for developing online communities
+* designing effective user experience for online patient communities
+* strategies for building online health communities and developing long-term 
+engagement
+* motivating information-sharing, content development, and contribution to policy
+* health education and policy development: developing trusted content
+* tailoring health information
+* methods/techniques to provide motivational support
+* trust, ethics, and related issues in online health-related communities
+ 
+Event Format
+ 
+The workshop will be held over two days, on Thursday August 20th and 
+Friday August 21st, 2009, in the Melbourne area (precise location to be determined).
+The workshop will include invited speakers (including a HCSNet-supported 
+international presenter), presentations from participants and interested parties, 
+workshopping and development of ideas, and plenty of time for discussion.  
+Submission instructions are given below.
+ 
+Event Outcomes
+ 
+We hope the workshop will help the community to build a collective 
+understanding about online health and medical communities: from the health 
+perspective, what support can a social network provide; from the social 
+network community, how can they provide that support; overall, how can 
+such systems be deployed, evaluated and adopted. We also hope that the 
+workshop will build bridges across the communities (health and social 
+networks), and even generate a sustained interest and community around this 
+area. We envisage this workshop to be the first of a series.
+ 
+Submission Format
+ 
+Interested participants are invited to submit a position statements 
+(about 300 words) describing their interest in the area of health/medical 
+online communities, along with a short biography.
+ 
+Submission is via the online submission page: 
+http://www.hcsnet.edu.au/node/add/submission/3103.
+ 
+Note that to make a submission (or to qualify for free attendance) you need to 
+sign up to the HCSNet community 2 months before the event (it?s free!); you can 
+register for HCSNet at (http://www.hcsnet.edu.au/user/register).
+ 
+Submissions deadline:  10th July, 2009
+ 
+Publication
+ 
+Submitted abstracts will be published online and also distributed to participants. 
+We are planning to solicit long articles after the workshop to capture the work in 
+workshop proceedings.
+ 
+Registration Information
+ 
+Registration for the workshop is free for HCSNet members that have signed up to HCSNet 
+2 months in advance of the event. For non-HCSNet members registration is $50 per day. 
+For members and non-members please follow the link below to register once registration 
+has opened.
+ 
+Registration deadline: Friday 31st July 2009
+ 
+Travel Grants
+ 
+HCSNet will fund a number of travel grants to help cover the costs of travel and 
+accommodation for participants from outside the Melbourne area. HCSNet has also 
+approved a Student Support Grant to enable students to participate. The provision of 
+a submission as described above is a prerequisite for funding. If not all participants 
+can be covered, funding grants will be allocated based on the relevance of your abstract 
+to the workshop theme; also, students and early career researchers (in HCSNet terms,
+those who have received their PhDs in the last fifteen years) will have priority.
+ 
+Please ensure that you indicate at time of submission if you wish to be considered for a travel grant.
+
+Important Dates
+* Submissions deadline: Friday 10th July 2009
+* Notification re: travel grants: Monday 27th July 2009
+* Registration deadline:  Friday 31st July 2009
+* Workshop: Thursday August 20th to Friday August 21st, 2009
+ 
+Organisers
+ 
+Dr Lawrence Cavedon, RMIT University and NICTA
+Dr Nathalie Colineau, CSIRO ICT Centre
+Dr Cecile Paris, CSIRO ICT Centre
+ 
+Further information
+ 
+Queries regarding the workshop can be sent to Nathalie Colineau at Nathalie.Colineau [AT] csiro.au.
+Contact Lawrence Cavedon, at lawrence.cavedon [AT] rmit.edu.au   for queries related to HCSNet.
+ 
+About HCSNet
+ 
+HCSNet (http://www.hcsnet.edu.au) is the ARC Research Network in Human Communication Science, 
+and promotes interdisciplinary research in speech, language, and sonics.
+ 
+
+From alta-tech at alta.asn.au  Wed May 27 04:32:41 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Wed, 27 May 2009 04:32:41 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.60.1243362761.27770.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+
+- Unprocessed:
+    best regards Aaron Murillo
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: Acai Berry diet will change your life , get your free sample now.
+Date: Tue, 26 May 2009 12:34:23 -0300
+Size: 886
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090527/03dfb3cd/attachment.mht>
+
+From alta-tech at alta.asn.au  Wed May 27 04:33:51 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Wed, 27 May 2009 04:33:51 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.65.1243362831.27770.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+
+- Unprocessed:
+    best regards Betty Mitchell
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: The Key to great sleep ,  Try Acai Berry.
+Date: Tue, 26 May 2009 12:43:23 -0300
+Size: 891
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090527/e3d8a992/attachment.mht>
+
+From alta-tech at alta.asn.au  Sat May 30 10:46:25 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Sat, 30 May 2009 10:46:25 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.722.1243644385.23447.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+- Results:
+    Ignoring non-text/plain MIME parts
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: your free trial for a skinny tight body
+Date: Fri, 29 May 2009 17:46:09 -0700
+Size: 4359
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090530/5bc85c37/attachment.mht>
+
+From alta-tech at alta.asn.au  Sat May 30 10:50:22 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Sat, 30 May 2009 10:50:22 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.727.1243644622.23447.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+- Results:
+    Ignoring non-text/plain MIME parts
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: Acai Slim, the all naturaly balanced way to lose weight. 
+Date: Sat, 30 May 2009 02:49:43 +0100
+Size: 4362
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090530/ec5fa1dd/attachment.mht>
+
+From alta-tech at alta.asn.au  Thu Jun  4 01:12:57 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Thu, 04 Jun 2009 01:12:57 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.346.1244041977.23990.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+
+- Unprocessed:
+    Count on Acai Berry fruit to maintain a healthy body.
+    --------------------------------------
+    Acai Power Slim -- The newest and most exciting fat loss product available - As seen on Oprah! Real testimonials: "I was originally amazed that the first two pills I took of Acai Power Slim, almost immediately took my cravings away. Now 4 weeks later, 3 belt holes later, I have become an advocate for this awesomely powerful, natural supplement!" "I tried Acai Power Slim after visiting your website, and I lost a few pounds without doing anything else. I was so amazed I decided to start exercising and getting outside more and I even starting eating better. Now I don't even look like the same man. Friends I haven't seen for more than a year don't even recognize me. The change is that dramatic! Thank you ?. Acai Power Slim really works!" Read more testimonals here!
+    Michelle Case
+    --------------------------------------
+    Enter this minute http://www.jarrestocks.com/?iwgshdttcoray
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: Lose wieght without starvation ,  Try Acai Berry. 
+Date: Wed, 3 Jun 2009 12:08:37 -0300
+Size: 1763
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090604/e274bc1c/attachment.mht>
+
+From alta-tech at alta.asn.au  Thu Jun  4 12:02:47 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Thu, 4 Jun 2009 12:02:47 +1000
+Subject: [ALTA-Tech] HCSNet Graduate Student and ECR Network Awards 2009
+In-Reply-To: <3239A306F7C8F24693698F633C37BE540149BCC1@VALLE.AD.UWS.EDU.AU>
+References: <Acng6e1eVowo5C32TcSPBTWi8g92ag==>
+	<3239A306F7C8F24693698F633C37BE540149BCC1@VALLE.AD.UWS.EDU.AU>
+Message-ID: <8807e0a90906031902w1e55e386le59013ef257d8def@mail.gmail.com>
+
+Please distribute.
+
+Regards,
+
+Diego
+
+----------------------------------
+
+HCSNet Graduate Student Network Awards - Applications close 26 June 2009
+
+A reminder that HCSNet is now inviting applications for the HCSNet
+Graduate Student Network Awards for 2009. The Awards are designed to
+promote excellence and opportunity in Higher Degree Research (HDR)
+training and development. The scheme provides financial support for an
+Australian-based HDR student in each of our five priority areas to
+spend a block of time (two weeks or longer) at an Australian research
+lab, university department or facility with an interest in human
+communication. The proposed visit should be designed to enhance the
+student's knowledge or skills base, build professional networks and
+provide an opportunity to discuss research with experts in the field.
+Longer-term goals to be encouraged are a joint publication involving
+the student and host institution and/or presentation of a joint paper
+at an international conference with publication of the paper in the
+conference proceedings. Financial support from HCSNet is up to $2,500
+to the student plus $500 to the host institution to assist with local
+expenses. Applications close on 26 June 2009. For more information,
+please see: http://www.hcsnet.edu.au/programs/hdr
+<http://www.hcsnet.edu.au/programs/hdr> .
+
+HCSNet Early Career Researcher Network Awards - Applications close 26 June 2009
+
+A reminder that HCSNet is now inviting applications for the HCSNet
+Early Career Researcher Network Awards for 2009. The Awards are
+designed to provide opportunities for new researchers to build
+professional networks and high-level research collaborations. The
+scheme provides financial support for an Australian-based ECR in each
+of our five priority areas to spend a block of time (two weeks or
+longer) at an Australian research lab, university department or
+facility with an interest in human communication. The proposed visit
+should be designed to develop knowledge or a skills base, build
+professional networks, and provide an opportunity to collaborate with
+experts in the field. Longer-term goals to be encouraged are joint
+publications involving the ECR and the host institution, and/or
+presentation of a joint paper at an international conference with
+publication of the paper in the conference proceedings. Financial
+support from HCSNet is up to $2,500 to the ECR plus $500 to the host
+institution to assist with local expenses. Applications close on 26
+June 2009. For more information, please see:
+http://www.hcsnet.edu.au/programs/ecr
+<http://www.hcsnet.edu.au/programs/ecr> .
+
+
+
+
+
+Rosemary Eliott
+HCSNet Administrative Coordinator (Part-time Tues/Wed/Fri)
+MARCS Auditory Laboratories
+University of Western Sydney
+Locked Bag 1797
+PENRITH SOUTH DC NSW 1797
+
+Tel: +61 2 9772 6585
+Fax: +61 2 9772 6040
+Mobile: 0412 792 626
+
+
+
+-- 
+Do you want to know what is going on in Language Technology in
+Australia and New Zealand? Join ALTA -- http://www.alta.asn.au/
+
+  This message is intended for the addressee named and may
+  contain confidential information.  If you are not the intended
+  recipient, please delete it and notify the sender.  Views expressed
+  in this message are those of the individual sender, and are not
+  necessarily the views of Macquarie University.
+---------------------------------------------------------------------
+Diego MOLLA ALIOD                                 diego at ics.mq.edu.au
+Department of Computing               http://www.ics.mq.edu.au/~diego
+Macquarie University
+Sent from Sydney, Nsw, Australia
+
+From alta-tech at alta.asn.au  Thu Jun  4 20:08:21 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Thu, 04 Jun 2009 20:08:21 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.593.1244110101.23990.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+- Results:
+    Ignoring non-text/plain MIME parts
+
+- Unprocessed:
+        Everyone
+          Will Want 
+          Your New Secret
+        ACAI BERRY
+          Discover the secret today!
+            Visit everyone
+
+- Ignored:
+      
+        
+    
+        
+    
+    To
+    review our Privacy Policy, please click here.
+    
+    
+                            To ensure the delivery of your informative updates from Dr. Lark and the Daily Balance Team, please add
+                            alta-tech at alta.asn.au                                  
+    
+                            to your email address book.
+                    
+    
+            ************TO UNSUBSCRIBE************
+            You are receiving this e-mail at alta-tech at alta.asn.au because you 
+            indicated an interest in receiving special updates and offers
+            from Dr. Lark.
+            We hope that you find these updates helpful, but if you would
+            rather
+            not
+            receive them, you can unsubscribe by clicking here. You will be
+    
+            immediately unsubscribed from our database. Remember, your personal information 
+            will only be used by Healthy Directions, LLC, for editorial and marketing purposes. 
+    
+            Thank you. 
+            Daily Balance
+            412 Indian Springs Drive
+            Lancaster, PA 34214
+    
+    
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: Improve mental clarity with Acai Diet. 
+Date: Thu, 4 Jun 2009 13:06:07 +0200
+Size: 6399
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090604/501eb36b/attachment-0001.mht>
+
+From alta-tech at alta.asn.au  Sat Jun  6 19:09:28 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Sat, 6 Jun 2009 19:09:28 +1000
+Subject: [ALTA-Tech] Second Call for Abstracts: HCSNet Hands-on Workshop on
+	Mashups for Human Communication Science
+Message-ID: <8807e0a90906060209v35aeab74y38f31802820758bd@mail.gmail.com>
+
+ HCSNet Hands-on Workshop on Mashups for Human Communication Science
+
+		27-28 July 2009, Macquarie University
+
+	     http://www.hcsnet.edu.au/workshops/mashups09
+
+
+A Joint Workshop between the HCSNet Priority Areas of:
+
+  - Next-Generation Search Technology
+
+  - Effective Interfaces
+
+
+CALL FOR ABSTRACTS
+
+Mashups are all about presenting information from various sources in
+an integrated Web application. While early experiments with
+multimedia-multiweb application integration were done by savvy
+programmers who would effectively decode yet unpublished APIs of
+applications such as Google Maps, currently there is a wide range of
+software platforms for the development of mashups, and building a
+mashup is becoming increasingly easier by everyone. In this hands-on
+workshop, experts from leading mash-up development technologies will
+introduce their products and then groups will be formed to build
+mash-ups on the spot. Emphasis will be given to mashups related to
+HCSNet's Priority Areas.
+
+
+KEYNOTE PRESENTATIONS
+
+There will be presentations by the following people:
+
+ * Neil Wilkinson, Technical Director at Yahoo! 7
+   o An intro to Yahoo!'s Open Strategy - focus on YQL (Yahoo! Query
+     Language)
+
+ * Pamela Fox, Developer Programs Engineer for the Google Maps API
+   o Creating Maps Mashups: From Data to Map
+
+ * James Hogan, Associate Professor of Computer Science at Queensland
+University of Technology
+   o Making Mashups for Data Intensive Research
+
+
+AUDIENCE
+
+The goal of the workshop is to introduce mashup technology to all
+people interested in using it for topics related with any of HCSNet's
+Priority Areas. We welcome people from academia and industry with
+interest in any of those areas:
+
+ - Speech
+
+ - Effective Interfaces
+
+ - Next-Generation Search Technology
+
+ - Human Communication Disorders
+
+ - Perception and Action
+
+This workshop is especially suited for students, researchers and
+developers who want to apply this new technology to their projects.
+
+
+WORKSHOP FORMAT
+
+The workshop will run over two days. The central component of the
+workshop will take place in PC labs with all the software required to
+build mashups, and with technical assistance. There will be extensive
+tutorials and presentations by experts in mashups, and the workshop
+will conclude with presentations of the mashups built over the two
+days.
+
+
+SUBMISSIONS
+
+Submit a brief abstract of 100-150 words in length indicating the
+reasons why you are interested in participating in this workshop and a
+topic on which you would like to develop a mashup, and a paragraph
+with research interests BY MONDAY 15 JUNE. Please send the submissions
+by using the submission form at the workshop webpage (see the link at
+the top of this call)
+
+
+FUNDING
+
+HCSNet will fund travel and accommodation to a maximum of $500 for a
+number of participants from outside the Sydney area. The provision of
+a submission as described above is a prerequisite for funding. If not
+all participants can be covered, funding grants may be allocated based
+on the relevance of your abstract to the workshop; also, early career
+researchers (in HCSNet terms, those who have received their PhDs in
+the last fifteen years) will have priority.
+
+In addition, 10 student travel awards will be available for
+postgraduate students outside the Sydney area.
+
+Note that, although attendance at the workshop is free, prior
+registrations to HCSNet and this workshop are required.
+
+Undergraduate and postgraduate students from Macquarie University can
+attend the workshop without prior registration to HCSNet and they must
+register to the workshop using a separate registration process (TBA).
+
+
+IMPORTANT DATES
+
+    * Submission of Abstracts: 15 June 2009
+    * Notification of Awards:  22 June 2009
+    * Registration:            13 July 2009
+    * Workshop:                27-28 July 2009
+
+
+CONTACT
+
+Diego Molla-Aliod	Diego.Molla-Aliod at mq.edu.au
+Lawrence Cavedon	lawrence.cavedon at rmit.edu.au
+
+
+-- 
+Do you want to know what is going on in Language Technology in
+Australia and New Zealand? Join ALTA -- http://www.alta.asn.au/
+
+  This message is intended for the addressee named and may
+  contain confidential information.  If you are not the intended
+  recipient, please delete it and notify the sender.  Views expressed
+  in this message are those of the individual sender, and are not
+  necessarily the views of Macquarie University.
+---------------------------------------------------------------------
+Diego MOLLA ALIOD                                 diego at ics.mq.edu.au
+Department of Computing               http://www.ics.mq.edu.au/~diego
+Macquarie University
+
+From alta-tech at alta.asn.au  Mon Jun  8 15:22:26 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Mon, 08 Jun 2009 15:22:26 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.300.1244438546.26376.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+- Results:
+    Ignoring non-text/plain MIME parts
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: Acai your answer for losing weight fast. 
+Date: Mon, 8 Jun 2009 06:21:03 +0000
+Size: 4568
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090608/e9af920b/attachment.mht>
+
+From alta-tech at alta.asn.au  Mon Jun  8 16:14:06 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Mon, 08 Jun 2009 16:14:06 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.309.1244441646.26376.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+- Results:
+    Ignoring non-text/plain MIME parts
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: Acai Berry Lose weight now
+Date: Mon, 8 Jun 2009 11:42:27 +0530
+Size: 4539
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090608/fad01752/attachment.mht>
+
+From alta-tech at alta.asn.au  Tue Jun  9 08:08:16 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Tue, 09 Jun 2009 08:08:16 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.472.1244498896.26376.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+- Results:
+    Ignoring non-text/plain MIME parts
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: visit the ultimate solution for confidence and weight loss, try it.
+Date: Mon, 8 Jun 2009 19:06:51 -0300
+Size: 5904
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090609/62caa3f2/attachment.mht>
+
+From alta-tech at alta.asn.au  Tue Jun  9 09:49:15 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Tue, 9 Jun 2009 09:49:15 +1000
+Subject: [ALTA-Tech] CSIRO HAIL Seminar on the Australian National Corpus,
+ Dr Michael Haugh, Griffith University
+Message-ID: <1E24F8498F299B4986C854A8884724402F231D90@EXNSW-MBX01.nexus.csiro.au>
+
+
+                      H.A.I.L. Seminar series
+                          CSIRO ICT Centre
+                   http://www.ict.csiro.au/HAIL/
+
+
+Title:      The future Australian National Corpus and the Web
+
+Speaker:    Dr Michael Haugh
+            School of Languages and Linguistics
+            Griffith University
+
+Date:       Tuesday 9th June 2009 at 11am
+
+Location:   CSIRO ICT Centre,
+            Building E6B, Macquarie University.
+
+            See <http://www.ict.csiro.au/HAIL/location.htm> for details.
+
+Video:      We usually stream live video of seminars.
+
+            At the seminar time (see above), point your browser at:
+              <http://webcast.nsw.csiro.au/httpfs/ICT/HailSeminar/live.asx>
+
+Slides:     http://www.ict.csiro.au/HAIL/Abstracts/2009/MichaelHaugh.htm
+
+            Where possible, we make slides available prior to the seminar at the
+            above URL.
+
+Abstract
+
+2008 saw the launching of the "Australian National Corpus Initiative". Linguists and language technologists from around Australia committed themselves to a sustained push for the creation of a major addition to Australia's research infrastructure in the humanities and social sciences, namely, a massive online database of spoken and written language in Australia, in all its forms and diversity and over time (Burridge, Haugh, Mulder and Peters forthcoming). One potential challenge to such an endeavour arises from the fact that a massive online source of language data already exists, namely the World Wide Web. In this talk I first consider why Web as Corpus cannot be seen as an adequate substitute for a national corpus. I then discuss the relative merits of Web as Corpus versus the creation of Specialised Web Corpora, and the relative potential of each to contribute to the future Australian National Corpus. I next outline two case studies investigating the relative utility of Web as Corpus versus Specialised Web Corpora in studies of specific pragmatic phenomena, namely im/politeness in emails between academics and students (Haugh forthcoming a), and "taking the piss" in everyday interaction amongst Australians (Haugh forthcoming b). I conclude by briefly discussing the implications of the various types of data considered in this talk for the ways in which such data is ingested and searched in the future Australian National Corpus.
+
+
+Short resume
+
+Michael Haugh is a lecturer in the School of Languages and Linguistics at Griffith University. His main area of research is linguistics pragmatics where he has been focusing on various speech practices (for example, implying, teasing, complimenting) and their relationship to face and politeness in a number of languages, including Japanese, English and (Taiwanese) Chinese.
+
+References
+
+Burridge, Kate, Michael Haugh, Jean Mulder and Pam Peters (forthcoming) Selected Proceedings of the HCSNet Workshop on Designing the Australian National Corpus.  Somerville, MA: Cascadilla Proceedings Project.
+Haugh, Michael (forthcoming a) When is an email really offensive?: Argumentivity and variability in evaluations of impoliteness. Journal of Politeness Research 6.
+Haugh, Michael (forthcoming b) Jocular mockery and face in Anglo-Australian interactions. Journal of Pragmatics.
+
+
+----------------------------------------
+The CSIRO HAIL Seminar Series
+http://www.ict.csiro.au/HAIL/
+
+Contacts:       Andrew Lampert
+Address:        CSIRO HAIL Seminars,
+                c/o Andrew Lampert,
+                Locked Bag 17,
+                North Ryde NSW 1670
+
+Phone:  (02) 9372 4702
+Email:  Andrew.Lampert at csiro.au
+
+
+*Administration*
+-----------------------------------------------------------------
+* To leave the list, send the message "unsubscribe HailSeminars" to
+the list server address <majordomo at nsw.cmis.csiro.au>.
+The subject line of your e-mail message will be ignored.
+=================================
+
+
+From alta-tech at alta.asn.au  Wed Jun 10 04:26:51 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Wed, 10 Jun 2009 04:26:51 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.16.1244572011.5597.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+- Results:
+    Ignoring non-text/plain MIME parts
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: embrace your new confidence, try acai for free
+Date: Tue, 9 Jun 2009 07:44:15 -0800
+Size: 5849
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090610/508e1ee3/attachment.mht>
+
+From alta-tech at alta.asn.au  Wed Jun 10 04:31:01 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Wed, 10 Jun 2009 04:31:01 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.44.1244572261.5597.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+- Results:
+    Ignoring non-text/plain MIME parts
+
+- Unprocessed:
+        Everyone
+          Will Want 
+          Your New Secret
+        ACAI POWER SLIM
+          Discover the secret today!
+            Click here for details
+
+- Ignored:
+      
+        
+    
+        
+    
+    To
+    review our Privacy Policy, please click here.
+    
+    
+                            To ensure the delivery of your informative updates from Dr. Lark and the Daily Balance Team, please add
+                            alta-tech at alta.asn.au                                  
+    
+                            to your email address book.
+                    
+    
+            ************TO UNSUBSCRIBE************
+            You are receiving this e-mail at alta-tech at alta.asn.au because you 
+            indicated an interest in receiving special updates and offers
+            from Dr. Lark.
+            We hope that you find these updates helpful, but if you would
+            rather
+            not
+            receive them, you can unsubscribe by clicking here. You will be
+    
+            immediately unsubscribed from our database. Remember, your personal information 
+            will only be used by Healthy Directions, LLC, for editorial and marketing purposes. 
+    
+            Thank you. 
+            Daily Balance
+            388 Gina, PA 16097
+    
+    
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: fat burning for life Acai Berry. 
+Date: Tue, 9 Jun 2009 14:21:20 -0300
+Size: 6220
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090610/fe958e45/attachment.mht>
+
+From alta-tech at alta.asn.au  Sat Jun 13 00:37:59 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Sat, 13 Jun 2009 00:37:59 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.272.1244817479.3891.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+- Results:
+    Ignoring non-text/plain MIME parts
+
+- Unprocessed:
+                this email? Click 
+          here.
+              &nbsp;
+                    ?
+
+- Ignored:
+                  
+                    Know 
+                      someone else? Forward This 
+                      Email!We hope you enjoy receiving emails 
+                      from Kuxqnyza. If you do not wish to receive them, please click 
+                      here.Copyright &#191;2000-2009 Ilql, Inc. 
+                      4013, Inc. 010533 etfy mjfbad, WK 5401Privacy 
+                      Policy??|??Terms of 
+                      Use??|??Customer 
+                      Service??|??Site 
+                      Map
+              ?
+    ?
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: Flush out toxins with Acai Berry. 
+Date: Fri, 12 Jun 2009 11:36:47 -0300
+Size: 5684
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090613/c8876e62/attachment.mht>
+
+From alta-tech at alta.asn.au  Mon Jun 15 15:02:00 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Mon, 15 Jun 2009 15:02:00 +1000
+Subject: [ALTA-Tech] Call for Abstracts (extended deadline): HCSNet Hands-on
+	Workshop on Mashups for Human Communication Science
+Message-ID: <8807e0a90906142202w27fd740andb38ab6d201111c2@mail.gmail.com>
+
+ HCSNet Hands-on Workshop on Mashups for Human Communication Science
+
+		27-28 July 2009, Macquarie University
+
+	     http://www.hcsnet.edu.au/workshops/mashups09
+
+
+A Joint Workshop between the HCSNet Priority Areas of:
+
+  - Next-Generation Search Technology
+
+  - Effective Interfaces
+
+
+CALL FOR ABSTRACTS (Extended date of submission)
+
+Mashups are all about presenting information from various sources in
+an integrated Web application. While early experiments with
+multimedia-multiweb application integration were done by savvy
+programmers who would effectively decode yet unpublished APIs of
+applications such as Google Maps, currently there is a wide range of
+software platforms for the development of mashups, and building a
+mashup is becoming increasingly easier by everyone. In this hands-on
+workshop, experts from leading mash-up development technologies will
+introduce their products and then groups will be formed to build
+mash-ups on the spot. Emphasis will be given to mashups related to
+HCSNet's Priority Areas.
+
+
+KEYNOTE PRESENTATIONS
+
+There will be presentations by the following people:
+
+ * Neil Wilkinson, Technical Director at Yahoo! 7
+   o An intro to Yahoo!'s Open Strategy - focus on YQL (Yahoo! Query
+     Language)
+
+ * Pamela Fox, Developer Programs Engineer for the Google Maps API
+   o Creating Maps Mashups: From Data to Map
+
+ * James Hogan, from Queensland University of Technology
+   o Making Mashups for Data Intensive Research
+
+
+AUDIENCE
+
+The goal of the workshop is to introduce mashup technology to all
+people interested in using it for topics related with any of HCSNet's
+Priority Areas. We welcome people from academia and industry with
+interest in any of those areas:
+
+ - Speech
+
+ - Effective Interfaces
+
+ - Next-Generation Search Technology
+
+ - Human Communication Disorders
+
+ - Perception and Action
+
+This workshop is especially suited for students, researchers and
+developers who want to apply this new technology to their projects.
+
+
+WORKSHOP FORMAT
+
+The workshop will run over two days. The central component of the
+workshop will take place in PC labs with all the software required to
+build mashups, and with technical assistance. There will be extensive
+tutorials and presentations by experts in mashups, and the workshop
+will conclude with presentations of the mashups built over the two
+days.
+
+
+SUBMISSIONS
+
+Submit a brief abstract of 100-150 words in length indicating the
+reasons why you are interested in participating in this workshop and a
+topic on which you would like to develop a mashup, and a paragraph
+with research interests BY MONDAY 22 JUNE (extended from 15
+June). Please send the submissions by using the submission form at the
+workshop webpage (see the link at the top of this call)
+
+
+FUNDING
+
+HCSNet will fund travel and accommodation to a maximum of $500 for a
+number of participants from outside the Sydney area. The provision of
+a submission as described above is a prerequisite for funding. If not
+all participants can be covered, funding grants may be allocated based
+on the relevance of your abstract to the workshop; also, early career
+researchers (in HCSNet terms, those who have received their PhDs in
+the last fifteen years) will have priority.
+
+In addition, 10 student travel awards will be available for
+postgraduate students outside the Sydney area.
+
+Note that, although attendance at the workshop is free, prior
+registrations to HCSNet and this workshop are required.
+
+Undergraduate and postgraduate students from Macquarie University can
+attend the workshop without prior registration to HCSNet and they must
+register to the workshop using a separate registration process
+detailed in http://www.hcsnet.edu.au/workshops/mashups09mq
+
+
+IMPORTANT DATES
+
+    * Submission of Abstracts: 22 June 2009 (old date was 15 June)
+    * Notification of Awards:  29 June 2009 (old date was 22 June)
+    * Registration:            13 July 2009
+    * Workshop:                27-28 July 2009
+
+
+CONTACT
+
+Diego Molla-Aliod	Diego.Molla-Aliod at mq.edu.au
+Lawrence Cavedon	lawrence.cavedon at rmit.edu.au
+
+
+-- 
+Do you want to know what is going on in Language Technology in
+Australia and New Zealand? Join ALTA -- http://www.alta.asn.au/
+
+  This message is intended for the addressee named and may
+  contain confidential information.  If you are not the intended
+  recipient, please delete it and notify the sender.  Views expressed
+  in this message are those of the individual sender, and are not
+  necessarily the views of Macquarie University.
+---------------------------------------------------------------------
+Diego MOLLA ALIOD                                 diego at ics.mq.edu.au
+Department of Computing               http://www.ics.mq.edu.au/~diego
+Macquarie University
+
+From alta-tech at alta.asn.au  Sat Jun 20 03:47:40 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Sat, 20 Jun 2009 03:47:40 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.256.1245433660.3452.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+
+- Unprocessed:
+    best regards Clifton Dennis
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: <alta-tech at ics.mq.edu.au>
+Subject: " A life changing experience "  Try Acai Berry.
+Date: Fri, 19 Jun 2009 14:46:25 -0300
+Size: 863
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090620/8fefd1b4/attachment.mht>
+
+From alta-tech at alta.asn.au  Tue Jun 23 22:37:56 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Tue, 23 Jun 2009 22:37:56 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.557.1245760676.14545.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+- Results:
+    Ignoring non-text/plain MIME parts
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: Effective Way To Help Aid in Weight Loss - Our Top Choice
+Date: Tue, 23 Jun 2009 17:05:57 +0330
+Size: 2972
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090623/ff795453/attachment.mht>
+
+From alta-tech at alta.asn.au  Thu Jun 25 03:06:08 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Thu, 25 Jun 2009 03:06:08 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.177.1245863168.7253.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+- Results:
+    Ignoring non-text/plain MIME parts
+
+- Unprocessed:
+        Everyone
+          Will Want 
+          Your New Secret
+        ACAI BERRY
+          Discover the secret today!
+            Bang this site
+
+- Ignored:
+      
+        
+    
+        
+    
+    To
+    review our Privacy Policy, please click here.
+    
+    
+                            To ensure the delivery of your informative updates from Dr. Lark and the Daily Balance Team, please add
+                            alta-tech at alta.asn.au                                  
+    
+                            to your email address book.
+                    
+    
+            ************TO UNSUBSCRIBE************
+            You are receiving this e-mail at alta-tech at alta.asn.au because you 
+            indicated an interest in receiving special updates and offers
+            from Dr. Lark.
+            We hope that you find these updates helpful, but if you would
+            rather
+            not
+            receive them, you can unsubscribe by clicking here. You will be
+    
+            immediately unsubscribed from our database. Remember, your personal information 
+            will only be used by Healthy Directions, LLC, for editorial and marketing purposes. 
+    
+            Thank you. 
+            Daily Balance
+            795 Kennith, PA 36792
+    
+    
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: Don't fear the measuring tape anymore , Acai Berri.
+Date: Wed, 24 Jun 2009 14:05:39 -0300
+Size: 6324
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090625/40f6e80c/attachment.mht>
+
+From alta-tech at alta.asn.au  Fri Jun 26 04:31:43 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Fri, 26 Jun 2009 04:31:43 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.53.1245954703.2400.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+
+- Unprocessed:
+    best regards Angie Dolan
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: of diet pills, like a racing heart or queasy stomach
+Date: Thu, 25 Jun 2009 13:24:21 -0300
+Size: 934
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090626/6f89097a/attachment.mht>
+
+From alta-tech at alta.asn.au  Fri Jun 26 04:33:29 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Fri, 26 Jun 2009 04:33:29 +1000
+Subject: [ALTA-Tech] The results of your email commands
+Message-ID: <mailman.66.1245954809.2400.alta-announce@alta.asn.au>
+
+The results of your email command are provided below. Attached is your
+original message.
+
+
+- Unprocessed:
+    best regards Wayne Joiner
+
+- Done.
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: alta-tech at ics.mq.edu.au
+Subject: Discover the magical powers of the Acai Fruit.
+Date: Thu, 25 Jun 2009 14:21:18 -0300
+Size: 998
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090626/b34e1f3e/attachment.mht>
+
+From alta-tech at alta.asn.au  Wed Jul  1 11:23:05 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Wed, 1 Jul 2009 11:23:05 +1000
+Subject: [ALTA-Tech] Call for Participation: HCSNet Hands-on Workshop on
+	Building Mashups
+Message-ID: <8807e0a90906301823vaf1e42r20a07b3f5a21f410@mail.gmail.com>
+
+	     HCSNet Hands-on Workshop on Building Mashups
+
+	     With guest presenters from Google and Yahoo!
+
+		27-28 July 2009, Macquarie University
+
+	     http://www.hcsnet.edu.au/workshops/mashups09
+
+A Joint Workshop of the HCSNet Next-Generation Search and Effective
+Interfaces Priority Areas
+
+CALL FOR PARTICIPATION
+
+Mashups are web pages or applications that combine data or
+functionality from two or more external sources to create a new
+service. Mashups are all about easy, fast integration, frequently
+using open APIs and data sources to produce results that were not the
+original reason for producing the raw source data. An example of a
+mashup is the use of cartographic data from Google Maps to add
+location information to real estate data, creating a new and distinct
+Web service that was not originally provided by either source.
+
+In this hands-on tutorial, experts from Google and Yahoo! will
+introduce their mashup development technologies; participants will
+then immediately put this knowledge to use building their own mashups.
+This is a unique opportunity to learn how to use cutting edge web
+technologies from those who know the tools inside out.
+
+PRESENTERS
+
+There will be tutorial presentations by the following experts:
+
+* Neil Wilkinson, Technical Director at Yahoo! 7
+* Pamela Fox, Developer Programs Engineer for the Google Maps API
+* James Hogan, from Queensland University of Technology
+
+INTENDED AUDIENCE
+
+The goal of the workshop is to introduce mashup technology to all
+those interested in using it. The workshop is especially suited for
+students, researchers and developers who want to apply this new
+technology in their projects. Familiarity with a programming language
+like Java or JavaScript is recommended.
+
+
+WORKSHOP FORMAT
+
+The workshop will run over two days. The central component of the
+workshop will take place in PC labs with all the software required to
+build mashups, and with technical assistance. The event will conclude
+with presentations of the mashups built over the two days.
+
+
+REGISTRATION
+
+Submit your registration information using the registration form at
+the workshop webpage (see the link at the top of this
+call). Attendance to the workshop is free, but places are
+limited. Registrations will be processing on a first-come,
+first-served basis until all places are taken.
+
+Undergraduate and postgraduate students from Macquarie University can
+attend the workshop using a separate registration process detailed at
+http://www.hcsnet.edu.au/workshops/mashups09mq .
+
+
+IMPORTANT DATES
+
+* Registration deadline:        13 July 2009
+* Event:                	27-28 July 2009
+
+CONTACT
+
+Diego Molla-Aliod       Diego.Molla-Aliod at mq.edu.au
+Lawrence Cavedon        lawrence.cavedon at rmit.edu.au
+
+
+-- 
+Do you want to know what is going on in Language Technology in
+Australia and New Zealand? Join ALTA -- http://www.alta.asn.au/
+
+  This message is intended for the addressee named and may
+  contain confidential information.  If you are not the intended
+  recipient, please delete it and notify the sender.  Views expressed
+  in this message are those of the individual sender, and are not
+  necessarily the views of Macquarie University.
+---------------------------------------------------------------------
+Diego MOLLA ALIOD                                 diego at ics.mq.edu.au
+Department of Computing               http://www.ics.mq.edu.au/~diego
+Macquarie University
+
+From alta-tech at alta.asn.au  Tue Jul  7 18:30:07 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Tue, 7 Jul 2009 10:30:07 +0200
+Subject: [ALTA-Tech] Theses written by ALTA members
+Message-ID: <E959BC77-C074-482A-9F56-5C6875723EC7@ics.mq.edu.au>
+
+Hello,
+
+I would like to update the ALTA webpage which lists theses written by  
+ALTA members:
+http://www.alta.asn.au/student_pages/theses.html
+
+If you are aware of any theses (PhD, masters, honours) not listed  
+there yet, please email me providing as much as possible of:
+- author's name
+- year the thesis was completed
+- title of the thesis
+- university name
+- link to the pdf with the thesis (optional)
+
+There is no time frame specified, so don't be shy to send info about  
+theses completed ages ago.
+Also, note that the thesis does not have to be completed in Australia  
+or New Zealand, as long as the author currently is (or was over some  
+period of time in the past) an ALTA member.
+
+If there are any modifications you would like to suggest to the  
+existing entries (spellings, new link to the PDF etc), do not hesitate  
+to let me know.
+
+regards,
+Pawel
+
+
+
+From alta-tech at alta.asn.au  Wed Jul  8 14:43:48 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Wed, 8 Jul 2009 14:43:48 +1000
+Subject: [ALTA-Tech] HCSNet Workshop on Social Technologies for Health and
+ Medicine --- NEW DATES
+Message-ID: <1E24F8498F299B4986C854A8884724403118B6AD@EXNSW-MBX01.nexus.csiro.au>
+
+For various reasons, we have changed the dates of the
+
+
+
+    HCSNet Workshop on Social Technologies for Health and Medicine
+
+
+
+to be held in Melbourne.
+
+
+
+The new dates are: September 21/22 2009.
+
+
+
+Full information, including submission and registration details can be found at
+
+
+
+        http://www.hcsnet.edu.au/hcsnetevents/2009/socialtechnology09
+
+
+
+Please register interest and submit an abstract as early as possible as we need an indication of number of participants.
+
+
+
+We hope you can join us!
+
+Lawrence Cavedon, Nathalie Colineau, Cecile Paris
+
+
+
+-------
+
+We intend this workshop to be a place to foster communication across relevant disciplines in order to design and develop effective tools and user experience to support online health communities.
+
+Issues of interest may include:
+
+*     support for patients vs. support for carers
+
+*     tools for developing online communities
+
+*     designing effective user experience for online patient communities
+
+*     strategies for building online health communities and developing long-term engagement
+
+*     motivating information-sharing, content development, and contribution to policy
+
+*     health education and policy development: developing trusted content
+
+*     tailoring health information
+
+*     methods/techniques to provide motivational support
+
+*     trust, ethics, and related issues in online health-related communities.
+
+
+
+Please visit http://www.hcsnet.edu.au/hcsnetevents/2009/socialtechnology09  for further information, important dates, and submission instructions.
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20090708/22f67933/attachment-0001.html>
+
+From alta-tech at alta.asn.au  Mon Jul 13 18:10:10 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Mon, 13 Jul 2009 18:10:10 +1000
+Subject: [ALTA-Tech] Call: Build Mashups at Macquarie University
+Message-ID: <8807e0a90907130110y1f918388ud7711cf5753c88c@mail.gmail.com>
+
+Note that registration is still open. Requests will be accepted on a
+first-come first-serve basis until all remaining places are taken.
+
+
+
+	     HCSNet Hands-on Workshop on Building Mashups
+
+	     With guest presenters from Google and Yahoo!
+
+		27-28 July 2009, Macquarie University
+
+	     http://www.hcsnet.edu.au/workshops/mashups09
+
+A Joint Workshop of the HCSNet Next-Generation Search and Effective
+Interfaces Priority Areas
+
+CALL FOR PARTICIPATION
+
+Mashups are web pages or applications that combine data or
+functionality from two or more external sources to create a new
+service. Mashups are all about easy, fast integration, frequently
+using open APIs and data sources to produce results that were not the
+original reason for producing the raw source data. An example of a
+mashup is the use of cartographic data from Google Maps to add
+location information to real estate data, creating a new and distinct
+Web service that was not originally provided by either source.
+
+In this hands-on tutorial, experts from Google and Yahoo! will
+introduce their mashup development technologies; participants will
+then immediately put this knowledge to use building their own mashups.
+This is a unique opportunity to learn how to use cutting edge web
+technologies from those who know the tools inside out.
+
+PRESENTERS
+
+There will be tutorial presentations by the following experts:
+
+* Neil Wilkinson, Technical Director at Yahoo! 7
+* Pamela Fox, Developer Programs Engineer for the Google Maps API
+* James Hogan, from Queensland University of Technology
+
+INTENDED AUDIENCE
+
+The goal of the workshop is to introduce mashup technology to all
+those interested in using it. The workshop is especially suited for
+students, researchers and developers who want to apply this new
+technology in their projects. Familiarity with a programming language
+like Java or JavaScript is recommended.
+
+
+WORKSHOP FORMAT
+
+The workshop will run over two days. The central component of the
+workshop will take place in PC labs with all the software required to
+build mashups, and with technical assistance. The event will conclude
+with presentations of the mashups built over the two days.
+
+
+REGISTRATION
+
+Submit your registration information using the registration form at
+the workshop webpage (see the link at the top of this
+call). Attendance to the workshop is free, but places are
+limited. Registrations will be processing on a first-come,
+first-served basis until all places are taken.
+
+Undergraduate and postgraduate students from Macquarie University can
+attend the workshop using a separate registration process detailed at
+http://www.hcsnet.edu.au/workshops/mashups09mq .
+
+
+IMPORTANT DATES
+
+* Registration deadline:        20 July 2009
+* Event:                	27-28 July 2009
+
+CONTACT
+
+Diego Molla-Aliod       Diego.Molla-Aliod at mq.edu.au
+Lawrence Cavedon        lawrence.cavedon at rmit.edu.au
+
+-- 
+Do you want to know what is going on in Language Technology in
+Australia and New Zealand? Join ALTA -- http://www.alta.asn.au/
+
+  This message is intended for the addressee named and may
+  contain confidential information.  If you are not the intended
+  recipient, please delete it and notify the sender.  Views expressed
+  in this message are those of the individual sender, and are not
+  necessarily the views of Macquarie University.
+---------------------------------------------------------------------
+Diego MOLLA ALIOD                                 diego at ics.mq.edu.au
+Department of Computing               http://www.ics.mq.edu.au/~diego
+Macquarie University
+
+From alta-tech at alta.asn.au  Wed Jul 15 11:49:45 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Wed, 15 Jul 2009 11:49:45 +1000
+Subject: [ALTA-Tech] FW: One of ACL's own is honored By President Obama!
+Message-ID: <7sh5qq$d25nd1@outbound.icp-qv1-irony-out4.iinet.net.au>
+
+-----Original Message-----
+From: Ali Hakim [mailto:ahakim at mac.com] 
+Sent: Monday, 13 July 2009 05:33
+To: Ali Hakim
+Subject: One of ACL's own is honored By President Obama!
+
+Many of you know Rada Mihalcea and follow her work.  She has been a  
+dedicated member of the ACL community for a while now.  Please join us  
+in congratulating Rada on being one of only 100 nationwide selected to  
+receive a Presidential Early Career Awards for Scientists and Engineers!
+
+Priscilla
+
+
+
+THE WHITE HOUSE
+Office of the Press Secretary
+_____________________________________________________________________________________
+__
+FOR IMMEDIATE RELEASE
+July 9, 2009
+
+
+PRESIDENT HONORS OUTSTANDING EARLY-CAREER SCIENTISTS
+
+President Obama today named 100 beginning researchers as recipients of  
+the Presidential Early Career Awards for Scientists and Engineers, the  
+highest honor bestowed by the United States government on young  
+professionals in the early stages of their independent research  
+careers.  The recipient scientists and engineers will receive their  
+awards in the Fall at a White House ceremony.
+
+The Presidential Early Career Awards embody the high priority the  
+Administration places on producing outstanding scientists and  
+engineers to advance the nation's goals and contribute to all sectors  
+of the economy.  Nine Federal departments and agencies join together  
+annually to nominate the most meritorious young scientists and  
+engineers-researchers whose early accomplishments show the greatest  
+promise for strengthening America's leadership in science and  
+technology and contributing to the awarding agencies' missions.
+
+
+"These extraordinarily gifted young scientists and engineers represent  
+the best in our country," President Obama said.  "With their talent,  
+creativity, and dedication, I am confident that they will lead their  
+fields in new breakthroughs and discoveries and help us use science  
+and technology to lift up our nation and our world."
+
+The awards, established by President Clinton in February 1996, are  
+coordinated by the Office of Science and Technology Policy within the  
+Executive Office of the President. Awardees are selected on the basis  
+of two criteria: Pursuit of innovative research at the frontiers of  
+science and technology and a commitment to community service as  
+demonstrated through scientific leadership, public education, or  
+community outreach. Winning scientists and engineers receive up to a  
+five-year research grant to further their study in support of critical  
+government missions.
+
+This year's recipients are:
+
+Department of Agriculture
+David H. McNear Jr., University of Kentucky
+Dean E. Pearson, Rocky Mt. Res. Station
+Erica Spackman, Poultry Res. Lab/USDA
+
+Department of Commerce
+Craig Brown, National Institute of Standards and Technology
+Michael C. Coniglio, National Severe Storms Laboratory
+Dana H. Hanselman, Auke Bay Laboratory
+Pamela L. Heinselman, National Severe Storms Laboratory
+Dean DeLongchamp, National Institute of Standards and Technology
+Till P. Rosenband, National Institute of Standards and Technology
+
+Department of Defense
+David P. Arnold, University of Florida
+Seth R. Bank, University of Texas, Austin
+Christopher W. Bielawski, University of Texas, Austin
+Elizabeth Boon, Stony Brook University
+Markus J. Buehler, Massachusetts Institute of Technology
+Scott A. Craver, Binghamton University
+John O. Dabiri, California Institute of Technology
+Chris L. Dwyer, Duke University
+Gregory S. Engel, University of Chicago
+Thomas H. Epps III, University of Delaware
+Gregory A. Fiete, University of Texas, Austin
+Oliver Fringer, Stanford University
+Anthony Grbic, University of Michigan
+Carlos E. Guestrin, Carnegie Mellon University
+Michael A. Hickner, Penn State University
+Michael J. Hochberg, University of Washington
+Yu Huang, University of California, Los Angeles
+Gregory H. Huff, Texas A&M University
+Jacob L. Jones, University of Florida
+Sanjay Kumar, University of California, Berkeley
+Xiaoqin Li, University of Texas, Austin
+Mathew M. Maye, Syracuse University
+Leigh S. McCue-Weil, Virginia Polytechnic University
+Beverley J. McKeon, California Institute of Technology
+Anastasia H. Muliana, Texas A&M University
+Ryan P. O'Hayre, Colorado School of Mines
+Jiwwong Park, Cornell University
+Susan E.  Parks, Penn State University
+Jason R. Petta, Princeton University
+Justin K. Romberg, Georgia Institute of Technology
+Adrienne D. Stiff-Roberts, Duke University
+Benjamin R. tenOever, Mt. Sinai School of Medicine
+Joel A. Tropp, California Institute of Technology
+Derek H. Warner, Cornell University
+Sharon M. Weiss, Vanderbilt University
+Patrick J. Wolfe, Harvard University
+Robert J. Wood, Harvard University
+Tanya Zelevinsky, Columbia University
+Jianglong Zhang, University of North Dakota
+Xiaolin            Zheng, Stanford University
+Rashid Zia, Brown University
+
+Department of Education
+Nonie K. Lesaux, Harvard University
+Katherine A. Rawson, Kent State University
+
+Department of Energy
+Cecilia R. Aragon, Lawrence Berkeley National Laboratory
+Gary A. Baker, Oak Ridge National Laboratory
+Joshua A. Breslau, Princeton Plasma Physics
+Gianluigi Ciovati, Thomas Jefferson Lab National Accelerator Facility
+Stefan P. Gerhardt, Princeton Plasma Physics
+Lynford L. Goddard, University of Illinois
+Jason Graetz, Brookhaven National Laboratory
+Jeffrey B. Neaton, Lawrence Berkeley National Laboratory
+Thao D. Nguyen, Johns Hopkins University
+Paul Sorensen, Brookhaven National Laboratory
+Alexandre M. Tartakovsky, Pacific Northwest National Laboratory
+Ivan Vitev, Los Alamos National Laboratory
+
+Department of Veterans' Affairs
+Melina R. Kibbe, Jesse Brown VA
+Alexander H. Sox-Harris, Palo Alto VA
+
+National Aeronautics and Space Administration
+Benjamin E. Smith, University of Washington
+Joshua K. Willis, Jet Propulsion Laboratory
+
+National Institutes of Health, Department of Health and Human Services
+Thomas P. Cappola, University of Pennsylvania
+Pablo A. Celnik, Johns Hopkins University
+Felicia D. Goodrum, University of Arizona
+Bruce J. Hinds III, University of Kentucky
+Helen H. Lu, Columbia University
+Ulrike Peters, Fred Hutchinson Cancer Center
+Jeremy F. Reiter, University of California, San Francisco
+Marisa Roberto, The Scripps Research Institute
+Erica O. Saphire, The Scripps Research Institute
+Oscar E. Suman, Shriner's Hospital, University of Texas
+Kristin V. Tarbell, The National Institute of Diabetes and Digestive  
+and Kidney Diseases
+Gonzalo E. Torres, University of Pittsburgh
+
+National Science Foundation
+Maria M. Calbi, Southern Illinois University, Carbondale
+Amy B. Cerato, University of Oklahoma
+Ioannis Chasiotis, University of Illinois
+Monica F. Cox, Purdue University
+Cameron R. Currie, University of Wisconsin
+Joel L. Dawson, Massachusetts Institute of Technology
+Jimmy de la Torre, Rutgers University
+Roland G. Fryer Jr., Harvard University
+Sean Hallgren, Penn State University
+John M. Herbert, Ohio State University
+Steven D. Jacobsen, Northwestern University
+Charles R. Keeton II, Rutgers University
+Chun Ning Lau, University of California, Riverside
+Hao Lin, Rutgers University
+Harmit S. Malik, Fred Hutchinson Cancer Center
+Rada F. Mihalcea, University of North Texas
+Scott R. Sheffield, Massachusetts Institute of Technology
+Zuzanna S. Siwy, University of California, Irvine
+Adam D. Smith, Penn State University
+Joy K. Ward, University of Kansas
+
+
+From alta-tech at alta.asn.au  Fri Sep  4 18:25:45 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Fri, 4 Sep 2009 18:25:45 +1000
+Subject: [ALTA-Tech] Vacation students at CSIRO ICT Centre (Canberra and
+	Sydney)
+In-Reply-To: <8807e0a90906031902w1e55e386le59013ef257d8def@mail.gmail.com>
+References: <Acng6e1eVowo5C32TcSPBTWi8g92ag==>
+	<3239A306F7C8F24693698F633C37BE540149BCC1@VALLE.AD.UWS.EDU.AU>
+	<8807e0a90906031902w1e55e386le59013ef257d8def@mail.gmail.com>
+Message-ID: <1E24F8498F299B4986C854A8884724403C1C37AE@EXNSW-MBX01.nexus.csiro.au>
+
+Hi:
+ 
+CSIRO has vacation studentships available for the Xmas period.
+ 
+The closing date is 18 September 2009. 
+ 
+I have included below the link to the advert -- it is also available by going to CSIRO careers website - the position number is 2009/549
+ 
+https://recruitment.csiro.au/asp/Job_Details.asp?RefNo=2009%2F549 
+ 
+My area is "Interacting with Information".
+If someone is interested, I can send the projects we currently have in mind.
+In brief:
+    - 2 projects about using social networks to build communities
+    - 4 projects around information seeking tasks and information provision (analysing search patterns, designing presentation strategies)
+    - 3 projects around NLP building on our summarisation work -- one of them is on visualisation.
+ 
+Kind regards
+Cecile
+
+
+From alta-tech at alta.asn.au  Tue Sep 22 20:54:41 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Tue, 22 Sep 2009 18:54:41 +0800
+Subject: [ALTA-Tech] 14 Ideas on Language, Information and Intelligence
+Message-ID: <6679e0500909220354s6f3481abv60271dfeb748b7e@mail.gmail.com>
+
+An HTML version is at https://sites.google.com/site/yaoziyuan/ideas .
+
+
+Foreign Language Learning
+
+    * Automatic Code-Switching (ACS) - The computer automatically
+selects a few words in a user's native language communication (such as
+a web page being viewed), and supplements or even replaces them with
+their foreign language counterparts, thus naturally building up his
+vocabulary. For example, if a sentence
+              ????????
+      (Chinese for "He is a good student.") appears in a Chinese
+person's Web browser, the computer can insert student after ??
+(optionally with additional information such as student's
+pronunciation):
+              ??????? (student)?
+      After several times of such teaching, the computer can directly
+replace future occurrences of ?? with student:
+              ????? student?
+      Ambiguous words such as the ? (Chinese for "see", "look",
+"watch", "read", etc.) in
+              ????????
+      (Chinese for "He is reading a book before the TV.") can also be
+automatically handled by listing all context-possible translations:
+              ?????? (??: read; ??: watch) ??
+      Practice is also possible:
+              ????? [read? watch?] ??
+      Because the computer would only teach and/or practice foreign
+language elements at a small number of positions in the native
+language article the user is viewing, the user wouldn't find it too
+intrusive. Automatic code-switching can also teach grammatical
+knowledge in similar ways.
+    * Progressive Word Acquisition (PWA) - In ACS, long words are
+optionally split into small segments (usually two syllables long) and
+taught progressively, and even practiced progressively. For example,
+when
+              ?????
+      (Chinese for "Colorado") first appears in a Chinese person's Web
+browser, the computer inserts Colo' after it (optionally with Colo's
+pronunciation):
+              ????? (Colo')
+      When ????? appears for the second time, the computer may decide
+to test the user's memory about Colo' so it replaces ????? with
+              Colo' (US state)
+      Note that a hint such as "US state" is necessary in order to
+differentiate this Colo' from other words beginning with Colo. For the
+third occurrence of ?????, the computer teaches the full form,
+Colorado, by inserting it after the Chinese occurrence:
+              ????? (Colorado)
+      At the fourth time, the computer may totally replace ????? with
+              Colorado
+      Not only the foreign language element (Colorado) can emerge
+gradually, the original native language element (?????) can also
+gradually fade out, either visually or semantically (e.g. ????? ->
+???? -> ?? -> ?). This prevents the learner from suddenly losing the
+Chinese clue, while also engages him in active recalls of the
+occurrence's complete meaning (?????) with gradually reduced clues.
+    * Subword Familiarization (SWF) - Again in ACS, word roots (e.g.
+pro-, scrib-) and meaningless word fragments (e.g. -ot) are optionally
+treated as two special kinds of standalone words and taught and
+practiced in the user's incoming native language information.
+Meaningless fragments are considered abbreviations and acronyms
+derived from real, meaningful words. Getting the learner familiar with
+all these subword units can facilitate the acquisition of longer, real
+words that contain them.
+    * Phonetics-Enhanced English (PEE) - The computer can add
+non-intrusive diacritical marks (e.g. the mark in ?) above normal
+English words to better reflect their pronunciations. Unlike radical
+spelling reform proposals, a word's original literal form is always
+preserved. Unlike annotating words with their IPA forms above,
+diacritical marks are closely integrated with letters so a learner can
+"read once and learn both the literal and the phonetic form." In
+inputting English, the learner still uses the original literal form
+only.
+    * Orthography-Enhanced English (OEE) - Sometimes spelling a word
+based on its pronunciation can be hard, even for native speakers. For
+example, is it Lawrence or Lawrance? We can slightly change a word's
+visual form to help recall its correct spelling. For example, when the
+computer displays a word that has the -ance suffix (e.g. instance), it
+can lower the letter a to some degree, just like Intel has a trademark
+"intel" with a lowered e. Such a new visual form can help people
+recall that the unclear letter in inst?nce is a because a is always
+lowered in -ance while e is never lowered in -ence.
+
+Computer-Assisted Foreign Language Writing
+
+    * Input-Driven Syntax Aid (IDSA) - As a non-native English user
+inputs a word, e.g. search, the word's sentence-making syntaxes are
+prompted by the computer, e.g.
+              v. search:  n. searcher search~ [n. search scope] [for
+n. search target]
+      so he can now write a syntactically valid sentence like "I'm
+searching the room for the cat."
+    * Input-Driven Ontology Aid (IDOA) - As a non-native English user
+inputs a word, e.g. badminton, things (entities) and relations that
+normally co-exist with the word in the same scenario or domain are
+prompted as a systematic ontology graph by the computer, e.g. entities
+like racquet, shuttlecock and playing court, relations like alternate,
+serve and strike, and even full-scripted composition templates like
+template: a badminton game. The benefits of the ontology aid are
+twofold. First, the ontology helps the user verify that the "seed
+word", badminton, is a valid concept in the intended scenario (or
+context); second, the ontology pre-emptively exposes other valid words
+in this context to the user, preventing him from using a wrong word,
+e.g. bat (instead of racquet), from the very beginning.
+
+Foreign Language Reading without Learning that Language
+
+    * Full-Automatic Layered-Quality Machine Translation (FALQ-MT) -
+Lexical and syntactic ambiguities are translated to fuzzy concepts and
+structures instead of precise but error-prone results. Less
+information is better than misinformation. If the reader can't guess
+the meaning of a fuzzy occurrence from its context, he can "zoom in"
+and see more detailed translation possibilities if he feels that
+occurrence is important.
+
+Foreign Language Writing without Learning that Language
+
+    * Formal Language Writing and Machine Translation (FLW) - A person
+not knowing a target language can generate information in that
+language by composing in a formal language based on his native
+vocabulary and having the composition machine-translated. Tools such
+as the input-driven syntax aid and input-driven ontology aid can be
+borrowed to assist the person in formal language writing. Manual word
+sense disambiguation (WSD) can be conducted after the composition is
+finished, on a domain-to-domain basis, because it is cognitively
+easier for the writer to focus on a single domain at a time and answer
+a series of questions "Does <word_i> belong to this domain?"
+
+Ontology-Based Resource Sharing
+
+    * Wikipedia-Based Resource Sharing (WP-RES) - A useful property of
+Wikipedia is that each Wikipedia article or category can serve as a
+unique address, or "coordinates", for the topic it corresponds to.
+With this property, we can enable people with the same interest to
+rendezvous at the same Wikipedia page and therefore talk with each
+other. People could also register resources at a Wikipedia page's
+External Links section so that other people with the same interest can
+find them. People could even "subscribe" to a Wikipedia page for new
+and updated resources and opportunities on that topic.
+
+Ontology-Based Problem-Solving Skills Sharing
+
+    * Wikipedia: From Knowledgebase to Strategybase (STRABASE) - If
+we're solving a problem, say, a math problem, we choose a seemingly
+promising strategy from our "strategy bases" in our minds, according
+to the problem's main type and characteristic conditions. Such a
+"strategy base" is something we can build up externally using a wiki.
+A "strategy" is a special kind of knowledge that caters to certain
+problem characteristics and provides certain problem-solving
+frameworks. The wiki can store and categorize strategies and domain
+knowledge by their intended problem types and characteristics, so the
+human can better evaluate, select and apply strategies relevant to his
+problem.
+
+Miscellaneous
+
+    * Chinese Pinyin Input Method Revisited (PYIME) - Today's Chinese
+pinyin input methods inherit the single-row candidates window from the
+DOS era. If we categorize candidate characters into multiple rows
+according to some criteria, the user can more easily home in on his
+desired character. For example, each row contains characters that have
+the same phonetic radical, and one row reads "? ? ? ? ?", while
+another row reads "? ? ?". Rows can also correspond to the five
+possible tones in Chinese, as most mainland Chinese don't type tones.
+Still, there can be a special, first row for the most frequently used
+words and characters.
+    * A Politically Correct New Name for English (ARCS) - As
+technology like automatic code-switching would make English a much
+cheaper commodity for non-native people to acquire, for the first time
+it will become possible for most people in the world to use decent
+English. But nationalist sentiments can be a negative factor for some
+people to adopt English. While it is logically recognized by everybody
+that all natural languages are actually made of equally random
+syllables, emotionally people can still more or less feel unequal that
+one language is more international than others. A reason for this
+paradox is that languages are named by their nations of origin:
+English, French, Spanish, etc. Therefore, we can use a "renaming"
+technique to better reflect a language's random nature rather than
+nationalist connotation. Actually, the word "language" itself already
+has a strong nationalist connotation, and I propose the term "code
+system" to eliminate that connotation. As for English, let's rename it
+as "A Random Code System", or ARCS for short.
+    * Foreign Language Proficiency Measurement (FLPM) - How does a
+non-native speaker introduce his language level to a native speaker in
+an understandable manner? The computer can test his proficiency and
+compare it with native speakers at different ages. Introductions like
+"My English level is like a 10-year-old American child" should be
+understood well by a native speaker.
+
+
+From alta-tech at alta.asn.au  Sat Sep 26 01:35:57 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Fri, 25 Sep 2009 11:35:57 -0400
+Subject: [ALTA-Tech] CFP -- HCSNet Workshop on Building the Australian
+	National Corpus: Data Sources and Tools
+Message-ID: <8807e0a90909250835l71ee2a22gd5fe7965a6d4c4@mail.gmail.com>
+
+   HCSNet Workshop on Building the Australian National Corpus: Data
+			  Sources and Tools
+
+		      Thursday 3rd December 2009
+	      University of New South Wales, Sydney, NSW
+
+	    http://sf09.hcsnet.edu.au/summerfest09/ausnc09
+
+
+	   Submission Deadline: Monday 28th September 2009
+
+
+Contact:
+  Michael Haugh (m.haugh at griffith.edu.au)
+  Steve Cassidy (Steve.Cassidy at mq.edu.au)
+  Diego Molla-Aliod (diego.molla-aliod at mq.edu.au)
+
+
+Following on from the successful Designing the Australian National
+Corpus workshop held during SummerFest 2008, HCSNet (the ARC Research
+Network in Human Communication) is organising a workshop on Building
+the Australian National Corpus to be held as part of SummerFest 2009.
+
+This workshop focuses on current developments and emerging
+possibilities in language data gathering and tools that might
+complement existing collections of language data in building the
+Australian National Corpus.
+
+While sources like the World Wide Web have enormous potential there
+are numerous challenges facing those wishing to draw out
+linguistically relevant data from the Web. In constructing the
+Australian National Corpus, then, a wider range of data sources needs
+to be drawn upon. The aim of the workshop is thus to bring together
+researchers with expertise in corpus and web linguistics along with
+corpus building and annotation in a single forum in order to work
+towards strategies to capitalize on the potential for language data in
+existing as well as new collections to be incorporated into the
+Australian National Corpus in a principled manner.
+
+Topics include but are not limited to:
+
+    * Using the web as a source of corpus data
+    * Bringing existing data collections into the AusNC
+    * Making existing data useful in other fields of research
+    * Proposed models for collecting new data
+    * Legal issues for data collection and sharing
+    * Technical infrastructure and requirements
+    * Long term curation of the AusNC
+
+There will be a keynote presentation by Prof. Gerhard Leitner from
+Frieie Universitat Berlin. Prof. Leitner is the author of the two
+volume book "Australia's Many Voices" (2004, Mouton de Gruyter),
+co-editor of "The habitat of Australia's Aboriginal Languages" (2007,
+Mouton de Gruyter) and "Language in Australia and New Zealand. A
+Bibliography and Research Database, 1788-present" (2006, 2008), and
+was also involved in the construction of the Indian English component
+of the International Corpus of English.
+
+Important Dates
+
+    * Submission Deadline: Monday 28th September 2009
+    * Notification of Acceptance: Monday 12th October 2009
+    * Registration: Closes Friday 6th November 2009
+    * Event Date: Thursday 3rd December 2009
+
+From alta-tech at alta.asn.au  Thu Dec 17 16:00:05 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Thu, 17 Dec 2009 16:00:05 +1100
+Subject: [ALTA-Tech] ICADL Call for Papers
+Message-ID: <1E24F8498F299B4986C854A88847244050B73A57@EXNSW-MBX01.nexus.csiro.au>
+
+-------------------------------------------------
+
+ICADL 2010 Call for Papers
+
+** Apologies for Cross Postings **
+
+------------------------------------------------------------------------
+-------
+
+ICADL 2010 CALL FOR PAPERS
+
+12th International Conference on Asia-Pacific Digital Libraries (ICADL)
+Gold Coast, Queensland, June 21-25, 2010
+http://www.icadl2010.org/
+
+In conjunction with the 10th ACM/IEEE JCDL (Joint Conference on Digital
+Libraries).
+
+Conference Overview
+-------------------------------
+ICADL welcomes submissions in the areas of computer science, library and
+information science and knowledge management involving applications to
+environmental sciences, social sciences, humanities and museum studies.
+Submissions associated with the ICADL 2010 theme, of "Digital Libraries
+in a Time of Global Change", as well as case studies and practical
+implementations are particularly welcome.
+
+The conferences welcome contributions from all fields associated with
+Digital Libraries including:
+*	Information Visualisation 
+*	Search, retrieval and browsing interfaces to all forms of
+digital content 
+*	Data mining/extraction 
+*	Distributed information systems 
+*	eScience/eResearch data and knowledge management 
+*	Managing Collaborative Collections 
+*	Cultural Heritage Preservation 
+*	Studies of information behaviour and user needs and modelling 
+*	Insightful analyses of existing systems 
+*	Novel library content and use environments 
+*	Electronic publishing 
+*	Preservation systems and algorithms 
+*	Social Networking and Information Systems 
+
+
+Paper Submission and Publication
+---------------------------------------------------
+Authors may choose between two formats: full and short papers. Both
+formats will be rigorously peer reviewed.
+
+Full papers report on mature work or efforts that have reached an
+important milestone. Full papers must not exceed 10 pages.
+
+Short papers report on significant results that do not require the full
+paper length for exposition. Short papers might highlight exciting early
+results or can present theories or systems that can be described
+concisely in the limited space. Short papers must not exceed 4 pages.
+
+All papers must be original contributions and not previously published
+nor currently under consideration for publication elsewhere. Papers must
+be written in English. All accepted papers will be published in the
+Conference Proceedings as part of Springer Verlag's Lecture Notes in
+Computer Science (LNCS) series. All submissions should be made through
+this website and should conform to the LNCS formatting instructions.
+
+Submission instructions are available at:
+http://www.icadl2010.org/submitformat.php
+
+
+Important Dates
+---------------
+Paper submission opening: Dec 20, 2009
+Paper submission deadline: Jan 25, 2010
+Poster and demonstration deadline: Jan 31, 2010
+Tutorial, Panel and workshop proposals: Jan 31, 2010
+Decision notification: March 15, 2010
+Camera ready version:  March 31, 2010
+Conference: June 21-25, 2010
+
+
+From alta-tech at alta.asn.au  Thu Dec 17 16:00:26 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Thu, 17 Dec 2009 16:00:26 +1100
+Subject: [ALTA-Tech] JCDL2010 Call for Papers
+Message-ID: <1E24F8498F299B4986C854A88847244050B73A58@EXNSW-MBX01.nexus.csiro.au>
+
+Apologies for cross-postings
+--------------------------------------------------------------------
+
+Call for Papers
+ 
+Joint Conference on Digital Libraries JCDL 2010
+ 
+June 21-25, 2010  Gold Coast, Queensland, Australia.
+ 
+http://www.jcdl2010.org/
+ 
+Sponsored by ACM SIGIR, ACM SIGWEB, ASIS&T, and IEEE-CS TCDL
+ 
+The ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL) is the major international research forum focused on digital libraries and associated technical, practical, and social issues. JCDL encompasses the many meanings of the term "digital libraries", including (but not limited to) new forms of information institutions; operational information systems with all manner of digital content; new means of selecting, collecting, organizing, distributing, and evaluating digital content; and theoretical models of information media, including document genres and electronic publishing. Digital libraries are distinguished from information retrieval systems because they include more types of media, provide additional functionality and services, and include other stages of the information life cycle, from creation through use. Digital libraries can also be viewed as an extension of the services libraries currently provide.
+ 
+The theme of JCL 2010 is ?Digital Libraries ? 10 years past, 10 years forward, a 2020 vision?. This theme reflects the fact that the context in which digital libraries were originally conceived has significantly changed in the context of new information models embodied in Web 2.0 and popular social networking applications. In this spirit, we are especially interested in papers that address and demonstrate new models of collaborative, participatory information interaction increasingly ubiquitous in the Web 2.0 context.
+ 
+JCDL 2010 invites submissions of papers and proposals for posters, demonstrations, tutorials, and workshops that will make the conference an exciting and creative event to attend. As always, the conference welcomes contributions from all the fields that intersect to enable Digital Libraries. Topics include, but are not limited to:
+ 
+?       Collaborative and participatory information environments
+ 
+?       Cyberinfrastructure architectures, applications, and deployments
+ 
+?       Data mining/extraction of structure from networked information
+ 
+?       Digital library and Web Science curriculum development
+ 
+?       Evaluation of online information environments
+ 
+?       Impact and evaluation of digital information in education
+ 
+?       Information policy and copyright law
+ 
+?       Personal digital information management
+ 
+?       Retrieval and browsing
+ 
+?       Social networks and networked information
+ 
+?       Social-technical perspectives of digital information
+ 
+?       Studies of human factors in networked information
+ 
+?       Systems, algorithms, and models for data preservation
+ 
+?       Theoretical models of information interaction and organization
+ 
+?       Visualization of large-scale information environments
+ 
+Important Dates
+ 
+?         All papers are due Monday, January 25, 2010 at 5 PM EST.
+?         Demonstration submissions are due Monday, February 1, 2010 at 5 PM EST.
+?         Tutorial proposals are due Monday, February 1, 2010 at 5 PM EST.
+?         Poster submissions are due Monday, February 8, 2010 at 5 PM EST.
+?         Workshop proposals are due Monday, February 15, 2010 at 5 PM EST.
+?         Notification of acceptance to authors by March 15, 2010.
+?         Doctoral consortium abstracts are due Wednesday, March 31, 2010.
+ 
+Submission and Formatting Instructions are available at:
+ 
+http://www.jcdl2010.org/submitformat.php
+----------------------------------------------------
+
+
+From alta-tech at alta.asn.au  Tue Dec 22 22:35:04 2009
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Tue, 22 Dec 2009 22:35:04 +1100
+Subject: [ALTA-Tech] Research Position: Biomedical Text Mining (Melbourne;
+	NICTA)
+Message-ID: <53d5921b0912220335r1fc569fcle500114a48627c53@mail.gmail.com>
+
+Research / Senior Researcher in Biomedical Text Mining
+NICTA Victoria Research Laboratory
+Melbourne, Australia
+
+National ICT Australia (NICTA) is Australia's ICT Research Centre of
+Excellence. NICTA aims to bring together world-class researchers and
+professional staff, enhance their skills, and build a culture of
+entrepreneurship and achievement in use-inspired research that will
+build Australia's ICT capacity.
+
+We are seeking a Researcher /Senior Researcher for a project in Text
+Mining for Biomedical Applications. The successful candidate will work
+with an existing team---of researchers, software engineers, University
+of Melbourne research students, and collaborators from biomedical
+partners---in developing new techniques in Information Retrieval,
+Language Technology, and Text Mining, of value to biomedical
+researchers and clinicians.
+
+The successful candidate will have a PhD in Computer Science,
+Computational Linguistics, or a related field, with a proven research
+contribution in the topic areas of this project. Good communication
+and teamwork skills are also essential; previous experience in
+biomedical applications and a demonstrated history of innovation are
+highly desirable. Candidates for the Senior Researcher level are
+expected to have 4+ years of postdoctoral experience, or equivalent
+relevant industry experience, as well as demonstrated experience in
+developing research agendas and supervising junior staff and research
+students.
+
+Further information:
+Please contact Dr. Lawrence Cavedon (lawrence.cavedon at nicta.com.au) or
+go to   http://www.nicta.com.au/research/projects/BioTALA
+
+Applications:
+Please visit NICTA Careers to view the criteria essential to this role
+and apply online (http://nicta.com.au/director/careers.cfm).
+
+Closing date:
+February 26, 2010
+

@@ -1,0 +1,14 @@
+body, p, li, blockquote { font-family: "Trebuchet MS", Arial, Helvetica;
+	background: white;
+        text-align: justify }
+
+td { font-family: "Trebuchet MS", Arial, Helvetica }
+
+body, p, li, blockquote { font-size:10pt }
+
+h5 { font-size:10pt }
+
+td.title {
+	text-align: right;
+	font-size: larger;
+        font-weight: bold }

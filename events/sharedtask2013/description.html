@@ -1,0 +1,217 @@
+<!DOCTYPE 
+HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html lang="en">   
+<head>
+  <title>ALTA 2013 Shared Task Description</title>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+  <link rel="stylesheet" href="sharedtask.css" type="text/css">
+</head>
+
+<body>
+<!-- This table contains the main structure of the page -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="This table contains the main structure">
+
+  <tr valign="middle">
+    <!-- Logo -->
+    <td width="85" align="center"><a href="http://www.alta.asn.au"><img src="http://www.alta.asn.au/images/logo_sm.jpg" width="74" height="65" border="0" alt="ALTA logo"></a></td>
+    <!-- Title -->
+    <td width="100%" colspan="5" class="sitename" align="center">
+Language Technology Programming Competition 2013</td>
+  </tr>
+
+  <tr valign="top">
+
+<td width="15%">
+ 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="headerbar" summary="This table contains the top level navigation links">
+
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="index.html">Home</a> 
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="description.html">Task Description</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="info.html">Useful Information</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="submission.html">Submission</a>
+    </td> 
+ </tr>
+
+
+<tr><td>&nbsp;</td></tr>
+</table>
+<!-- End Macquarie navigation table -->
+</td>
+
+<td width="2%">&nbsp;</td>
+
+
+<td width="53%">
+
+<!-- END OF HEADER - DO NOT EDIT ABOVE THIS LINE - Document Id: "altw"  -->
+
+
+
+
+<h2>2013 Shared Task Description</h2>
+
+<h3>Basic Task Description</h3>
+
+<p>July 10, 2013 | Version 1</p>
+
+<p> The goal of this task is to recover missing information about word
+casing and punctuation in English text. Such low quality text can be
+the result of automated speech transcription, or optical character
+recognition (OCR), or text written in a hurry such as quick notes in
+minutes, instant messaging, or web forums.</p>
+
+<p>To make this task easier, we have simplified it from a more
+ambitious task whose goal is to recover all the capitalisation and
+punctuation marks. For example, given the following text:</p>
+
+<blockquote>
+<p>...  stored at the ucla television archives the archived episodes were telecast march 8 16 and 24 1971 april 1 and  ...</p>
+</blockquote>
+
+<p>We would hope to restore it to:</p>
+<blockquote>
+<p>...  stored at the UCLA Television Archives. The archived episodes were telecast: March 8, 16, and 24, 1971, April 1 and  ...</p>
+</blockquote>
+
+<p>In this task we only ask you to predict wheter the word in its
+original form has any characters in uppercase, and whether the word is
+followed by one of these punctuation marks:</p>
+
+<ul>
+  <li>,.;:?!</li>
+</ul>
+
+<p>You do not need to determine what particular characters of the word
+are in uppercase, or what punctuation mark follows the word.</p>
+
+<p>You will be given a file that lists a word per line like this:</p>
+
+<pre>
+ID WORD
+255 stored
+256 at
+257 the
+258 ucla
+259 television
+260 archives
+261 the
+262 archived
+263 episodes
+264 were
+265 telecast
+266 march
+267 8
+268 16
+269 and
+270 24
+271 1971
+271 april
+273 1
+274 and
+</pre>
+
+<p>The first line contains header information that you can
+ignore. Each of the following lines contains a word ID and the actual
+word.</p>
+
+<p>You will need to produce a file that lists the IDs of all words
+that have at least one capitalised character and the IDs of all words
+that are followed by a punctuation mark. The correct submission for the
+above example is:</p>
+
+<pre>
+Id,documents
+Case,258 259 260 261 266 272
+Punct,260 265 267 268 270 271
+</pre>
+
+<p>This submission says that word with ID 258 has at least one character in uppercase, word 260 has uppercase and punctuation marks, and so on.</p>
+
+<h3>Data Files and Submission</h3>
+
+<a>We will use <a href="http://inclass.kaggle.com">Kaggle in Class</a>
+for this year's competition (look for
+the <a href="https://inclass.kaggle.com/c/alta-2013-challenge">ALTA
+2013 Challenge</a>). The data files and submission instructions will
+be provided in the competition website.</a>
+    
+
+<h3>Important Dates</h3>
+<table cellpadding="3">
+    <tbody>
+        <tr>
+            <td align="left">Release of training data</td>
+            <td align="left">On registration</td>
+        </tr>
+        <tr>
+            <td align="left">Deadline for submission of results over test data</td>
+            <td align="left">4 Oct 2013</td>
+        </tr>
+        <tr>
+            <td align="left">Notification of results</td>
+            <td align="left">11 Oct 2013</td>
+        </tr>
+        <tr>
+            <td align="left">Deadline for submission of system description poster</td>
+            <td align="left">27 Oct 2013</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- End of body content -->  </td>
+ <td width="2%"> </td>
+ <td width="28%"><br>
+
+<tr>
+<td colspan="6">
+
+<!-- Logos -->
+
+<!-- ----- FOOTER - DO NOT EDIT BEYOND THIS LINE ----- -->
+
+
+</td>
+
+<td width="2%">&nbsp;</td>
+
+</tr>
+</table>
+<!-- End of main table -->
+
+<!-- Start of footer -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<!-- <td class="footertext"> 
+<td>
+For any comments or questions about these pages please contact the
+ALTA Workshop 2010
+organisers (altw2010 AT gmail DOT com)
+<p></p> -->
+</td>
+</tr>
+</table>
+<!-- End of footer -->
+<hr>
+&copy; ALTA 2013. <a href="mailto:shared.task@alta.asn.au">Competition
+Organisers</a>.
+</body>
+</html>

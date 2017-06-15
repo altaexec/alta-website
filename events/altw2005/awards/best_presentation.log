@@ -1,0 +1,60 @@
+This is TeX, Version 3.14159 (Web2C 7.3.7x) (format=latex 2002.10.1)  1 DEC 2005 16:33
+**best_presentation
+(./best_presentation.tex
+LaTeX2e <2001/06/01>
+Babel <v3.7h> and hyphenation patterns for american, polish, loaded.
+(/disks/vesuvius/share/TeXLive7/texmf/tex/latex/base/article.cls
+Document Class: article 2001/04/21 v1.4e Standard LaTeX document class
+(/disks/vesuvius/share/TeXLive7/texmf/tex/latex/base/size10.clo
+File: size10.clo 2001/04/21 v1.4e Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./best_presentation.aux)
+\openout1 = `best_presentation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <24.88> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 18.
+ [1
+
+] (./best_presentation.aux) ) 
+Here is how much of TeX's memory you used:
+ 218 strings out of 50851
+ 2460 string characters out of 1195198
+ 55404 words of memory out of 1500001
+ 3218 multiletter control sequences out of 10000+15000
+ 6728 words of font info for 24 fonts, out of 400000 for 1000
+ 34 hyphenation exceptions out of 1000
+ 23i,8n,18p,142b,212s stack positions out of 1500i,500n,1500p,200000b,5000s
+
+Output written on best_presentation.dvi (1 page, 7172 bytes).

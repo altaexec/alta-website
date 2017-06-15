@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>ACL 2008 Conference</title>
+<link rel="stylesheet" rev="stylesheet" href="standard.css">
+</head>
+<body>
+<center>
+<img src="acl08-logo.gif" alt="ACL-08 logo">
+<P>
+<h1>46th Annual Meeting of the Association of Computational Linguistics</h1>
+
+<p>June 15 - June 20, 2005<br>
+Ohio State University<br>
+Columbus, Ohio, USA<br>
+<a href="http://www.aclweb.org/mirror/acl2008/">http://www.aclweb.org/mirror/acl2008/</a></p>
+
+
+
+<p>
+
+<table cellspacing="0" cellpadding="5" border="0" class="bg1">
+<tr><td>&nbsp;&nbsp;&nbsp;</td><td align=center><a href="ACL/index.html">Main Conference</a></td>                        <td><a href="ACL/ACL-2005.pdf">pdf</a></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;</td><td align=center><a href="PosterDemo/index.html">Poster and Demo Session</a></td>         <td><a href="PosterDemo/PosterDemo-2005.pdf">pdf</a></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;</td><td align=center><a href="Student/index.html">Student Research Workshop</a></td>          <td><a href="Student/Student-2005.pdf">pdf</a></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;</td><td align=center><a href="tutorials.pdf">Tutorials</a></td>     			         <td><a href="tutorials.pdf">pdf</a></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;</td><td align=center><a href="authors.html">Author Index</a></td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;</td><td align=center><a href="ACL-2005-with-workshops.bib">Bibliography (BibTeX)</a></td></tr>
+</table>
+
+<p>
+<b>Workshops</b>
+<p>
+
+<table cellspacing="0" cellpadding="5" border="0" class="bg1">
+<tr><td>W01: <a href="TNLP/index.html">Effective Tools and Methodologies for Teaching NLP and CL</a></td>          <td><a href="TNLP/TNLP-2005.pdf">pdf</a></td></tr>
+<tr><td>W02: <a href="EduApp/index.html">Building Educational Applications Using NLP</a></td>     				  <td><a href="EduApp/EduApp-2005.pdf">pdf</a></td></tr>
+<tr><td>W03: <a href="CorpAnn/index.html">Frontiers in Corpus Annotations II: Pie in the Sky</a></td>     					  <td><a href="CorpAnn/CorpAnn-2005.pdf">pdf</a></td></tr>
+<tr><td>W04: <a href="FeatEng/index.html">Feature Engineering for Machine Learning in Natural Language Processing</a></td>     			  <td><a href="FeatEng/FeatEng-2005.pdf">pdf</a></td></tr>
+<tr><td>W05: <a href="Psychocomp/index.html">Psychocomputational Models of Human Language Acquisition</a></td>     				  <td><a href="Psychocomp/Psychocomp-2005.pdf">pdf</a></td></tr>
+<tr><td>W06: <a href="CoNLL/index.html">Ninth Conference on Computational Natural Language Learning</a></td>     				  <td><a href="CoNLL/CoNLL-2005.pdf">pdf</a></td></tr>
+<tr><td>W07: <a href="Semitic/index.html">Computational Approaches to Semitic Languages</a></td>     						  <td><a href="Semitic/Semitic-2005.pdf">pdf</a></td></tr>
+<tr><td>W08: <a href="WPT/index.html">Building and Using Parallel Texts</a></td>     						  <td><a href="WPT/WPT-2005.pdf">pdf</a></td></tr>
+<tr><td>W09: <a href="MTSumm/index.html">Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization</a></td>     	  <td><a href="MTSumm/MTSumm-2005.pdf">pdf</a></td></tr>
+<tr><td>W10: <a href="DLA/index.html">ACL-SIGLEX Workshop on Deep Lexical Acquisition</a></td>     						  <td><a href="DLA/DLA-2005.pdf">pdf</a></td></tr>
+<tr><td>W11: <a href="http://www.cs.columbia.edu/nlp/acl05soft/">Workshop on Software</a></td>     						  <td>N/A</td></tr>
+<tr><td>W12: <a href="SemEq/index.html">Empirical Modeling of Semantic Equivalence and Entailment</a></td>     					  <td><a href="SemEq/SemEq-2005.pdf">pdf</a></td></tr>
+<tr><td>W13: <a href="Biolink/index.html">Linking Biological Literature, Ontologies and Databases</a></td>     					  <td><a href="Biolink/Biolink-2005.pdf">pdf</a></td></tr>
+</table>
+
+<p>Published and distributed by the Association for Computational Linguistics<br>
+<a href="http://www.aclweb.org">http://www.aclweb.org/</a><br>
+&copy; 2005 Association for Computational Linguistics</p>
+
+
+<p>
+</center>
+<p>&nbsp;
+</body>
+</html>

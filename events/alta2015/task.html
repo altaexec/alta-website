@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="logos/logo_sm.jpg">
+
+    <title>ALTA 2015</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div class="jumbotron">
+      <div class="container">
+        <br>
+	<br>
+	<h2>13th annual workshop of <br>The Australasian Language Technology Association</h2>
+        <h3>University of Western Sydney, Parramatta</h3>
+      </div>
+    </div>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Home</a>
+          <a class="navbar-brand" href="submissions.html">Submissions</a>
+          <a class="navbar-brand" href="task.html">Shared Task</a>
+          <a class="navbar-brand" href="programme.html">Programme</a>
+          <a class="navbar-brand" href="attending.html">Attending</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+        </div><!--/.navbar-collapse -->
+      </div>
+    </nav>
+
+    <div class="container">
+      <div class="row">
+
+
+<h3>Identifying French Cognates in English Text</h3>
+
+<p>Cognates words are word pairs that are similar in spelling, pronunciation, and meaning between two languages.
+For instance, the English word <em>chair</em> (university position) and the French word <em>chaire</em> are cognates since both refer to the same role, and are spelled and pronounced similarly.
+The difficulty arises when we consider false cognate pairs.
+These are pairs of words which have similar spelling or pronunciation, but different meaning.
+For instance, the French word <em>pain</em> means bread, which is not what an English speaker might expect.</p>
+
+<p>Cognate pairs are useful when <strong>learning second languages</strong> since they are easy to understand:
+a learner can use knwoledge from their first language to understand unseen words in the second language.
+Therefore, being able to detect cognate pairs in texts has exciting applications in computer assisted second language learning.</p>
+<p><strong>Your task</strong> is to identify in English texts all the cognates
+from the perspective of the French language. In other words, identify
+all the words in the English text that would acceptably translate into
+a similar word in French.
+The winner will receieve a minimum <strong>AUD 350 prize money</strong>. This
+amount is guaranteed, and it may be higher depending on additional
+sponsorship.</p>
+
+<h3>Participating</h3>
+
+<p>We will use <a href="http://inclass.kaggle.com">Kaggle in Class</a>
+for this year's competition (look for
+the <a href="https://inclass.kaggle.com/c/alta-2015-challenge">ALTA
+2015 Challenge</a>). The data files and submission instructions will
+be provided in the competition website.</p>
+
+<p>To <strong>register</strong>, send an email to Diego Molla
+(<a href="mailto:shared.task@alta.asn.au">shared.task@alta.asn.au</a>)
+with the following information:</p>
+
+<ul>
+    <li>Name of your team;</li>
+    <li>Name and current studies, including the current year, degree
+    name, and university (e.g. &quot;third year of the Bachelor of IT
+    at Macquarie University&quot;) of each team member.</li>
+</ul>
+
+<p>We will send you a confirmation message and the training data for
+this year's task.</p>
+
+<p>There will be two competition categories:</p>
+
+<ul>
+  <li>All the members of the <strong>student category</strong> must be
+  university students. It cannot have members that are full-time
+  employed or that have completed a PhD.</li>
+  <li>Any other teams will fall into the <strong>open
+  category</strong>.</li>
+
+</ul>
+
+<h4>Rules</h4>
+
+The winner will be the team who obtains the best results.
+The winner must outperform the results of a sample solution that will be provided.
+There are no limitations on the size of the teams or the means that they can use to solve the problem, as long as the <strong>processing is fully automatic</strong> - there should be no human intervention.
+As soon as you join the competition you will have access to a sample of data that you can use to develop your system.
+To qualify for the prize you need to submit your results on the test dataset by <strong>21st October</strong> and a poster that describes the methods that you used to obtain the results by <strong>7th November</strong>.
+Selected posters will be displayed at ALTA 2015.
+
+<h4>Data</h4>
+
+<p>
+The data is divided into a training set and a test set, each comprising 30 documents, 5 in each of the following genres:
+ novel, subtitles, sports news, political news, technology news, and cooking recipes.
+While the separations between the documents will be included in both the training and testing data, the categories of documents will only be released after submission of results, to allow to be taken into account in detailed results analysis, but not as input to the test data.</p>
+
+<p>Data is divided into document text and annotation files.
+Document text files are formatted with one word (with punctuation attached, if present) per line and each line starts with the line number followed by a space.
+Document boundaries are indicated by a document id marker.
+</p>
+
+<pre>
+1 &lt;docid 1&gt;
+2 Chewy
+3 little
+4 drops
+5 of
+6 chocolate
+7 cookies,
+8 covered
+9 with
+10 peanuts
+</pre>
+
+<p>Annotation files are in .csv format.
+Each line comprises a document number in the first column, and a space delimited list of cognate term indices in the second column.
+Each document has two lines in this annotation file;
+the first line lists sure cognates only, while the second line lists both borderline and sure cognates.</p>
+
+<p>For instance, to indicate that `chocolate' (index 6) and `cookies' (index 7) are cognates of French words, the annotation file will include the entry:
+
+<pre>
+Eval_id,Cognates_id
+1, 6 7
+</pre>
+
+Prior work has been done on this task, and is reported at:
+
+  Wang &amp; Sitbon
+  (2014). <a href="http://eprints.qut.edu.au/79707/">Multilingual
+  Lexical Resources to Detect Cognates in Non-aligned Texts.</a>
+  Proceedings of the Australasian Language Technology Association
+  Workshop 2014, Melbourne, Australia, pp. 14-22.
+
+Please feel free to use this description as a starting point for your submission.
+
+<h3>Organisers</h3>
+
+<p>Preparation of the 2015 task: <br /> Laurianne Sitbon (QUT), Haoxing Wang (QUT).</p>
+
+<p>Shared Task Coordinator and primary contact:<br />
+<a href="mailto:shared.task@alta.asn.au">Diego Molla-Aliod</a> (Macquarie University).</p>
+<p>Please contact Diego if you are <strong>interested in sponsoring</strong> this event.</p>
+
+<h3>Past Shared Tasks</h3>
+
+<ul>
+<li><a href="../sharedtask2014/index.html">2014</a></li>
+<li><a href="../sharedtask2013/index.html">2013</a></li>
+<li><a href="../sharedtask2012/index.html">2012</a></li>
+<li><a href="../sharedtask2011/index.html">2011</a></li>
+<li><a href="http://www.comp.mq.edu.au/programming/index.htm">2010</a></li>
+</ul>
+
+
+
+
+      </div>
+
+    </div> <!-- /container -->
+    
+    <footer>
+        <p>&copy; ALTA 2015 | The banner image of Parramatta Park was sourced from <a href="https://flic.kr/p/5EUzGJ">Annak on Flickr</a> and is used under the Creative Commons Attribution 2.0 license.</p>
+    </footer>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>

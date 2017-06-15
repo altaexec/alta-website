@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_employee" value="name:employeeno;datatype:int,name:name;datatype:string,name:hours;datatype:int,name:dept;datatype:string,name:salary;datatype:real,name:datehired;datatype:date" />
+</info>

@@ -1,0 +1,250 @@
+<?php
+
+
+// Directory for file storing filesystem path
+$upload_dir = "/home/www/comp/uploads/2011_Programming/";
+
+// Directory to store and delete temporary for a short period of time
+$workspace_dir = "/home/www/comp/uploads/workspace/";
+
+// Directory for file storing web-server directory
+$web_upload_dir = "/upload";
+
+$message = "";
+
+if(isset($_FILES['file']))  
+{
+	// testing upload dir 
+	// remove these lines if you're sure 
+	// that your upload dir is really writable to PHP scripts
+	/*
+	$tf = $upload_dir.'/'.md5(rand()).".test";
+	$f = @fopen($tf, "w");
+	if ($f == false) 
+	    die("Fatal error! {$upload_dir} is not writable. Set 'chmod 777 {$upload_dir}'
+	        or something like this");
+	fclose($f);
+	unlink($tf);
+	*/
+	// end up upload dir testing 
+
+	
+	//if ((($_FILES["file"]["type"] == "image/gif")
+	//|| ($_FILES["file"]["type"] == "image/jpeg")
+	//|| ($_FILES["file"]["type"] == "image/pjpeg"))
+	//&& ($_FILES["file"]["size"] < 20000))
+	if ($_FILES["file"]["size"] <= 2048000) // Limiting to 2MB
+	{
+	
+		if ($_FILES["file"]["error"] > 0)
+		{
+			//echo "Return Code: " . $_FILES["file"]["error"] . "<br />";
+			$message .= "An error occurred while uploading. Ensure you've attached a file. Please try again. If this problem persists, please contact us.";
+		}
+		else
+		{
+//			echo "Upload: " . $_FILES["file"]["name"] . "<br />";
+//			echo "Type: " . $_FILES["file"]["type"] . "<br />";
+//			echo "Size: " . ($_FILES["file"]["size"] / 1024) . " Kb<br />";
+//			echo "Temp file: " . $_FILES["file"]["tmp_name"] . "<br />";
+
+			include 'keys.php';
+
+			foreach ($keys as &$key) {
+				$key = $key . ".txt";
+			}
+			/*
+			foreach ($keys as $key) {
+				echo $key;
+				echo "\n<br>";
+			}
+			*/
+			
+			if (file_exists($upload_dir . $_FILES["file"]["name"]))
+			{
+				global $message;
+				//echo $_FILES["file"]["name"] . " already exists. ";
+				$message .= "Please try again with a different file name.";
+			}
+			else if ( !in_array($_FILES["file"]["name"], $keys) ) {
+				$message .= "The filename of your submission does not match a 6-digit submission key (which you should have been received via email after registratation). Please contact us if you're having trouble.";
+			}
+			else
+			{
+				$file_name = time() . "__" . $_FILES["file"]["name"];
+
+
+				// Now check if the submitted file is in the right format
+				copy($_FILES["file"]["tmp_name"], $workspace_dir . $file_name);
+
+				//$result = system("/usr/lib/python2.4 /home/www/comp/cgi-bin/eval.py");
+				//print_r($result);
+				
+				echo `/usr/lib/python2.4`;
+				die();
+				
+
+
+
+//				move_uploaded_file($_FILES["file"]["tmp_name"],
+//				                   $upload_dir . $file_name);
+//				echo "Stored in: " . $upload_dir . $file_name;
+//				header( 'Location: ./thanks.html' ) ;
+			}
+		}
+	}
+	else
+	{
+		echo "Invalid file";
+		global $message;
+		$message .= "The file you've submitted does not meet the submission requirements. The file size could be too large. Please review the submission requirements.";
+	}
+}
+?>
+<!DOCTYPE 
+HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html lang="en">   
+<head>
+<title>ALTA 2011 Shared Task - Submission</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="sharedtask.css" type="text/css">
+</head>
+
+<body>
+<!-- This table contains the main structure of the page -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="This table contains the main structure">
+
+<tr valign="middle">
+<!-- Logo -->
+<td width="85" align="center"><a href="http://www.alta.asn.au"><img src="http://www.alta.asn.au/images/logo_sm.jpg" width="74" height="65" border="0" alt="ALTA logo"></a></td>
+<!-- Title -->
+<td width="100%" colspan="5" class="sitename" align="center">
+Language Technology Programming Competition 2011</td>
+</tr>
+
+<tr valign="top">
+
+<td width="15%">
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="headerbar" summary="This table contains the top level navigation links">
+
+
+<tr>
+<td align="left" class = "headercell">
+<a class="headerlink" href="index.html">Home</a> 
+</td>
+</tr>
+
+<tr>
+<td align="left" class = "headercell">
+<a class="headerlink" href="description.html">Task Description</a>
+</td>
+</tr>
+
+<tr>
+<td align="left" class = "headercell">
+<a class="headerlink" href="info.html">Useful Information</a>
+</td>
+</tr>
+<tr>
+<td align="left" class = "headercell">
+<a class="headerlink" href="submission.html">Submission</a>
+</td> 
+</tr>
+
+
+<tr><td>&nbsp;</td></tr>
+</table>
+<!-- End Macquarie navigation table -->
+</td>
+
+<td width="2%">&nbsp;</td>
+
+
+<td width="53%">
+
+<!-- END OF HEADER - DO NOT EDIT ABOVE THIS LINE - Document Id: "altw"  -->
+
+
+
+<h2>Submission</h2>
+
+
+
+
+
+
+<h3>Submission Requirements</h3>
+<p>
+Three different submissions per team will be allowed. The upload file size is limited to approximately 2MB. You may submit as many times as you wish. Re-submissions using the same key will overwrite existing submissions.
+</p>
+
+<h3>Submit Your File</h3>
+
+<?php if ($message != "") { ?>
+<div style="background-color: #FF9; color: #600; margin: 10px 0; padding: 20px; border: 1px solid #ccccc;" class="error">
+	<?php echo $message; ?>
+</div>
+<?php } ?>
+
+<form method="post" enctype="multipart/form-data">
+<label for="file">Filename:</label>
+<input type="file" name="file" id="file" /> 
+<p style="color: #666;"><strong>Note:</strong> The filename must match the 6-digit key supplied to you via email and the file extension <code>txt</code> e.g. XXXXXX.txt (where XXXXXX is the 6-digit key).</p>
+<input type="submit" name="submit" value="Upload" />
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- End of body content -->  </td>
+ <td width="2%"> </td>
+ <td width="28%"><br>
+
+<tr>
+<td colspan="6">
+
+<!-- Logos -->
+
+<!-- ----- FOOTER - DO NOT EDIT BEYOND THIS LINE ----- -->
+
+
+</td>
+
+<td width="2%">&nbsp;</td>
+
+</tr>
+</table>
+<!-- End of main table -->
+
+<!-- Start of footer -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<!-- <td class="footertext"> 
+<td>
+For any comments or questions about these pages please contact the
+ALTA Workshop 2010
+organisers (altw2010 AT gmail DOT com)
+<p></p> -->
+</td>
+</tr>
+</table>
+<!-- End of footer -->
+<hr>
+&copy; ALTA 2011. <a href="mailto:shared.task@alta.asn.au">Competition
+Organisers</a>.
+</body>
+</html>

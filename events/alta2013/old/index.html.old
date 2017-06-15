@@ -1,0 +1,294 @@
+<!DOCTYPE 
+HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">   
+<head>
+  <title>ALTA Workshop</title>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+  <link rel="stylesheet" href="alta_workshop.css" type="text/css">
+</head>
+
+<body>
+<!-- This table contains the main structure of the page -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="This table contains the main structure">
+
+  <tr valign="middle">
+    <!-- Logo -->
+    <td width="5%" align="center"><a href="http://www.alta.asn.au"><img src="http://www.alta.asn.au/images/logo_sm.jpg" width="74" height="65" border="0" alt="ALTA logo"></a></td>
+    <!-- Title -->
+    <td width="95%" colspan="0" class="sitename" align="center">Australasian Language Technology Workshop 2013</td>
+  </tr>
+
+  <tr valign="top">
+
+<td width="15%">
+ 
+<!-- This table contains the Macquarie navigation links -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="headerbar" summary="This table contains the top level navigation links">
+
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="index.html">Home</a> 
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="alta-2013-cfp.html">Call for Papers</a> 
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="alta-2013-studenttravel.html">Student Travel Support</a> 
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+	Tutorials
+      <!-- <a class="headerlink" href="alta-2013-tutorials.html">Tutorials</a>-->
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+	Invited Talks
+<!--      <a class="headerlink" href="alta-2013-invitedtalks.html">Invited Talks</a>-->
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="alta-2013-committees.html">Committees</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="alta-2013-instructions.html">Instructions for Authors</a>
+    </td>
+ </tr>
+
+   <tr>
+    <td align="left" class = "headercell">
+<!--	Submissions  -->
+ <a class="headerlink" href="alta-2013-submissions.html">Submissions</a>
+    </td>
+  </tr>
+
+<!--   <tr>
+    <td align="left" class = "headercell">
+	
+      <a class="headerlink" href="http://www.alta.asn.au/events/sharedtask2013/index.html">Shared Task</a>
+    </td>
+  </tr> -->
+
+
+ <tr>
+    <td align="left" class = "headercell">
+	Accepted Papers
+      <!--<a class="headerlink" href="alta-2013-acceptedpapers.html">Accepted Papers</a> -->
+    </td>
+ </tr>
+
+ <tr>
+    <td align="left" class = "headercell">
+      	Registration
+	<!--<a class="headerlink" href="http://www.cs.otago.ac.nz/research/conferences/adcs-altw-2013/alta-reg/altaregfrm.php">Registration</a> -->
+    </td>
+ </tr>
+
+ <tr>
+    <td align="left" class = "headercell">
+	Accommodation 
+      <!-- <a class="headerlink" href="alta-2013-accommodation.html">Accommodation</a> -->
+    </td>
+ </tr>
+
+ <tr>
+    <td align="left" class = "headercell">
+	Programme
+      <!-- <a class="headerlink" href="alta-2013-programme.html">Programme</a> -->
+    </td>
+ </tr>
+
+ <tr>
+    <td align="left" class = "headercell">
+	Proceedings
+      <!-- <a class="headerlink" href="proceedings/index.html">Proceedings</a>-->
+    </td>
+ </tr>
+
+ <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="alta-2013-location.html">Location and travel</a>
+    </td>
+ </tr>
+
+
+
+<tr><td>&nbsp;</td></tr>
+</table>
+<!-- End Macquarie navigation table -->
+</td>
+
+<td width="2%">&nbsp;</td>
+
+
+<td width="53%">
+
+<!-- END OF HEADER - DO NOT EDIT ABOVE THIS LINE - Document Id: "altw"  -->
+
+<center>
+<h1>ALTA Workshop 2013</h1>
+<p>The Eleventh Annual Workshop of the Australasia Language Technology Association</p>
+<p>5&ndash;6 December 2013, Brisbane, Queensland</p>
+
+<p><a href="http://alta.asn.au/events/alta2013">http://alta.asn.au/events/alta2013</a></p>
+
+</center>
+<hr>
+
+
+
+<h3>Overview</h3>
+<p> This year, the Australasian Language Technology Association Workshop (ALTA)
+will be held at Queensland University of Technology, Brisbane from
+Thursday 5 December to Friday 6 December. This event will be the
+eleventh annual installment of the ALTA Workshop in its most-recent
+incarnation, and the continuation of an annual workshop series that
+has existed under various guises since the early 90s. 
+</p>
+
+<p>
+ALTA 2013 will be held in conjuction with
+the <a href="http://www.cs.otago.ac.nz/research/conferences/adcs-altw-2013/index-adcs.php">18th 
+Australasian Document Computing Symposium 2013 (ADCS 2013)</a>.
+</p>
+
+
+<h3>Contact Information</h3>
+
+<p>
+If you'd like to get in touch with the technical co-chairs for ALTA
+2013, please contact Karin Verspoor (<a href="mailto:karin.verspoor@nicta.com.au">karin.verspoor@nicta.com.au</a>) and Sarvnaz Karimi (<a href="mailto:sarvnaz.karimi@csiro.au">sarvnaz.karimi@csiro.au</a>). For 
+the local organizer please contact Laurianne Sitbon (<a href="mailto:laurianne.sitbon@qut.edu.au">laurianne.sitbon@qut.edu.au</a>). 
+
+
+
+<h3>Past Workshops and Summer Schools</h3>
+
+<ul>
+<li><A href="../alta2012">ALTW 2012</a></li>
+<li><A href="../alta2011">ALTW 2011</a></li>
+<li><A href="../alta2010">ALTW 2010</a></li>
+<li><A href="../alta2009">ALTW 2009</a></li>
+<li><a href="../alta2008">ALTW 2008</a></li>
+<li><a href="../altw2007">ALTW 2007</a></li>
+<li><a href="../altw2006">ALTW 2006</a></li>
+<li><a href="../altw2005">ALTW 2005</a></li>
+<li><a href="../altss2004">Summer School ALTSS 2004</a></li>
+<li><a href="../altw2004">ALTW 2004</a></li>
+<li><a href="../altss2003">Summer School ALTSS 2003</a></li>
+<li><a href="../altw2003">ALTW 2003</a></li>
+</ul>
+
+ <!-- End of body content -->  </td>
+ <td width="2%"> </td>
+ <td width="28%"><br>
+
+  <!-- This table contains the What's new section --> 
+
+
+   <p>
+   </p>
+
+   <table width="100%" border="0" cellspacing="0" cellpadding="0"
+	  class="channel"
+	  summary="This table contains current announcements related to this site">
+     <tbody>
+       <tr>
+	 <td class="channelhead" nowrap="nowrap">What's New</td>
+       </tr>
+       <tr>
+	 <td class="news">
+	   <ul>
+		<!--<li>Bonnie Webber and Mark Steedman will give invited talks.</li>-->
+	     <!--<li> Thanks for a great workshop. We'll see you next year in Brisbane!</li> -->
+	     <!--<li> The proceedings are available.</li> -->
+	     <!--<li> The programme is up! </li>-->
+	     <!--<li> <a href="alta-2013-location.html">Travel information</a> is available. </li>-->
+	     <!-- <li> Registration is open.</li> -->
+	     <!-- <li> Accommodation information is now available. </li> -->
+	     <!-- <li> James Curran (University of Sydney) will give a tutorial on an introduction to statistical natural language processing at ALTA2013.</li> -->
+	     <!-- <li> David Martinez (NICTA), Hanna Suominen (NICTA), and Karin Verspoor (NICTA) will give a tutorial on biomedical text processing at ALTA2013 (further details TBA). -->
+	     <!-- <li> Chris Brockett (Microsoft Research) and Jen Hay (University of Canterbury) will give keynote lectures at ALTA2013 (details TBA). -->
+	   </ul>
+	 </td>
+       </tr>
+     </tbody>
+   </table>
+
+
+   <p>
+   </p>
+
+   <table>
+
+<!-- Insert sponsor logos here -->
+
+<tr>
+<h2>SPONSORS</h2>
+<td><a href="http://nicta.com.au/"><img src="logos/nicta_logo_sm.gif" alt="NICTA" height="144" border=0></a></td>
+</tr>
+
+<!--
+<tr>
+<td><a href="http://research.microsoft.com/"><img src="logos/MSResearch_h_rgb_thumb.jpg" alt="Microsoft Research" height="100" border=0></a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.appenbutlerhill.com/"><img src="logos/ABH_logo_72dpi_RGB_small.jpg" alt="Appen Buttler Hill" height="100" border=0></a></td>
+</tr>
+
+<tr>
+<td><a href="http://cs.otago.ac.nz/"><img src="logos/otago-cs-logo-sm.jpg" alt="University of Otago Computer Science" height="120" border=0></a></td> 
+</tr>-->
+
+</table>
+<!-- </p> -->
+
+
+
+  <!-- End of What's new section --> 
+
+<tr>
+<td colspan="6">
+
+<!-- Logos -->
+
+<!-- ----- FOOTER - DO NOT EDIT BEYOND THIS LINE ----- -->
+
+
+</td>
+
+<td width="2%">&nbsp;</td>
+
+</tr>
+</table>
+<!-- End of main table -->
+
+<!-- Start of footer -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<!-- <td class="footertext"> -->
+<td>
+</td>
+</tr>
+</table>
+<!-- End of footer -->
+<hr>
+&copy; ALTA 2013. <a href="mailto:workshop@alta.asn.au">Workshop Organisers</a>.
+</body>
+</html>

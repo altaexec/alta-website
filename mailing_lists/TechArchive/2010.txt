@@ -1,0 +1,297 @@
+From alta-tech at alta.asn.au  Thu Jan  7 00:42:41 2010
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Wed, 6 Jan 2010 14:42:41 +0100
+Subject: [ALTA-Tech] Job Posting: postDoc position at CLST,
+	Radboud University Nijmegen
+In-Reply-To: <a35e84b21001060526i61b055c4o3f67c465a980a337@mail.gmail.com>
+References: <a35e84b21001060526i61b055c4o3f67c465a980a337@mail.gmail.com>
+Message-ID: <a35e84b21001060542p7ab78aacma282180491316158@mail.gmail.com>
+
+PostDoc (2 years) position available at the Radboud University Nijmegen.
+
+*Job description*
+
+The FP7 Marie Curie Initial Training Network "BBfor2" (Bayesian Biometrics
+for Forensics) provides an opportunity for young researchers to study
+several biometric technologies in a forensic context.  The Network consists
+of 9 European research institutes and 3 associated partners.  The Network
+will provide regular workshops and Summer Schools, so that the 15 PhD
+students (Early Stage Researchers - ESRs) and PostDocs (Experienced
+Researchers - ERs) and senior researchers can exchange research experience,
+insights and ideas.   The main areas of research are Speaker Recognition,
+Face Recognition, Fingerprint Recognition, but also combinations of these
+techniques are studied.  The challenge of applying biometric techniques in a
+forensic context is to be able to deal with the uncontrolled quality of the
+evidence, and to provide calibrated likelihood scores.  The researchers in
+this Network will have the opportunity during their assignment to stay for
+some period at another Network institute and to get experience in an
+industrial or forensic laboratory.
+
+
+The PostDoc in the Network will be responsible for the scientific cohesion
+in the Network.  He or she will work together with the PhD students in the
+Network, translate research approaches across biometric modalities, while
+overseeing the overall issues from biometric technology to forensic
+application.  There will be a strong emphasis on organisational and
+reporting skills, stimulating, combining and extending research carried out
+in the Network, resulting in scientific publications. The PostDoc will work
+in close collaboration with the Scientific Co-ordinator of the Network.
+Successful candidates have extensive experience in Machine Learning, Speech
+or Image Processing, Forensic Sciences or related areas.  Experience with
+processing of large data sets and skills in programming and scripting are
+important qualifications.
+
+*Requirements*
+
+Candidates should comply with the rules set forward by the FP7 Marie Curie
+ITNs:  Candidates should
+
+ - be transferring from another country, i.e., not be of Dutch nationality,
+and not have resided more than 12 months in the last 3 years in The
+Netherlands.
+ - be  willing to work in at least one other country in the BBfor2 network.
+
+ - hold a PhD, and have less than 5 years of research experience since their
+master degree.
+
+*Organization*
+
+The project will be carried out within the Centre for Language and Speech
+Technology (CLST), a research unit within the Faculty of Arts of the Radboud
+University Nijmegen.  The CLST hosts a large international group of senior
+researchers and PhD students who do research at the frontier of science and
+develop innovative applications.
+
+*Conditions of employment*
+
+The duration of the contract is 2 years. The PostDoc will receive an initial
+contract for the duration of one year, with the possibility of prolongation
+for another 1 year.  The salary is in accordance with the rules of the Marie
+Curie ITNs.  In addition to the salary, travel allowances and career
+exploratory allowances are foreseen according to generous Marie Curie ITN
+provisions.
+
+*Additional information*
+
+For further information about the position, please contact David van
+Leeuwen, d.vanleeuwen at let.ru.nl .
+
+*Application*
+
+Letters of application, including extensive CVs, (with reference to the
+vacancy number 23.01.10 and preferably by e-mail) can be sent to:
+vacatures at let.ru.nl .
+
+
+
+
+
+-- 
+--------------------------------------------------------
+Henk van den Heuvel
+---------------------------------------------------------
+CLST / SPEX
+Radboud University Nijmegen
+Erasmusplein 1
+NL-6525 HT Nijmegen
+Netherlands
+----------------------------------------------------------
+Tel   : +31 24 3611686
+Fax  : +31 24 3612907
+e-mail: H.vandenHeuvel at let.ru.nl
+http://www.ru.nl/clst
+http://www.spex.nl
+---------------------------------------------------------
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20100106/85e3516c/attachment.html>
+
+From alta-tech at alta.asn.au  Tue Jan 26 00:27:18 2010
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Mon, 25 Jan 2010 14:27:18 +0100
+Subject: [ALTA-Tech] Job Posting: PhD position at CLST,
+	Radboud University Nijmegen
+Message-ID: <a35e84b21001250527t847e8bdg87e9ce8c11bd6db0@mail.gmail.com>
+
+PhD (3 years) position available at the Radboud University Nijmegen.
+
+*Job description***
+
+The FP7 Marie Curie Initial Training Network "BBfor2" (Bayesian Biometrics
+for Forensics) provides an opportunity for young researchers to study
+several biometric technologies in a forensic context.  The Network consists
+of 9 European research institutes and 3 associated partners.  The Network
+will provide regular workshops and Summer Schools, so that the 15 PhD
+students (Early Stage Researchers - ESRs) and PostDocs (Experienced
+Researchers - ERs) and senior researchers can exchange research experience,
+insights and ideas.   The main areas of research are Speaker Recognition,
+Face Recognition, Fingerprint Recognition, but also combinations of these
+techniques are studied.  The challenge of applying biometric techniques in a
+forensic context is to be able to deal with the uncontrolled quality of the
+evidence, and to provide calibrated likelihood scores.  The researchers in
+this Network will have the opportunity during their assignment to stay for
+some period at another Network institute and to get experience in an
+industrial or forensic laboratory.
+
+The PhD student will investigate automatic speaker recognition in the
+forensic environment.  The research will include theoretical aspects such as
+developing a general framework for evidence evaluation and reporting, and
+experimental aspects by conducting studies with automatic speaker
+recognition systems.   The candidate will collaborate with other PhD
+students and senior researchers in the Network, in a highly
+interdisciplinary environment.  Successful candidates have a Master Degree
+in Computer Science, Engineering or other relevant disciplines with a strong
+background in pattern recognition and / or signal processing, and excellent
+communication and writing skills in English.
+
+*Requirements***
+
+Candidates should comply with the rules set forward by the FP7 Marie Curie
+ITNs:  Candidates should
+ - be transferring from another country, i.e., not be of Dutch nationality,
+and not have resided more than 12 months in the last 3 years in The
+Netherlands.
+ - be  willing to work in at least one other country in the BBfor2 network.
+ - have less than 4 years of research experience since their master degree,
+and not hold a PhD.
+
+*Organization***
+
+The project will be carried out within the Centre for Language and Speech
+Technology (CLST), a research unit within the Faculty of Arts of the Radboud
+University Nijmegen.  The CLST hosts a large international group of senior
+researchers and PhD students who do research at the frontier of science and
+develop innovative applications.
+
+*Conditions of employment*
+
+The duration of the contract is 3 years. The PostDoc will receive an initial
+contract for the duration of one year, with the possibility of prolongation
+for another 2 years.  The salary is in accordance with the rules of the
+Marie Curie ITNs.  In addition to the salary, travel allowances and career
+exploratory allowances are foreseen according to generous Marie Curie ITN
+provisions.
+
+*Additional information***
+
+For further information about the position, please contact David van
+Leeuwen, d.vanleeuwen at let.ru.nl.
+
+*Application***
+
+The Radboud University is an equal opportunity employer. Female researchers
+are strongly encouraged to apply for this vacancy.
+
+
+
+Letters of application, including extensive CVs, (with reference to the
+vacancy number 23.02.10 and preferably by e-mail) can be sent to:
+vacatures at let.ru.nl.
+
+
+--------------------------------------------------------
+Henk van den Heuvel
+---------------------------------------------------------
+CLST / SPEX
+Radboud University Nijmegen
+Erasmusplein 1
+NL-6525 HT Nijmegen
+Netherlands
+----------------------------------------------------------
+Tel   : +31 24 3611686
+Fax  : +31 24 3612907
+e-mail: H.vandenHeuvel at let.ru.nl
+http://www.ru.nl/clst
+http://www.spex.nl
+---------------------------------------------------------
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20100125/5ffacbc1/attachment-0001.html>
+
+From alta-tech at alta.asn.au  Wed Jan 27 11:20:08 2010
+From: alta-tech at alta.asn.au (Discussion list about ALTA)
+Date: Wed, 27 Jan 2010 11:20:08 +1100
+Subject: [ALTA-Tech] Research Position: Biomedical Text Mining (Melbourne,
+	Australia)
+In-Reply-To: <53d5921b0912220333p10f3ac3k972e088c1eb9838c@mail.gmail.com>
+References: <53d5921b0912220333p10f3ac3k972e088c1eb9838c@mail.gmail.com>
+Message-ID: <53d5921b1001261620y3dce29e5l4cda3df8fdad697@mail.gmail.com>
+
+[Apologies for cross-posting]
+
+Research / Senior Researcher in Biomedical Text Mining
+NICTA Victoria Research Laboratory
+Melbourne, Australia
+
+Closing date for applications: February 26, 2010
+
+National ICT Australia (NICTA) is Australia's ICT Research Centre of
+Excellence. NICTA aims to bring together world-class researchers and
+professional staff, enhance their skills, and build a culture of
+entrepreneurship and achievement in use-inspired research that will
+build Australia's ICT capacity.
+
+We are seeking a Researcher /Senior Researcher for a project in Text
+Mining for Biomedical Applications. The successful candidate will work
+with an existing team---of researchers, software engineers, University
+of Melbourne research students, and collaborators from biomedical
+partners---in developing new techniques in Information Retrieval,
+Language Technology, and Text Mining, of value to biomedical
+researchers and clinicians.
+
+The successful candidate will have a PhD in Computer Science,
+Computational Linguistics, or a related field, with a proven research
+contribution in the topic areas of this project. Good communication
+and teamwork skills are also essential; previous experience in
+biomedical applications and a demonstrated history of innovation are
+highly desirable. Candidates for the Senior Researcher level are
+expected to have 4+ years of postdoctoral experience, or equivalent
+relevant industry experience, as well as demonstrated experience in
+developing research agendas and supervising junior staff and research
+students.
+
+This is a fixed-term position, commencing May 2010 or as soon as
+possible thereafter.
+
+Further information:
+Please contact Dr. Lawrence Cavedon (lawrence.cavedon at nicta.com.au) or
+go to ? http://www.nicta.com.au/research/projects/BioTALA
+
+Application process:
+Please visit NICTA Careers to view the criteria essential to this role
+and apply online (http://nicta.com.au/director/careers.cfm).
+
+Closing date:
+February 26, 2010
+
+
+From vadim.berman at digitalsonata.com  Tue May 25 20:40:29 2010
+From: vadim.berman at digitalsonata.com (Vadim Berman)
+Date: Tue, 25 May 2010 20:40:29 +1000
+Subject: [ALTA-Tech] Japanese <-> English language professionals
+Message-ID: <760959CE04C348859CAD963BFBB79818@vadimbermandell>
+
+Wanted: Japanese language professional, fluent in Japanese and English, with good written communications skills. 
+Linguistic background is a plus, anywhere in the world (telecommuting is OK). 
+
+Task: QA of a MT system on last stages. Plain translation + explanations where the system made errors. 
+
+On a later stage, inclusion in the linguistic development will be considered, but only for local candidates in Melbourne, Australia. 
+
+Contact me for details.
+
+Best regards,
+Vadim Berman
+
+Digital Sonata Pty Ltd
+www.digitalsonata.com
+Australian Business Number: 54 122 188 998
+
+Address: PO Box 803, Camberwell, Vic 3124, Australia
+Phone: +61 (0)3 98094461
+Mobile: +61 (0)432 894 862
+Skype: vadimberman
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://www.ics.mq.edu.au/pipermail/alta-tech/attachments/20100525/d977c784/attachment.html>
+

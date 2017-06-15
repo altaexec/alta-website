@@ -1,0 +1,12 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: btparse
+Description: A BibTeX parsing library
+Version: 0.35
+Requires:
+Libs: -L${libdir} -lbtparse
+Cflags: -I${includedir}
+

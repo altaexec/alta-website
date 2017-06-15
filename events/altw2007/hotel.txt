@@ -1,0 +1,85 @@
+<html>
+<title>Recommended Hotels for ADCS participatns</title>
+<body>
+<center>
+<h2> Hotels near <a href="http://www.zoo.org.au/melbourne">Melbourne Zoo</a> </h2>
+<table border=1 borderspace=2>
+<tr>
+<th>Name</th>
+<th>Address</th>
+<th>Phone</th>
+<th>Online Access</th>
+</tr>
+
+<tr>
+<td>Rydges Hotels </td>
+<td>701 Swanston St. <br>
+Carlton 3053
+</td>
+<td> (03) 9347 7811 </td>
+<td>rydegs.com </td>
+</tr>
+
+<tr>
+<td>Elizabeth Tower Hotel </td>
+<td>792 Elizabeth St. <br>
+Melbourne 3000
+</td>
+<td>(03) 9347 9211</td>
+<td> www.elizabethtower.com.au, or <br>
+www.discountrooms.com.au/index.jsp
+</td>
+</tr>
+
+<tr>
+<td>Redback Hotel</td>
+<td>75 Flemington Rd <br>
+ North Melbourne 3051
+</td>
+<td> (03) 9329 9400 </td>
+<td>&nbsp;</td>
+</tr>
+
+<tr>
+<td>Travel Inn Hotel</td>
+<td> Cnr Drummond & Grattan St <br>
+Carlton 3053
+</td>
+</td>
+<td> (03) 9347 7922 </td>
+<td> www.travelinn.net.au/ </td>
+</tr>
+
+<tr>
+<td>Rydges North Melbourne</td>
+<td>Flemington Road Service Lane </br>
+North Melbourne 3051
+</td>
+<td> (03) 9329 1788 </td>
+<td>&nbsp; </td>
+</tr>
+
+<tr>
+<td>Hotel Ibis Melbourne</td>
+<td> 15-21 Therry St<br>
+Melbourne 3000
+</td>
+<td> (03) 9666 0000 </td>
+<td>ibishotel.com</td>
+</tr>
+
+
+<tr>
+<td>Whitley College</td>
+<td>The University of Melbourne</td>
+<td>(03) 9340 8027 </td>
+<td>
+<a href="http://conf.whitley.unimelb.edu.au/">
+ Conference & events section</a></td>
+</tr>
+</table>
+
+</center>
+
+</body>
+</html>
