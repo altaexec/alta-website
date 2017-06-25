@@ -1,6 +1,36 @@
 ---
 layout: home
 title: Australasian Language Technology Association
+proceedings:
+  - year: 2003
+    aclkey: U03
+  - year: 2004
+    aclkey: U04
+  - year: 2005
+    aclkey: U05
+  - year: 2006
+    aclkey: U06
+  - year: 2007
+    aclkey: U07
+  - year: 2008
+    aclkey: U08
+  - year: 2009
+    aclkey: U09
+  - year: 2010
+    aclkey: U10
+  - year: 2011
+    aclkey: U11
+  - year: 2012
+    aclkey: U12
+  - year: 2013
+    aclkey: U13
+  - year: 2014
+    aclkey: U14
+  - year: 2015
+    aclkey: U15
+  - year: 2016
+    aclkey: U16
+zeroth_proc_year: 2002
 ---
 
       <h1>Latest ALTA News</h1>
@@ -258,26 +288,15 @@ resources in language technology in Australasia.</small></td>
 
  <tr><td class="channelbody"><small>The Proceedings of the
  Australasian Language Technology Workshop are registered at the National
-Library of Australia with the ISSN 1834-7037. They are also available at the <a href="http://www.aclweb.org/anthology/index.html">ACL Anthology</a>.</small>
+Library of Australia with the ISSN 1834-7037. They are available at the <a href="http://www.aclweb.org/anthology/index.html">ACL Anthology:</a>.</small>
 <ul>
-<li><a href="/events/altss_w2003_proc/altw/altw.html">Vol. 1 (2003)</a></li>
-<li><a href="/events/altw2004/publication/index.html">Vol. 2 (2004)</a></li>
-<li><a href="/events/altw2005/cdrom/">Vol. 3 (2005)</a> [<a href="/events/altw2005/cdrom/updates.html">updates</a>]</li>
-<li><a
- href="/events/altw2006/alta-2006-online-proceedings.html">Vol. 4
- (2006)</a></li>
-<li><a href="/events/altw2007/cdrom/index.html">Vol. 5 (2007)</a></li>
-<li><a
-href="http://www.alta.asn.au/events/alta2008/proceedings/index.html">Vol. 6
-(2008)</a></li>
-<li><a href="http://www.alta.asn.au/events/alta2009/alta-2009-proceedings.html">Vol. 7 (2009)</a></li>
-<li><a href="http://www.alta.asn.au/events/alta2010/proceedings/index.html">Vol. 8 (2010)</a></li>
-<li><a href="http://www.alta.asn.au/events/alta2011/proceedings/index.html">Vol. 9 (2011)</a></li>
-<li><a href="http://www.alta.asn.au/events/alta2012/proceedings/index.html">Vol. 10 (2012)</a></li>
-<li><a href="http://www.alta.asn.au/events/alta2013/alta-2013-proceedings.html">Vol. 11 (2013)</a></li>
-<li><a href="http://www.alta.asn.au/events/alta2014/alta-2014-proceedings.html">Vol. 12 (2014)</a></li>
-<li><a href="http://aclweb.org/anthology/U/U15/">Vol. 13 (2015)</li>
-<li><a href="http://aclweb.org/anthology/U/U16/">Vol. 14 (2016)</li>
+  {% for proc in page.proceedings %}
+    <li>
+      <a target="_blank" href="http://aclweb.org/anthology/U/{{ proc.aclkey }}">
+        Vol. {{ proc.year | minus: page.zeroth_proc_year }} ({{ proc.year }})
+      </a>
+    </li>
+  {% endfor %} 
 </ul>
 </td>
 </tr>
