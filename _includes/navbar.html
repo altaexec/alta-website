@@ -1,8 +1,20 @@
+{% for nl in site.navlinks %}
   <tr>
     <td align="left" class = "headercell">
-	  <a class="headerlink" href="mainnav">Top Nav</a> 
+      <a class="header{% if page.key == nl.key %}highlight{% else %}link{% endif %}" href="{{ nl.href }}">{{ nl.name }}</a>
     </td>
   </tr>
+  {% if page.key == nl.key %}
+    {% for nlsub in nl.submenus %}
+  <tr> 
+    <td align="left" class = "subheadercell">
+      <a class="headerlink" href="{{ nlsub.href }}">{{ nlsub.name }}</a>
+    </td>
+  </tr>
+    {% endfor %}
+  {% endif %}
+{% endfor %}  
+<!--
   <tr>
     <td align="left" class = "headerhighlight">
 	  <a class="headerhighlight" href="#">Top Nav Sel</a> 
@@ -18,3 +30,4 @@
 	  <a class="subheaderhighlight" href="#">Sub Nav Sel</a>
     </td>
   </tr>
+-->

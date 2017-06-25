@@ -5,3 +5,17 @@ defaults:
       type: "pages" 
     values:
       layout: "default" 
+navlinks:
+  - name: "Home"
+    key: "home"
+    href: "/index.html"
+    submenus: []
+  - name: "Mailing Lists"
+    key: "mailing_lists"
+    href: "/mailing_lists/index.html"
+    submenus: 
+      - name: "ALTA-Announce"
+        href: "https://groups.google.com/group/alta-announce"
+      - name: "ALTA-Tech"
+        href: "https://groups.google.com/group/alta-tech"
+         
