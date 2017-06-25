@@ -1,0 +1,181 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html lang="en">
+<head>
+  <title>Australasian Language Technology Association</title>
+      
+  <meta http-equiv="content-type"
+ content="text/html; charset=iso-8859-15">
+   <!-- Start generic metadata -->   
+  <meta name="Keywords"
+ content="NLP, natural language processing, Australia, New Zealand, Australasia, language, language technology, natural language, linguistics, computational linguistics">
+   
+  <meta name="description"
+ content="Australasian Language Technology Association">
+   
+  <meta name="Author" content="ALTA secretary">
+    <!-- end generic -->    <!-- start Dublin Core Metadata -->   
+  <meta name="DC.Title"
+ content="Australasian Language Technology Association (ALTA) website">
+   
+  <meta name="DC.Creator" content="ALTA secretary">
+   
+  <meta name="DC.Subject"
+ content="NLP, natural language processing, Australia, New Zealand, Australasia">
+   
+  <meta name="DC.Description"
+ content="Information about the Australasian Language Technology Association (ALTA)">
+   
+  <meta name="DC.Publisher" content="ALTA">
+   
+  <meta name="DC.Date" scheme="ISO8601" content="{{ site.time | date_to_xmlschema }}">
+    
+  <meta name="DC.Identifier" scheme="URL"
+ content="http://www.alta.asn.au">
+   
+  <meta name="DC.Language" scheme="RFC1766" content="en">
+   
+  <meta name="DC.Format" scheme="IMT" content="text/html">
+  <meta name="verify-v1" content="I6ztgVbmu+tVwqsynXhGtdvDJu+9KTMEnq+b/weyFo4=" />
+  <!-- end dublin core -->        
+  <link rel="stylesheet" href="alta.css" type="text/css">
+  <link rel="alternate" type="application/rss+xml" title="ALTA News" href="/topnews">
+  <link rel="alternate" type="application/rss+xml" title="ALT Events" href="http://www.google.com/calendar/feeds/3tpn29fbkj3k7hbf2mmvegqsn0@group.calendar.google.com/public/basic">
+  <link rel="alternate" type="application/rss+xml" title="ALT Jobs" href="/rss/jobs.xml">
+
+    <style type="text/css">
+      body *, table *,
+      body {
+        font-family: "Arial", sans-serif;
+      }
+
+      #feedControl { 
+        font-size: 10px;
+        width : 300px;
+      }
+
+      /* Suppress everything except for title */
+      /* #feedControl .gf-snippet, */
+      #feedControl .gf-author,
+      #feedControl .gf-spacer, 
+      /* #feedControl .gf-relativePublishedDate */ { 
+        display : none;
+      }    
+
+      /* decent padding at the bottom of each set of entries */
+      #feedControl .gfc-results {
+        padding-bottom : 1em;
+      }
+
+      /* padding between entries */
+      #feedControl .gfc-result {
+        margin-bottom : 10px;
+      } 
+
+      /* slightly larger section header title */
+      #feedControl .gfc-resultsHeader .gfc-title {
+        font-size : 110%;
+      }
+
+    </style>
+
+    <script src="http://www.google.com/uds/?key=internal-sample" type="text/javascript"></script>
+
+    <script language="Javascript" type="text/javascript">//<![CDATA[
+
+      // load the AJAX Feed API
+      google.load("feeds", "1");
+
+      function OnLoad() {
+
+        // create a feed control
+        var feedControl = new google.feeds.FeedControl();
+
+        feedControl.addFeed("http://alta.asn.au/topnews",
+        "News");
+
+        feedControl.addFeed("http://www.google.com/calendar/feeds/3tpn29fbkj3k7hbf2mmvegqsn0@group.calendar.google.com/public/basic",
+        "Events");
+
+        feedControl.addFeed("http://alta.asn.au/rss/jobs.xml",
+        "Jobs");
+
+        feedControl.draw(document.getElementById("feedControl"));
+
+        feedControl.setLinkTarget(google.feeds.LINK_TARGET_BLANK);
+
+        feedControl.setNumEntries(5);
+        feedControl.draw(document.getElementById("feedControl"), 
+                         {drawMode : google.feeds.FeedControl.DRAW_MODE_TABBED});
+
+      }
+      google.setOnLoadCallback(OnLoad);
+    //]]>
+    </script>
+
+</head>
+   <body>
+ <!-- This table contains the main structure of the page --> 
+<table width="100%" border="0" cellpadding="0" cellspacing="0"
+ summary="This table contains the main structure">
+    <tbody>
+    <tr valign="middle">
+     <!-- Logo -->     <td width="85" align="center"><a
+ href="{{ site.baseurl }}"><img src="images/logo_sm.jpg"
+ width="74" height="65" border="0" alt="ALTA logo">
+      </a></td>
+     <!-- Title -->     <td width="100%" colspan="4" class="sitename"
+ align="center"> Australasian Language Technology Association</td>
+   </tr>
+    <tr valign="top">
+  <td width="15%"> <!-- This table contains the Macquarie navigation links --> 
+      <table width="100%" border="0" class="headerbar"
+ summary="This table contains the top level navigation links">
+
+{% include navbar.html %}
+
+<tr><td>&nbsp;</td></tr>
+</table>
+
+<p><a class="rsslink" href="/about/alta_brochure.pdf"><img
+  border="0" width="15px" height="15px" alt="[PDF]" src="{{ site.baseurl }}//images/pdf.gif"> ALTA Brochure</a></p>
+
+<p><a class="rsslink" type="application/rss+xml" href="topnews"><img
+  border="0" width="15px" height="15px" alt="ALTA Topnews" src="{{ site.baseurl }}//images/rss.gif"> ALTA News</a></p>
+
+<p><a class="rsslink" type="application/rss+xml" href="http://www.google.com/calendar/feeds/3tpn29fbkj3k7hbf2mmvegqsn0@group.calendar.google.com/public/basic"><img
+  border="0" alt="ALTA Events" width="15px" height="15px" src="{{ site.baseurl }}/images/rss.gif"> ALT Events</a></p>
+
+<p><a class="rsslink" type="application/rss+xml" href="/rss/jobs.xml"><img
+  border="0" width="15px" height="15px" alt="LT Jobs" src="/images/rss.gif"> ALT Jobs</a></p>
+
+<p><a class="rsslink" href="https://www.linkedin.com/groups/1849979"><img border="0" width="15px" height="15px" alt="icon" src="http://www.linkedin.com/favicon.ico"/> LinkedIn</a></p>
+
+<p><a class="rsslink" href="http://www.facebook.com/groups/57743797762"><img border="0" alt="i\
+con" width="15px" height="15px" src="http://www.facebook.com/favicon.ico"/> Facebook</a></p>
+
+<p><a class="rsslink" href="http://alta.asn.au/twitter"><img border="0" alt="icon" width="15px" height="15px" src="http://www.twitter.com/favicon.ico"/> Twitter</a></p>
+
+<!-- End Macquarie navigation table -->
+</td>
+
+<td width="2%">&nbsp;</td>
+
+<td width="53%">
+
+{{ content }}
+
+</td>
+
+</tr>
+</table>
+<!-- End of main table -->
+
+<!-- Start of footer -->
+<p class="footertext">
+For any comments or questions about these pages please contact the <a href="mailto:secretary@alta.asn.au">ALTA secretary</a>.
+</p>   
+<!-- End of footer -->
+<br>
+Copyright 2003-2016 ALTA. Last updated: {{ site.time | date_to_string }}
+</body>
+</html>

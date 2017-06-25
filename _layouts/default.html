@@ -1,0 +1,70 @@
+<!DOCTYPE 
+HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+
+<html lang="en">
+<head>
+  <title>ALTA: {{ page.title }}</title>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-15">
+  <!-- Start generic metadata -->
+  <meta name="description" content="ALTA: {{ page.title }}">
+  <meta name="Author" content="ALTA secretary">
+  <!-- end generic -->
+  
+  <link rel="stylesheet" href="{{ site.baseurl }}/alta.css" type="text/css">
+
+  <link rel="alternate" type="application/rss+xml" title="ALTA News" href="/topnews">
+  <link rel="alternate" type="application/rss+xml" title="ALT Events" href="http://www.google.com/calendar/feeds/3tpn29fbkj3k7hbf2mmvegqsn0@group.calendar.google.com/public/basic">
+  <link rel="alternate" type="application/rss+xml" title="ALT Jobs" href="/rss/jobs.xml">
+</head>
+
+<body>
+<!-- This table contains the main structure of the page -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="This table contains the main structure">
+
+  <tr valign="middle">
+    <!-- Logo -->
+    <td width="85" align="center"><a href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/images/logo_sm.jpg" width="74" height="65" border="0" alt="ALTA logo"></a></td>
+    <!-- Title -->
+    <td width="100%" colspan="3" class="sitename" align="center">
+Australasian Language Technology Association</td>
+  </tr>
+
+  <tr valign="top">
+
+<td width="15%">
+ 
+<!-- This table contains the Macquarie navigation links -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="headerbar" summary="This table contains the top level navigation links">
+
+{% include navbar.html %}
+
+<tr><td>&nbsp;</td></tr>
+</table>
+
+<!-- End Macquarie navigation table -->
+</td>
+
+<td width="2%">&nbsp;</td>
+
+<td width="81%">
+  
+{{ content }}
+
+</td>
+
+<td width="2%">&nbsp;</td>
+
+</tr>
+</table>
+<!-- End of main table -->
+
+<!-- Start of footer -->
+<p class="footertext">
+For any comments or questions about these pages please contact the <a href="mailto:secretary@alta.asn.au">ALTA secretary</a>.
+</p>   
+<!-- End of footer -->
+<br>
+Copyright 2003-2016 ALTA. Last updated: {{ site.time | date_to_string }}
+</body>
+</html>
