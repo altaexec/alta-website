@@ -7,15 +7,65 @@ defaults:
       layout: "default" 
 navlinks:
   - name: "Home"
-    key: "home"
+    key: home
     href: "/index.html"
-    submenus: []
   - name: "Mailing Lists"
-    key: "mailing_lists"
+    key: mailing_lists
     href: "/mailing_lists/index.html"
     submenus: 
       - name: "ALTA-Announce"
         href: "https://groups.google.com/group/alta-announce"
       - name: "ALTA-Tech"
         href: "https://groups.google.com/group/alta-tech"
-         
+  - name: "About ALTA"
+    key: about
+    href: "/about/index.html"
+  - name: "News"
+    key: news
+    href: "/news/index.html"
+  - name: "Research"
+    key: research
+    href: "/research/index.html"
+  - name: "Events"
+    key: events
+    href: "/events/index.html"
+  - name: "Training"
+    key: training
+    href: "/training/index.html"
+  - name: "Resources"
+    key: resources
+    href: "/resources/index.html"
+    
+  # - name: "Student Pages"
+  #   key: students
+proceedings:
+  - year: 2003
+    aclkey: U03
+  - year: 2004
+    aclkey: U04
+  - year: 2005
+    aclkey: U05
+  - year: 2006
+    aclkey: U06
+  - year: 2007
+    aclkey: U07
+  - year: 2008
+    aclkey: U08
+  - year: 2009
+    aclkey: U09
+  - year: 2010
+    aclkey: U10
+  - year: 2011
+    aclkey: U11
+  - year: 2012
+    aclkey: U12
+  - year: 2013
+    aclkey: U13
+  - year: 2014
+    aclkey: U14
+  - year: 2015
+    aclkey: U15
+  - year: 2016
+    aclkey: U16
+zeroth_proc_year: 2002
+

@@ -1,0 +1,78 @@
+---
+title: Events
+key: events
+---
+      <h1>Events</h1>
+
+<p>With the goal to promote research and development in language
+technology in Australia and New Zealand, we organise workshops and
+courses.</p>
+
+<p>The main goal of the ALTA workshop is to serve as a forum for Australian
+and New Zealander people actively participating in Language Technology
+activities or simply interested in them. Often the workshop includes
+tutorials and presentations by invited international
+speakers. Occassionally there are summer schools with courses at
+beginner and advanced levels. The main audience of the summer schools
+is postgraduate students and researchers in academia and industry.</p>
+
+<p>To receive updated information about these and further events please <a
+href="http://www.ics.mq.edu.au/mailman/listinfo/alta-announce#join">subscribe
+to the ALTA-Announce</a> mailing list.</p>
+
+<h2>Forthcoming Events</h2>
+
+<p>More news about the next ALTA workshop soon...</p>
+
+<h2>Proceedings of the Australasian Language Technology Workshop</h2>
+
+<p>The proceedings of the workshops are registered at the National Library of Australia with the ISSN 1834-7037.</p>
+<ul>
+  {% for proc in site.proceedings %}
+    <li>
+      <a target="_blank" href="http://aclweb.org/anthology/U/{{ proc.aclkey }}">
+        Vol. {{ proc.year | minus: site.zeroth_proc_year }} ({{ proc.year }})
+      </a>
+    </li>
+  {% endfor %} 
+</ul>
+
+<h2>Past Events</h2>
+
+<h3>ALTA Workshops</h3>
+<ul>
+<li><a href="alta2016">2016</a></li>
+<li><a href="alta2015">2015</a></li>
+<li><a href="alta2014">2014</a></li>
+<li><a href="alta2013">2013</a></li>
+<li><a href="alta2012">2012</a></li>
+<li><a href="alta2011">2011</a></li>
+<li><a href="alta2010">2010</a></li>
+<li><a href="alta2009">2009</a></li>
+<li><a href="alta2008">2008</a></li>
+<li><a href="alta2007">2007</a></li>
+<li><a href="altw2006">2006</a></li>
+<li><a href="altw2005">2005</a></li>
+<li><a href="altw2004">2004</a></li>
+<li><a href="altw2003">2003</a></li>
+</ul>
+
+<h3>ALTA Shared Tasks</h3>
+
+<ul>
+<li><a href="http://www.alta.asn.au/events/sharedtask2016/">2016</a></li>
+<li><a href="http://www.alta.asn.au/events/sharedtask2015/">2015</a></li>
+<li><a href="http://www.alta.asn.au/events/sharedtask2014/">2014</a></li>
+<li><a href="http://www.alta.asn.au/events/sharedtask2013/">2013</a></li>
+<li><a href="http://www.alta.asn.au/events/sharedtask2012/">2012</a></li>
+<li><a href="http://www.alta.asn.au/events/sharedtask2011/index.html">2011</a></li>
+<li><a href="http://comp.mq.edu.au/programming/index.htm">2010</a></li>
+</ul>
+
+<h3>ALTA Summer Schools</h3>
+<ul>
+<li><a href="altss2004">2004</a></li>
+<li><a href="altss2003">2003</a></li>
+</ul>
+
+

@@ -2,36 +2,6 @@
 layout: home
 title: Australasian Language Technology Association
 key: home
-proceedings:
-  - year: 2003
-    aclkey: U03
-  - year: 2004
-    aclkey: U04
-  - year: 2005
-    aclkey: U05
-  - year: 2006
-    aclkey: U06
-  - year: 2007
-    aclkey: U07
-  - year: 2008
-    aclkey: U08
-  - year: 2009
-    aclkey: U09
-  - year: 2010
-    aclkey: U10
-  - year: 2011
-    aclkey: U11
-  - year: 2012
-    aclkey: U12
-  - year: 2013
-    aclkey: U13
-  - year: 2014
-    aclkey: U14
-  - year: 2015
-    aclkey: U15
-  - year: 2016
-    aclkey: U16
-zeroth_proc_year: 2002
 ---
       <h1>Latest ALTA News</h1>
 
@@ -290,10 +260,10 @@ resources in language technology in Australasia.</small></td>
  Australasian Language Technology Workshop are registered at the National
 Library of Australia with the ISSN 1834-7037. They are available at the <a href="http://www.aclweb.org/anthology/index.html">ACL Anthology:</a>.</small>
 <ul>
-  {% for proc in page.proceedings %}
+  {% for proc in site.proceedings %}
     <li>
       <a target="_blank" href="http://aclweb.org/anthology/U/{{ proc.aclkey }}">
-        Vol. {{ proc.year | minus: page.zeroth_proc_year }} ({{ proc.year }})
+        Vol. {{ proc.year | minus: site.zeroth_proc_year }} ({{ proc.year }})
       </a>
     </li>
   {% endfor %} 
