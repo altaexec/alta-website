@@ -30,7 +30,10 @@ to the ALTA-Announce</a> mailing list.</p>
 <ul>
   {% for proc in site.proceedings %}
     <li>
-      <a target="_blank" href="http://aclweb.org/anthology/U/{{ proc.aclkey }}">
+      <!-- <a target="_blank" href="http://aclweb.org/anthology/U/{{ proc.aclkey }}"> -->
+      <!--   Vol. {{ proc.year | minus: site.zeroth_proc_year }} ({{ proc.year }}) -->
+      <!-- </a> -->
+      <a target="_blank" href="https://aclanthology.coli.uni-saarland.de/events/alta-{{ proc.year }}">
         Vol. {{ proc.year | minus: site.zeroth_proc_year }} ({{ proc.year }})
       </a>
     </li>
@@ -41,6 +44,7 @@ to the ALTA-Announce</a> mailing list.</p>
 
 <h3>ALTA Workshops</h3>
 <ul>
+<li><a href="http://alta2017.alta.asn.au">2017</a></li>
 <li><a href="http://alta2016.alta.asn.au">2016</a></li>
 <li><a href="alta2015">2015</a></li>
 <li><a href="alta2014">2014</a></li>
@@ -60,6 +64,7 @@ to the ALTA-Announce</a> mailing list.</p>
 <h3>ALTA Shared Tasks</h3>
 
 <ul>
+<li><a href="http://www.alta.asn.au/events/sharedtask2017/">2017</a></li>
 <li><a href="http://www.alta.asn.au/events/sharedtask2016/">2016</a></li>
 <li><a href="http://www.alta.asn.au/events/sharedtask2015/">2015</a></li>
 <li><a href="http://www.alta.asn.au/events/sharedtask2014/">2014</a></li>

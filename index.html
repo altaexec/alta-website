@@ -290,7 +290,10 @@ Library of Australia with the ISSN 1834-7037. They are available at the <a href=
 <ul>
   {% for proc in site.proceedings %}
     <li>
-      <a target="_blank" href="http://aclweb.org/anthology/U/{{ proc.aclkey }}">
+      <!-- <a target="_blank" href="http://aclweb.org/anthology/U/{{ proc.aclkey }}"> -->
+      <!--   Vol. {{ proc.year | minus: site.zeroth_proc_year }} ({{ proc.year }}) -->
+      <!-- </a> -->
+      <a target="_blank" href="https://aclanthology.coli.uni-saarland.de/events/alta-{{ proc.year }}">
         Vol. {{ proc.year | minus: site.zeroth_proc_year }} ({{ proc.year }})
       </a>
     </li>
