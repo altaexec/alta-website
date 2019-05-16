@@ -200,3 +200,58 @@ strong {
 
 
 
+
+.pagehead {
+height:200px;
+text-shadow: 2px 2px #ffffff;
+background-repeat: no-repeat;
+background-position: center center;
+background-color: #ffffff;
+/*background-color: #21252A;*/
+}
+
+.pagehead div {
+padding: 100px;
+font-weight: 500;
+line-height: 1.1;
+width: 1170px;
+max-width: 100%;
+text-align: center;
+font-size:30px;
+text-shadow: 2px 2px #ffffff;
+color: #000000;
+background-image: url(../images/logo_sm.png);
+background-repeat: no-repeat;
+background-position: right center;
+}
+
+.navigation {
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+height: 50px;
+line-height: 1.5;
+font-size:14px;
+background-color: #005544;
+text-align: center
+}
+
+.navigation div {
+width:1200px;
+margin-left: auto;
+margin-right: auto
+}
+
+.navigation a {
+margin-right: 75px;
+text-decoration: none
+}
+
+.pagabody {
+width:1000px;
+margin-left: 15%
+}
+
+.pagefoot {
+margin-left: 25%;
+}
