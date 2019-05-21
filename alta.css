@@ -243,8 +243,15 @@ margin-right: auto
 }
 
 .navigation a {
+float: left;
+height: 50px;
+padding: 15px 25px;
+font-size: 18px;
+line-height: 20px;
 margin-right: 75px;
-text-decoration: none
+text-decoration: none;
+text-transform: uppercase;
+color: #eee
 }
 
 .pagabody {
@@ -254,4 +261,9 @@ margin-left: 15%
 
 .pagefoot {
 margin-left: 25%;
+}
+
+.clear
+{
+clear: both
 }
