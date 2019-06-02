@@ -114,36 +114,31 @@
 
 </head>
    <body>
- <!-- This table contains the main structure of the page --> 
+ <!-- This table contains the main structure of the page -->
+<div class="pagehead">
+     <div>Australasian Language Technology Association</div>
+</div>
+
+ <div class="navigation">
+     <div>
+         <a href="index.html">Home</a>
+         <a href="/about/index.html">ABOUT</a>
+         <a href="/events/index.html">EVENTS</a>
+         <a href="/resources/index.html">Who-is-who</a>
+         <a href="/mailing_lists/index.html">Mailing Lists</a>
+         <div class="clear"></div>
+     </div>
+ </div>
+
+
+<div class="pagabody">
 <table width="100%" border="0" cellpadding="0" cellspacing="0"
  summary="This table contains the main structure">
     <tbody>
-    <tr valign="middle">
-     <!-- Logo -->     <td width="85" align="center"><a
- href="/"><img src="/images/logo_sm.jpg"
- width="74" height="65" border="0" alt="ALTA logo">
-      </a></td>
-     <!-- Title -->     <td width="100%" colspan="4" class="sitename"
- align="center"> Australasian Language Technology Association</td>
-   </tr>
+
     <tr valign="top">
   <td width="15%"> <!-- This table contains the Macquarie navigation links --> 
-      <table width="100%" border="0" class="headerbar"
- summary="This table contains the top level navigation links">
 
-{% include navbar.html %}
-
-<tr><td>&nbsp;</td></tr>
-</table>
-
-<p><a class="rsslink" href="/about/alta_brochure.pdf"><img
-  border="0" width="15px" height="15px" alt="[PDF]" src="{{ site.baseurl }}/images/pdf.gif"> ALTA Brochure</a></p>
-
-<p><a class="rsslink" type="application/rss+xml" href="topnews"><img
-  border="0" width="15px" height="15px" alt="ALTA Topnews" src="{{ site.baseurl }}/images/rss.gif"> ALTA News</a></p>
-
-<p><a class="rsslink" type="application/rss+xml" href="http://www.google.com/calendar/feeds/3tpn29fbkj3k7hbf2mmvegqsn0@group.calendar.google.com/public/basic"><img
-  border="0" alt="ALTA Events" width="15px" height="15px" src="{{ site.baseurl }}/images/rss.gif"> ALT Events</a></p>
 
 <!--
   <p><a class="rsslink" type="application/rss+xml" href="/rss/jobs.xml"><img
@@ -170,14 +165,16 @@ con" width="15px" height="15px" src="http://www.facebook.com/favicon.ico"/> Face
 
 </tr>
 </table>
+</div>
 <!-- End of main table -->
-
+<div class="pagefoot">
 <!-- Start of footer -->
 <p class="footertext">
 For any comments or questions about these pages please contact the <a href="mailto:secretary@alta.asn.au">ALTA secretary</a>.
 </p>   
 <!-- End of footer -->
 <br>
-Copyright 2003-2016 ALTA. Last updated: {{ site.time | date_to_string }}
+Copyright 2003-2019 ALTA. Last updated: {{ site.time | date_to_string }}
+</div>
 </body>
 </html>
