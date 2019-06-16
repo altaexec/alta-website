@@ -1,0 +1,238 @@
+<!DOCTYPE 
+HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html lang="en">   
+<head>
+  <title>ALTA 2015 Shared Task Description</title>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="refresh" content="1; url=http://www.alta.asn.au/events/alta2015/task.html">
+  <link rel="stylesheet" href="sharedtask.css" type="text/css">
+</head>
+
+<body>
+<!-- This table contains the main structure of the page -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="This table contains the main structure">
+
+  <tr valign="middle">
+    <!-- Logo -->
+    <td width="85" align="center"><a href="http://www.alta.asn.au"><img src="http://www.alta.asn.au/images/logo_sm.jpg" width="74" height="65" border="0" alt="ALTA logo"></a></td>
+    <!-- Title -->
+    <td width="100%" colspan="5" class="sitename" align="center">
+Language Technology Programming Competition 2015</td>
+  </tr>
+
+  <tr valign="top">
+
+<td width="15%">
+ 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="headerbar" summary="This table contains the top level navigation links">
+
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="index.html">Home</a> 
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="description.html">Task Description</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="info.html">Useful Information</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="submission.html">Submission</a>
+    </td> 
+ </tr>
+
+
+<tr><td>&nbsp;</td></tr>
+</table>
+<!-- End Macquarie navigation table -->
+</td>
+
+<td width="2%">&nbsp;</td>
+
+
+<td width="53%">
+
+<!-- END OF HEADER - DO NOT EDIT ABOVE THIS LINE - Document Id: "altw"  -->
+
+
+
+
+<h2>2015 Shared Task Description</h2>
+
+<h3>Introduction to Cognates</h3>
+
+<p>Cognates words are pairs words that are similar in
+spelling/pronunciation as well as meaning in two languages. By
+extension, we refer here to cognates as words in one language that
+would, in their context of use, acceptably translate into a word in
+the second language with which they would form a cognate pair.  We
+also refer here to true cognates as per this definition, as opposed to
+false cognates (also referred to as false friends) which appear in
+both languages' lexicons but bear different meanings (such
+as <em>pain</em> in English and <em>pain</em> in French (bread)), and
+as opposed to semi-cognates, which, depending on their context of use,
+may be either true cognates or false cognates (such as <em>chair</em>
+in English that translates into French as <em>chaise</em> if one
+refers to furniture (false cognate) as <em>chaire</em> if one refers
+to a University position (true cognate), while <em>chair</em> in
+French means <em>flesh</em> in English (false cognate)).</p>
+
+<h3>Task Motivation</h3>
+
+<p>When native speakers of one of the languages are learning the other
+languages, cognates are very easy to understand. Therefore, being able
+to detect in texts in a target language all the words that are
+cognates from the perspective of a native language can have many
+applications for computer assisted second language education.  This
+task is in contrast to many experimental settings in the literature
+that focused on detecting pairs of cognates amongst pairs of words in
+both languages. </p>
+
+<h3>Task Description</h3>
+
+<p>
+The aim of the task is to identify in English texts all the cognates
+from the perspective of the French language. In other words, identify
+all the words in the English text that would acceptably translate into
+a similar word in French.</p>
+
+<p>
+Participants are provided with a training set that is approximately
+the same size as the test set. Each set is composed of 30
+documents, 5 in each of the following genres: novel, subtitles, sports
+news, political news, technology news, and cooking recipes. While the
+separations between the documents will be included in both the
+training and testing data, the categories of documents will only be
+released after submission of results, to allow to be taken into
+account in detailed results analysis, but not as input to the test
+data.
+</p>
+
+<p>A single annotator has manually annotated the texts. See below
+explanations on these categories and rules of the manual
+annotation.</p>
+
+<p>
+The texts are presented a data file with one word (and punctuation
+attached if present) per line preceded by the line number and a space,
+and each document is preceded by a line with the document id. Here is
+an example of the beginning of the document format:
+</p>
+
+<pre>
+1 &lt;docid 1&gt;
+2 Chewy
+3 little
+4 drops
+5 of
+6 chocolate
+7 cookies,
+8 covered
+9 with
+10 peanuts
+</pre>
+
+<p>The annotations for the training set are provided in a separate
+.csv file, where the first line with id 1 contains the ids of the sure
+cognates only, and the second line with id 2 contains the ids of both
+borderline and sure cognates. The .csv for the example above would
+then be:</p>
+
+<pre>
+Eval_id,Cognates_id
+1, 6 7
+</pre>
+
+<p>This file indicates that the words with ID 6 (<em>chocolate</em>)
+and 7 (<em>cookies</em>) are cognates.</p>
+
+<p>This is also the format for submission.</p>
+
+
+<h3>Evaluation</h3>
+
+<p>
+We will use Kaggle in Class to evaluate the systems using the average
+F1-measure among all documents.
+</p>
+
+<h3>Data Files and Submission</h3>
+
+<a>We will use <a href="http://inclass.kaggle.com">Kaggle in Class</a>
+for this year's competition (look for
+the <a href="https://inclass.kaggle.com/c/alta-2015-challenge">ALTA
+2015 Challenge</a>). The data files and submission instructions will
+be provided in the competition website.</a>
+
+
+<h3>Important Dates</h3>
+<table cellpadding="3">
+    <tbody>
+        <tr>
+            <td align="left">Release of training data</td>
+            <td align="left">On registration</td>
+        </tr>
+        <tr>
+            <td align="left">Deadline for submission of results over test data</td>
+            <td align="left">21 Oct 2015</td>
+        </tr>
+        <tr>
+            <td align="left">Notification of results</td>
+            <td align="left">24 Oct 2015</td>
+        </tr>
+        <tr>
+            <td align="left">Deadline for submission of system description poster</td>
+            <td align="left">7 Nov 2015</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- End of body content -->  </td>
+ <td width="2%"> </td>
+ <td width="28%"><br>
+
+<tr>
+<td colspan="6">
+
+<!-- Logos -->
+
+<!-- ----- FOOTER - DO NOT EDIT BEYOND THIS LINE ----- -->
+
+
+</td>
+
+<td width="2%">&nbsp;</td>
+
+</tr>
+</table>
+<!-- End of main table -->
+
+<!-- Start of footer -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<!-- <td class="footertext"> 
+<td>
+For any comments or questions about these pages please contact the
+ALTA Workshop 2010
+organisers (altw2010 AT gmail DOT com)
+<p></p> -->
+</td>
+</tr>
+</table>
+<!-- End of footer -->
+<hr>
+&copy; ALTA 2015. <a href="mailto:shared.task@alta.asn.au">Competition
+Organisers</a>.
+</body>
+</html>

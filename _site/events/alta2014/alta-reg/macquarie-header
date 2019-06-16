@@ -1,0 +1,131 @@
+<!-- Left side menu -->
+<!-- This table contains the main structure of the page -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="This table contains the main structure">
+
+  <tr valign="middle">
+    <!-- Logo -->
+    <td width="85" align="center"><a href="http://www.alta.asn.au"><img src="http://www.alta.asn.au/images/logo_sm.jpg" width="74" height="65" border="0" alt="ALTA logo"></a></td>
+    <!-- Title -->
+    <td width="100%" colspan="5" class="sitename" align="center">
+Australasian Language Technology Workshop 2014</td>
+  </tr>
+
+  <tr valign="top">
+
+<td width="15%">
+ 
+<!-- This table contains the Macquarie navigation links -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="headerbar" summary="This table contains the top level navigation links">
+
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="../index.html">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="../alta-2014-importantdates.html">Important Dates</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="../alta-2014-cfp.html">Call for Papers</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="../alta-2014-studenttravel.html">Student Travel Support</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="../alta-2014-tutorials.html">Tutorials</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="../alta-2014-invitedtalks.html">Invited Talks</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="../alta-2014-committees.html">Committees</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="../alta-2014-instructions.html">Instructions for Authors</a>
+    </td>
+ </tr>
+
+   <tr>
+    <td align="left" class = "headercell">
+
+      <a class="headerlink" href="../http://www.alta.asn.au/events/sharedtask2014/index.html">Shared Task</a>
+    </td>
+  </tr>
+
+
+ <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="../alta-2014-acceptedpapers.html">Accepted Papers</a>
+    </td>
+ </tr>
+
+ <tr>
+    <td align="left" class = "headercell">
+	<a class="headerlink" href="../alta-2014-reg.html">Registration</a> 
+    </td>
+ </tr>
+ 
+ <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="../alta-2014-accommodation.html">Accommodation</a>
+    </td>
+ </tr>
+
+ <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="../alta-2014-programme.html">Programme</a>
+    </td>
+ </tr>
+
+ <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="../alta-2014-proceedings.html">Proceedings</a>
+    </td>
+ </tr>
+
+ <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="../alta-2014-location.html">Location and travel</a>
+    </td>
+ </tr>
+
+ <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="../alta-2014-pastalta.html">ALTA past workshops</a>
+    </td>
+ </tr>
+
+
+<tr><td>&nbsp;</td></tr>
+</table>
+<!-- End Macquarie navigation table -->
+</td>
+
+<td width="2%">&nbsp;</td>
+
+
+<td width="70%">
+
+<!-- END OF HEADER - DO NOT EDIT ABOVE THIS LINE - Document Id: "altw"  -->
+

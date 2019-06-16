@@ -1,0 +1,12 @@
+.paper, .poster {
+  display:list-item;
+  margin-left: 30pt;
+}
+
+.authors {
+  font-weight:bold;
+}
+
+.title {
+  font-style:italic;
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE orderform [
+	<!ELEMENT	orderform	(regtypes,paytimes,memberships?,section+)	>
+	
+	<!-- ID types -->
+	<!ELEMENT	paytimeid	(#PCDATA)	>
+	<!ELEMENT	regtypeid	(#PCDATA)	>
+	<!ELEMENT	memberid	(#PCDATA)	>
+	<!ELEMENT	detailid	(#PCDATA)	>
+	<!ELEMENT	choiceid	(#PCDATA)	>
+	<!ELEMENT	optionid	(#PCDATA)	>
+	<!ELEMENT	quantityid	(#PCDATA)	>
+	
+	<!-- Basics -->
+	<!ELEMENT	name		(#PCDATA)	>
+	<!ELEMENT	description	(#PCDATA)	>
+	<!ELEMENT	cost		(#PCDATA)	>
+	<!ELEMENT	number		(#PCDATA)	>
+	<!ELEMENT	minimum		(#PCDATA)	>
+	<!ELEMENT	maximum		(#PCDATA)	>
+	
+	<!-- Registration Types -->
+	<!ELEMENT	regtypes	(regtype+)	>
+	<!ELEMENT	regtype		(regtypeid,name,description,price*,discount*,included?)	>
+	<!ELEMENT	included	(includedchoice*)	>
+	<!ELEMENT	includedchoice (choiceid, (optionid|number))	>
+	
+	<!-- Payment Times -->
+	<!ELEMENT	paytimes	(paytime+)	>
+	<!ELEMENT	paytime		(paytimeid,name,description)	>
+	
+	<!-- Professional Memberships -->
+	<!ELEMENT	memberships	(membership+)	>
+	<!ELEMENT	membership	(memberid,name,description)	>
+	
+	<!-- Section (used to give heirarchies)	-->
+	<!ELEMENT	section		(section*,choice*,detail*)	>
+	
+	<!-- Detail (a text entry) -->
+	<!ELEMENT	detail		(detailid, name, description?) >
+	
+	<!-- Choices -->
+	<!ELEMENT	choice		(choiceid,name,description?,(option+|quantity))	>
+	<!ELEMENT	option		(optionid,name,description?,price*,discount*,(minimum,maximum)?)	>
+	<!ELEMENT	quantity	(price*,discount*,(minimum,maximum)?)	>
+	<!ATTLIST	quantity	minimum	CDATA	"0"	>
+	<!ATTLIST	quantity	maximum	CDATA	"1"	>
+	<!ELEMENT	price		(paytimeid,cost)	>
+	<!ELEMENT	discount	((regtypeid|memberid),cost)	>
+	
+]>
+

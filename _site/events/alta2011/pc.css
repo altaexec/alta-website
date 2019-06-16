@@ -1,0 +1,10 @@
+.pcmember, .chair, .local {
+  display:list-item;
+  margin-left: 30pt;
+}
+.pcmember {}
+.chair {}
+.pc {}
+.chairs {}
+.locals {}
+.local {}

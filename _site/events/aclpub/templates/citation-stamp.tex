@@ -1,0 +1,9 @@
+\newcommand{\citeinfo}[2]{
+  \AddToShipoutPicture{%
+    \setlength{\unitlength}{1mm}
+%%% EDIT WORKSHOP CHAIRS AND WORKSHOP TITLE %%%%%%%%%%%%%%%%%%%%%%%%%%
+    \put(105,17){\makebox(0,0){\footnotesize {\em Proceedings of the 46th Annual Meeting of the ACL},
+	\ifthenelse{\equal{#1}{#2}}{page #1}{pages #1--#2},}}
+    \put(105,14){\makebox(0,0){\footnotesize Columbus, June 2008. \copyright 2008 Association for Computational Linguistics}}
+  }
+}

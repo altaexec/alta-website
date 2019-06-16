@@ -1,0 +1,36 @@
+.text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: #333333;
+	text-align: left;
+	line-height: 17px;
+	font-weight: normal;
+
+
+}
+.sup {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	color: #333333;
+	line-height: 15px;
+
+}
+.titols {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FF0000;
+	text-indent: 0pt;
+	line-height: 17px;
+	font-style: normal;
+}
+.blan {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: 15px;
+	color: #FFFFFF;
+}

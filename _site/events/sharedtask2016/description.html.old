@@ -1,0 +1,233 @@
+<!DOCTYPE 
+HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html lang="en">   
+<head>
+  <title>ALTA 2012 Shared Task Description</title>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+  <link rel="stylesheet" href="sharedtask.css" type="text/css">
+</head>
+
+<body>
+<!-- This table contains the main structure of the page -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="This table contains the main structure">
+
+  <tr valign="middle">
+    <!-- Logo -->
+    <td width="85" align="center"><a href="http://www.alta.asn.au"><img src="http://www.alta.asn.au/images/logo_sm.jpg" width="74" height="65" border="0" alt="ALTA logo"></a></td>
+    <!-- Title -->
+    <td width="100%" colspan="5" class="sitename" align="center">
+Language Technology Programming Competition 2012</td>
+  </tr>
+
+  <tr valign="top">
+
+<td width="15%">
+ 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="headerbar" summary="This table contains the top level navigation links">
+
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="index.html">Home</a> 
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="description.html">Task Description</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="info.html">Useful Information</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="submission.html">Submission</a>
+    </td> 
+ </tr>
+
+
+<tr><td>&nbsp;</td></tr>
+</table>
+<!-- End Macquarie navigation table -->
+</td>
+
+<td width="2%">&nbsp;</td>
+
+
+<td width="53%">
+
+<!-- END OF HEADER - DO NOT EDIT ABOVE THIS LINE - Document Id: "altw"  -->
+
+
+
+
+<h2>2012 Shared Task Description</h2>
+
+<h3>Basic Task Description</h3>
+
+<p>July 18, 2012 | Version 1</p>
+
+<p> The goal of this task is to build automatic sentence classifiers
+that can map the content of biomedical abstracts into a set of
+pre-defined categories, which are used for Evidence-Based Medicine
+(EBM). EBM practitioners rely on specific criteria when judging
+whether a scientific article is relevant to a given question. They
+generally follow the PICO criterion: Population (P) (i.e.,
+participants in a study); Intervention (I); Comparison (C) (if
+appropriate); and Outcome (O) (of an Intervention). Variations and
+extensions of this classification have been proposed, and for this
+task we will extend PICO by adding the classes Background (B) and
+Study Design (S); and including sentences that have no relevant
+content: Other (O). Therefore, the goal will be to classify the
+provided sentences according to the PIBOSO schema. Such information
+could be leveraged in various ways: e.g., to improve search
+performance; to enable structured querying with specific categories;
+and to aid users in more quickly making judgements against specified
+PICOSO criteria. </p>
+
+<p> In order to build classifiers, 800 expert-annotated training
+abstracts will be provided, and the goal will be to build classifiers
+to annotate 200 test abstracts with the relevant labels. This is a
+multi-label classification problem, since each sentence can have more
+than one label. The tagset is defined as follows: </p>
+
+<ul>
+        <li> Background: Material that informs and may place the current study in perspective, e.g. work that preceded the current; information about disease prevalence; etc; </li>
+
+	<li> Population: The group of individual persons, objects, or items comprising the study's sample, or from which the sample was taken for statistical measurement; </li>
+
+	<li> Intervention: The act of interfering with a condition to modify it or with a process to change its course (includes prevention); </li>
+
+	<li> Outcome: The sentence(s) that best summarise(s) the consequences of an intervention; </li>
+
+	<li> Study Design: The type of study that is described in the abstract; </li>
+
+	<li> Other: Any sentence not falling into one of the other categories and presumed to provide little help with clinical decision making, i.e. non-key or irrelevant sentences. </li>
+
+</ul>
+
+<p> More information about this problem, the construction of the dataset,
+and a benchmark can be found
+in <a href="http://www.biomedcentral.com/1471-2105/12/S2/S5" target="_blank">Kim et al. (2011)</a> </p>
+
+
+<h3>Data Files and Format</h3>
+
+<p>The <strong>training</strong> set will contain:</p>
+
+
+    A single text file containing a target sentence per line. Each line contains five fields: 
+
+<ul>
+<li> PUBMED identifier of the source abstract</li>
+<li> Sentence number inside the abstract </li>
+<li> Text of the sentence (not tokenised)</li>
+<li> One of the target labels: Background/Population/Intervention/Outcome/Intervention/Study Design</li>
+<li> Binary attachment for the label: yes/no</li>
+</ul>
+<br>
+For instance, the following example associates label "Population" to the target sentence:
+
+    <blockquote><tt> 100726232 &nbsp;  &nbsp;    2  &nbsp;  &nbsp;     We wanted to evaluate the urodynamic changes of radical retropubic prostatectomy in patients with localized prostate cancer and identify specific factors that could influence the postoperative continence status.   POPULATION  &nbsp;  &nbsp;  YES</tt> <br>
+</blockquote>
+    
+This is a multilabel problem, and target sentences can have more than one label attached. For instance:
+
+    <blockquote><tt> 100726232 &nbsp;  &nbsp;    2  &nbsp;  &nbsp;     We wanted to evaluate the urodynamic changes of radical retropubic prostatectomy in patients with localized prostate cancer and identify specific factors that could influence the postoperative continence status.   POPULATION  &nbsp;  &nbsp;  YES</tt> <br>
+</blockquote>
+
+    <blockquote><tt> 100726232 &nbsp;  &nbsp;    2  &nbsp;  &nbsp;     We wanted to evaluate the urodynamic changes of radical retropubic prostatectomy in patients with localized prostate cancer and identify specific factors that could influence the postoperative continence status.   INTERVENTION  &nbsp;  &nbsp;  YES</tt> <br>
+</blockquote>
+
+Note that the "Other" class will not occur with other classes.
+
+
+<p>The <strong>test</strong> set will contain:</p>
+
+A single text file containing a sentence per line. Each line contains four fields separated by tabular: 
+
+<ul>
+<li> PUBMED identifier of the source abstract</li>
+<li> Sentence number inside the abstract </li>
+<li> Text of the sentence (not tokenised)</li>
+<li> One of the target labels: Background/Population/Intervention/Outcome/Intervention/Study Design</li>
+</ul>
+
+
+
+<h3>Submission</h3>
+
+<p> For each line in the test file, you should add a column to the end with the binary prediction yes/no </p>
+    
+
+<h3>Important Dates</h3>
+<table cellpadding="3">
+    <tbody>
+        <tr>
+            <td align="left">Release of training data</td>
+            <td align="left">On registration</td>
+        </tr>
+        <tr>
+
+            <td align="left">Release of test data (without annotations)</td>
+            <td align="left"></td>
+        </tr>
+        <tr>
+            <td align="left">Deadline for submission of results over test data</td>
+            <td align="left"></td>
+        </tr>
+        <tr>
+            <td align="left">Notification of results</td>
+            <td align="left"></td>
+        </tr>
+        <tr>
+            <td align="left">Deadline for submission of system description poster</td>
+            <td align="left"></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- End of body content -->  </td>
+ <td width="2%"> </td>
+ <td width="28%"><br>
+
+<tr>
+<td colspan="6">
+
+<!-- Logos -->
+
+<!-- ----- FOOTER - DO NOT EDIT BEYOND THIS LINE ----- -->
+
+
+</td>
+
+<td width="2%">&nbsp;</td>
+
+</tr>
+</table>
+<!-- End of main table -->
+
+<!-- Start of footer -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<!-- <td class="footertext"> 
+<td>
+For any comments or questions about these pages please contact the
+ALTA Workshop 2010
+organisers (altw2010 AT gmail DOT com)
+<p></p> -->
+</td>
+</tr>
+</table>
+<!-- End of footer -->
+<hr>
+&copy; ALTA 2012. <a href="mailto:shared.task@alta.asn.au">Competition
+Organisers</a>.
+</body>
+</html>

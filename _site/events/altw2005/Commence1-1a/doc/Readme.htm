@@ -1,0 +1,411 @@
+<html>
+<head>
+<title>Commence Conference Management System</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+a:visited {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: blue;
+}
+
+body {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.bodystyle {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.small {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+.medium {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.big {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+.xbig {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+}
+
+.expanded {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 2px;
+}
+
+.justified {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align: justify;
+}
+
+.footer {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 9px;
+	color: #999999;
+}
+</style>
+</head>
+
+<body>
+<p>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+  <tr>
+    <td width="74%"><h2>COMMENCE Conference Management System</h2>
+<p><b>COnference and Meeting Management with Electronic Notification and 
+Committee Exchanges</b></p>
+    </td>
+    <td width="26%" bgcolor="#C0C0C0">
+    <p align="center"><b><br>
+	Project supported by</b></p>
+    <p align="center">&nbsp;<a href="http://www.uq.edu.au"><img border="0" src="uq-logo.gif" width="184" height="60"></a><p align="center">
+	<a href="http://www.iapr.org/">
+	<img border="0" src="iaprlogo.jpg" width="175" height="82"></a><br>
+&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="74%" valign="top">
+<ul>
+  <li>Project Development Team<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
+    <tr>
+      <td width="35%"><a href="http://www.itee.uq.edu.au/~lovell">
+      <font size="2">Brian Lovell</font></a></td>
+      <td width="65%"><font size="2">The University of Queensland</font></td>
+    </tr>
+    <tr>
+      <td width="35%"><font size="2">Min Thu Ya Hlaing</font></td>
+      <td width="65%"><font size="2">Singapore Polytechnic</font></td>
+    </tr>
+    <tr>
+      <td width="35%"><font size="2">Woon Tah Liang</font></td>
+      <td width="65%"><font size="2">Singapore Polytechnic</font></td>
+    </tr>
+    <tr>
+      <td width="35%"><font size="2">Tim Dettrick</font></td>
+      <td width="65%"><font size="2">The University of Queensland</font></td>
+    </tr>
+    <tr>
+      <td width="35%"><a href="mailto:shanting@itee.uq.edu.au"><font size="2">Ting Shan</font></a></td>
+      <td width="65%"><font size="2">The University of Queensland</font></td>
+    </tr>
+    <tr>
+      <td width="35%"><font size="2">Benjamin Lai</font></td>
+      <td width="65%"><font size="2">Nanyang Polytehnic</font></td>
+    </tr>
+    <tr>
+      <td width="35%"><font size="2">Ooi Yanheng</font></td>
+      <td width="65%"><font size="2">Nanyang Polytehnic</font></td>
+    </tr>
+  </table>
+  </li>
+</ul>
+    </td>
+    <td width="26%" bgcolor="#C0C0C0">
+    <p align="center"><b>Project hosted by</b></p>
+    <p align="center">&nbsp;<a href="http://sourceforge.net"><img src="http://sourceforge.net/sflogo.php?group_id=1&amp;type=5" border="0" /></a></p>
+    <p>&nbsp;</td>
+  </tr>
+</table>
+<hr>
+<h3>Table of Contents:</h3>
+<ul>
+  <li><a href="#intro">Introduction to the COMMENCE System </a> 
+    <ul>
+      <li><a href="#history">History and Motivation for COMMENCE</a></li>
+		<li><a href="#intro1">What is the COMMENCE?</a></li>
+      <li><a href="#intro2">What does it do?</a></li>
+      <li><a href="#intro3">What is Conference Info?</a></li>
+      <li><a href="#intro4">What are the Phases?</a></li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li><a href="#SettingUp">Setting up </a> 
+    <ul>
+      <li><a href="#set1">System Requirements</a></li>
+      <li><a href="#set2">Installation </a></li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li><a href="#Using">Using the COMMENCE System </a> 
+    <ul>
+      <li><a href="#using1">What are the available privileges?</a></li>
+      <li>User interface</li>
+      <li>Reviewer interface</li>
+      <li>Administrator Interface<br>
+&nbsp;</li>
+     </ul>
+  </li>
+  <li><a href="#Conferences">Conferences using COMMENCE</a><br>
+&nbsp;</li>
+  <li><a href="#Where">Where do I get Commence?</a><br>
+&nbsp;</li>
+</ul>
+<hr>
+<h3><a name="intro"></a>Introduction</h3>
+<p><strong><a name="history"></a>History and Motivation for COMMENCE?<br>
+  </strong>In 2003 I was the Technical Chair of WDIC2003 and needed software to 
+run the event. I looked at Cyberchair and START V1 and eventually settled on 
+START to run the event.&nbsp; Start was legacy code because Start2.0 is now 
+commercial, so there were lots of issues in getting it to run successfully.&nbsp; 
+In our School we are not allowed to manage our own public webservers because of 
+all the security holes it may open up, so I had to run on the corporate 
+webserver.&nbsp; For security reasons I was not allowed to have an account on 
+the corporate webserver, nor were applications allowed to write on the file 
+system.&nbsp; This meant that installing START was a nightmare and involved many 
+hours talking to the system administrator.&nbsp; I felt uncomfortable that my 
+every request to access papers etc would have to be mediated by the system 
+administration but had no choice in the matter. In any case he assured me that 
+he had no life and would be at my beck and call.&nbsp; Of course, when the 
+conference notification of acceptance came up, he was nowhere to be found and I 
+had no way of accessing the information.&nbsp; I eventually managed to access 
+the system by logging in as every one of the 40 users and extracting the 
+required information.&nbsp; I never want to go through this nightmare again so I 
+started the Commence project with the assistance of many students listed above.</p>
+<p>Commence was designed to be very easy to install (typically less than 5 
+minutes), require no administrator assistance to install or run, and operate in 
+a distributed fashion on the web.&nbsp; It relies on widely used web 
+technologies that are stable and well supported including php, mysql, and 
+apache. Commence does not require file system access on the webserver as all the 
+information is written to a mysql database over the network.&nbsp; Once 
+installed, all conference management can be performed from anywhere in the world 
+using a browser on the internet. Indeed, I have quite often managed my 
+conferences from the comfort of my laptop over the wireless LAN in Singapore 
+Changi airport. </p>
+<p>The code is free to the scientific community and I intend it to stay that way 
+for the foreseeable future. All I ask is that users drop me an email to let me 
+know that they are using the code.</p>
+<p><strong><a></a><a name="intro1"></a>What is the COMMENCE System?<br>
+  </strong>The COMMENCE System is a web application, written in PHP, used for 
+managing Technical 
+  Conferences. It provides electronic submission of Papers or other documents, 
+reviewer assignment, peer reviewing, emailing of letters of acceptance and 
+rejection, and organisation of the proceedings in a form suitable for web, CDROM, 
+or print publication.&nbsp; Many of the features are based on Rich Gerber's 
+excellent START Submission Tracking and Review Toolbox.</p>
+<p><strong><a name="intro2"></a>What does it do?</strong><br>
+  COMMENCE System helps the conference chair by performing the following tasks:</p>
+<ul>
+  <li>Collection of expressions of interest and contact details</li>
+  <li>Electronic submission of papers and author details</li>
+  <li>Electronic bidding by reviewers for papers</li>
+  <li>Assignment of Papers to reviewers</li>
+  <li>Collection of reviewer comments and recommendations</li>
+  <li>Emailing letters of acceptance and rejection</li>
+  <li>Allowing authors to submit revised papers after reading reviewers comments</li>
+  <li>Extracting the final papers to the web, CD-ROM, or print publication</li>
+  <li>Printing name tags for participating members</li>
+</ul>
+<p><strong><a name="intro3"></a>What is Conference Info?</strong><br>
+  Conference Info is  information relating to the conference that 
+can be set from the administrator interface. It comprises:</p>
+<ul>
+  <li>Conference Name &#8211; The name of the conference (e.g., Workshop on 
+  Digital Image Computing 2003)</li>
+  <li>Conference Code Name &#8211; The abbreviation for the conference (e.g., WDIC2003)</li>
+  <li>Conference Date &#8211; The date(s) of the conference</li>
+  <li>Conference Location &#8211; The location of the conference (e.g., 
+  Brisbane, Australia)</li>
+  <li>Conference Hostname &#8211; The name of the sponsoring organisation (e.g., 
+  Australian Pattern Recognition Society)</li>
+  <li>Logo for Conference &#8211; An image file of the logo of the conference</li>
+</ul>
+<p><strong><a name="intro4"></a>What are the Phases?</strong><br>
+  Phases are different modes of operation used for running the conference. Each phase 
+has 
+  its own set of privileges and operations available to the users, reviewers, 
+and administrators. The available phases are</p>
+<ul>
+  <li> Paper Submission</li>
+  <li>Reviewer Bidding</li>
+  <li>Reviewing</li>
+  <li>Final Paper Submission 
+    <p><strong>Paper Submission</strong> &#8211; allows the registered users to 
+      submit their paper proposals. The users are able to submit and and edit 
+    their papers 
+    during this phase.</p>
+    <p><em>Behaviour of Paper Submission Phase</em></p>
+    <ul>
+      <li>The user may submit a new paper or edit a submitted paper</li>
+      <li>The user may withdraw papers</li>
+      <li>The reviewer accounts are not active in 
+        this phase although they can be set up</li>
+    </ul>
+    <p><strong>Reviewer Bidding</strong> &#8211; allows the reviewer to indicate (bid 
+    on) which papers they wish to review or not to review. The administrator&nbsp; 
+    or chair can skip this 
+      phase if he wishes to assign papers directly.</p>
+    <p><em>Behaviour of Reviewer Bidding Phase</em></p>
+    <ul>
+      <li>The user is prevented from submitting  and editing    papers</li>
+      <li>The reviewer indicates preferences on    submitted papers</li>
+      <li>The administrator checks the reviewer preferences and assigns 
+         
+        papers to the most appropriate reviewers</li>
+    </ul>
+    <p><strong>Reviewing</strong> &#8211; allows the reviewers to make 
+      reviews on papers assigned to them.</p>
+    <p><em>Behaviour of Reviewing Phase</em> </p>
+    <ul>
+      <li>The user is prevented from submitting new papers and editing  submitted 
+        papers</li>
+      <li>The user can see how many reviews have come in but cannot see any 
+      decision on their papers</li>
+      <li>The reviewer makes their reviews on the papers assigned to him</li>
+      <li> The administrator  view the reviews  and decide 
+        to accept or reject the paper.&nbsp; After the paper is accepted or rejected, 
+         
+        emails are be sent to inform authors of the decision.</li>
+    </ul>
+    <p><strong>Final Paper Submission</strong> &#8211; allows the users to submit 
+    their final accepted papers for the conference. </p>
+    <p><em>Behaviour of Final Paper Submission</em></p>
+    <ul>
+      <li> The users can see reviewer comments and the final decision on their 
+      papers.</li>
+      <li> The users may submit a revised copy of their accepted papers for presentation 
+      at the 
+        conference and correct details such as paper title and author precedence</li>
+      <li> The reviewer accounts are inactive</li>
+      <li> The administrator can extract all the revised papers and publish them 
+      to the web, CDROM, or print.&nbsp; They can also print name tags for all 
+      the participants.</li>
+    </ul>
+  </li>
+</ul>
+<hr>
+<h3><a name="SettingUp"></a>Setting up </h3>
+<p><strong><a name="set1"></a>System Requirements</strong></p>
+<ul>
+  <li>Web browser (most version 4.0 and above browsers supported)</li>
+  <li>Web Server with PHP 4 or 5.0 ( only tested on Apache so far)</li>
+  <li>Access to MySQL Database locally or over the network</li>
+</ul>
+<p><strong><a name="set2" id="set2"></a>Installation<br>
+  </strong>Extract the zip file into a folder (directory) in your user account 
+which is publicly accessible on the web and also php-enabled.</p>
+<ol>
+  <li><strong>Step 1</strong> - From your web browser run <em>install.php</em> file, which you will 
+  find in the <em>install</em> folder. For example, use a URL of the form
+  <a href="http://www.myserver.uq.edu.au/~username/Commence/install/install.php">
+  www.myserver.uq.edu.au/~username/Commence/install/install.php</a>.&nbsp; Fill 
+  in the necessary information such as Database hostname, Database server, etc.</li>
+  <li><strong>Step 2</strong> &#8211; After setting up the database, you will 
+    be asked to fill in information about the conference such as the Conference 
+  Name, 
+    location, etc.</li>
+  <li><strong>Step 3</strong> &#8211; Fill in the Start Date and End Date of 
+  each phase.</li>
+</ol>
+<hr>
+<h3><a name="Using"></a>Using the COMMENCE System</h3>
+<p>The same login page is used for all functions.&nbsp; It is accessed from your 
+web browser at a URL of the form
+<a href="http://www.myserver.uq.edu.au/~username/Commence/install/install.php">
+www.myserver.uq.edu.au/~username/Commence</a>.&nbsp; After successful login, 
+people will be directed to different pages depending on the privileges of their user name.</p>
+<p><strong><a name="using1"></a>What are the available privileges?</strong></p>
+<ul>
+  <li> User</li>
+  <li> Reviewer</li>
+  <li> Administrator</li>
+</ul>
+<p><strong>User</strong> &#8211; Users are generally the authors who will submit  papers 
+  to the conference.&nbsp; The user needs to register with the system to create a login 
+  account. The password is emailed to the email address supplied.&nbsp; After 
+receiving a password, they can login to the system and submit papers.</p>
+<p><strong>Reviewer</strong> &#8211; Reviewer accounts are created by the administrator 
+(chair). 
+  Once the accounts are created, an email containing the reviewer login name and password 
+  will be sent to each reviewer. Then, the reviewer is ready to start bidding or reviewing 
+  the papers when the respective phase is enabled.</p>
+<p><strong>Administrator</strong> &#8211; The Administrator or conference chair is the manager of 
+the COMMENCE system.<br>
+  He is responsible for:</p>
+<ul>
+  <li> Changing the phases manually in accordance with the proposed phase dates</li>
+  <li>Setting up reviewer accounts</li>
+  <li>Assigning papers to appropriate reviewers according to their preferences</li>
+  <li>Accepting and Rejecting papers</li>
+  <li>Sending formatted and bulk emails to users to keep participants informed 
+  on the conference status</li>
+</ul>
+<hr>
+<h3><a name="Conferences"></a>Conferences Using COMMENCE</h3>
+<ul>
+  <li><a href="http://www.eese.bee.qut.edu.au/anziis2003/">ANZIIS2003</a> - 
+  Australia and New Zealand Intelligent Information Systems, December 10-12, Sydney, 
+	Australia, 106 submissions</li>
+  <li><a href="http://www.ap.tu.chiba-u.jp/IJJSS04/Home.htm">IJSS2004</a> - 
+  Indonesia-Japan Joint Scientific Symposium 2004, Chiba University, October 
+  20-22, 2004, Japan</li>
+  <li><a href="http://www.sesug.org/">SESUG04</a> - South East SAS Users Group, 
+  Nashville Tennessee, Oct31 - Nov 2, 2004, USA</li>
+  <li><a href="http://www.cs.zju.edu.cn/icess2004/">ICESS2004</a> - The First 
+  International Conference on Embedded Software and System, December 9-10, 2004, 
+  Hangzhou, China</li>
+  <li><a href="http://prole2004.lcc.uma.es">PROLE2004</a> - IV Jornadas sobre 
+  Programación y Lenguajes, November 11-12, 2004, Málaga, Spain</li>
+  <li><a href="http://jisbdreview.unex.es/">JISBD2004</a> - IX Jornadas de 
+  Ingeneria Del Software Y Bases de Datos, November 10-12, 2004, Málaga, Spain</li>
+  <li><a href="http://www.commad2004.itee.uq.edu.au">COMMAD'04</a> - Conference 
+  on Optoelectronic and Microelectronic Materials and Devices, December 8-10, 
+  2004, Brisbane, Australia</li>
+  <li><a href="http://www.itee.uq.edu.au/~adma05/">ADMA'05 </a>- The First 
+  International Conference on Advanced Data Mining and Applications,&nbsp; July 
+  22-24, 2005, Wuhan, China, <b><font color="#FF0000">560 submissions</font></b></li>
+	<li><a href="http://www.humonc.wisc.edu/dose.time/index.html">DTFRO'05</a> - 
+	The Seventh International Conference on Dose, Time and Fractionation in 
+	Radiation Oncology, September 18-20, Wisconsin, USA</li>
+	<li><a href="http://alpiste.sede.embrapa.br:88/">IV Simpósio de Pesquisa dos 
+	Cafés do Brasil</a>, Embrapa (Brazilian Agricultural Research Corporation) 
+	Conference, May 2-5, 2005</li>
+	<li><a href="http://cblis.utc.sk/">CBLIS'05</a> - Seventh International 
+	Conference on Computer Based Learning in Science, July 2-6, University of 
+	Zilina, Slovakia</li>
+	<li><a href="http://www.hpv.informatics.bangor.ac.uk/s2005/">Web3D 2005 
+	Symposium</a>, 10th International Conference on 3D Web Technology, March 29 
+	- April 1 2005, University of Wales, Bangor, UK</li>
+	<li><a href="http://wdic2005.aprs.org.au/">WDIC2005</a>, Workshop on Digital 
+	Image Computing, February 21, Brisbane, Australia, 40 submissions</li>
+	<li><a href="http://pixel2005.uni-bonn.de/">Pixel2005</a>, International 
+	Workshop on Semiconductor Pixel Detectors for Particles and Imaging, 
+	September 5-8, Bonn, Germany</li>
+	<li><a href="http://www.griffith.edu.au/conference/thermophile05/">
+	Thermophiles 2005</a>, September 18-22, Gold Coast, Australia</li>
+	<li><a href="http://www.semanticscripting.org/SFSW2005/">Workshop on 
+	Scripting for the Semantic Web</a>, May 30, 2005, Heraklion, Greece</li>
+	<li><a href="http://cib.bau.tu-dresden.de/w78/">CIB-W78</a>, Information 
+	Technology in Construction, July 19-21, Dresden, Germany</li>
+	<li><a href="http://www.itee.uq.edu.au/~ideal05/">IDEAL'05</a>, Sixth 
+	International Conference on Intelligent Data Engineering and Automated 
+	Learning, July 6-8, Brisbane, Australia, 160 submissions<br>
+  <br>
+  <br>
+&nbsp;</li>
+</ul>
+<hr>
+<h3><a name="Where"></a>Where do I get Commence?</h3>
+<ul>
+  <li>Commence is hosted on Sourceforge. The project home page is
+	<a href="http://sourceforge.net/projects/iaprcommence/">
+	http://sourceforge.net/projects/iaprcommence/</a> and the latest source releases are available 
+  from this site. </li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

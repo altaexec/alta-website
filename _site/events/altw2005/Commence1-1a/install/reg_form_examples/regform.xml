@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+<!DOCTYPE orderform SYSTEM "../includes/regform.dtd">
+-->
+<orderform>
+	<regtypes>
+		<regtype>
+			<regtypeid>full</regtypeid>
+			<name>Full Conference Registration</name>
+			<description>
+				Includes lunches, coffee breaks.
+			</description>
+			<included>
+				<includedchoice>
+					<choiceid>dinner</choiceid>
+					<number>1</number>
+				</includedchoice>
+				<includedchoice>
+					<choiceid>cocktail</choiceid>
+					<number>1</number>
+				</includedchoice>
+				<includedchoice>
+					<choiceid>proceedings</choiceid>
+					<number>1</number>
+				</includedchoice>
+			</included>
+			<price>
+				<paytimeid>early</paytimeid>
+				<cost>730.00</cost>
+			</price>
+			<price>
+				<paytimeid>late</paytimeid>
+				<cost>880.00</cost>
+			</price>
+			<discount>
+				<memberid>iapr</memberid>
+				<cost>36.50</cost>
+			</discount>
+			<discount>
+				<memberid>ieee</memberid>
+				<cost>14.60</cost>
+			</discount>
+		</regtype>
+		<regtype>
+			<regtypeid>student</regtypeid>
+			<name>Student Conference Registration</name>
+			<description>
+				Includes lunches, coffee breaks.
+			</description>
+			<included>
+				<includedchoice>
+					<choiceid>proceedings</choiceid>
+					<number>1</number>
+				</includedchoice>
+			</included>
+			<price>
+				<paytimeid>early</paytimeid>
+				<cost>580.00</cost>
+			</price>
+			<price>
+				<paytimeid>late</paytimeid>
+				<cost>730.00</cost>
+			</price>
+			<discount>
+				<memberid>iapr</memberid>
+				<cost>29.00</cost>
+			</discount>
+			<discount>
+				<memberid>ieee</memberid>
+				<cost>11.60</cost>
+			</discount>
+		</regtype>
+		<regtype>
+			<regtypeid>daymon</regtypeid>
+			<name>Day Registration - Monday</name>
+			<description>
+				Includes lunches and coffee breaks.
+			</description>
+			<price>
+				<paytimeid>early</paytimeid>
+				<cost>200.00</cost>
+			</price>
+			<price>
+				<paytimeid>late</paytimeid>
+				<cost>200.00</cost>
+			</price>
+			<discount>
+				<memberid>iapr</memberid>
+				<cost>10.00</cost>
+			</discount>
+			<discount>
+				<memberid>ieee</memberid>
+				<cost>4.00</cost>
+			</discount>
+		</regtype>
+		<regtype>
+			<regtypeid>daytue</regtypeid>
+			<name>Day Registration - Tuesday</name>
+			<description>
+				Includes lunches and coffee breaks.
+			</description>
+			<price>
+				<paytimeid>early</paytimeid>
+				<cost>200.00</cost>
+			</price>
+			<price>
+				<paytimeid>late</paytimeid>
+				<cost>200.00</cost>
+			</price>
+			<discount>
+				<memberid>iapr</memberid>
+				<cost>10.00</cost>
+			</discount>
+			<discount>
+				<memberid>ieee</memberid>
+				<cost>4.00</cost>
+			</discount>
+		</regtype>
+		<regtype>
+			<regtypeid>daywed</regtypeid>
+			<name>Day Registration - Wednesday</name>
+			<description>
+				Includes lunches and coffee breaks.
+			</description>
+			<price>
+				<paytimeid>early</paytimeid>
+				<cost>200.00</cost>
+			</price>
+			<price>
+				<paytimeid>late</paytimeid>
+				<cost>200.00</cost>
+			</price>
+			<discount>
+				<memberid>iapr</memberid>
+				<cost>10.00</cost>
+			</discount>
+			<discount>
+				<memberid>ieee</memberid>
+				<cost>4.00</cost>
+			</discount>
+		</regtype>
+		<regtype>
+			<regtypeid>daythu</regtypeid>
+			<name>Day Registration - Thursday</name>
+			<description>
+				Includes lunches and coffee breaks.
+			</description>
+			<price>
+				<paytimeid>early</paytimeid>
+				<cost>200.00</cost>
+			</price>
+			<price>
+				<paytimeid>late</paytimeid>
+				<cost>200.00</cost>
+			</price>
+			<discount>
+				<memberid>iapr</memberid>
+				<cost>10.00</cost>
+			</discount>
+			<discount>
+				<memberid>ieee</memberid>
+				<cost>4.00</cost>
+			</discount>
+		</regtype>
+	</regtypes>
+	
+	<paytimes>
+		<paytime>
+			<paytimeid>early</paytimeid>
+			<name>Early Bird</name>
+			<description>Before 1-Jun-98</description>
+		</paytime>
+		<paytime>
+			<paytimeid>late</paytimeid>
+			<name>Later</name>
+			<description>On or after 1-Jun-98</description>
+		</paytime>
+	</paytimes>
+	
+	<memberships>
+		<membership>
+			<memberid>iapr</memberid>
+			<name>IAPR Member</name>
+			<description>
+			Member of the International Association for Pattern Recognition
+			</description>
+		</membership>
+		<membership>
+			<memberid>ieee</memberid>
+			<name>IEEE Member</name>
+			<description>
+			Member of the Institute of Electrical and Electronics Engineers
+			</description>
+		</membership>
+	</memberships>
+	
+	<section>
+		<name>Extras</name>
+		<description>
+		Tickets and items in addition to those included in registration.
+		</description>
+		<choice>
+			<choiceid>dinner</choiceid>
+			<name>Conference Dinner</name>
+			<description>
+			When paying registration, please include a list of guests and 
+			company for the printing of extra name tags.
+			</description>
+			<quantity maximum="100">
+				<price>
+					<paytimeid>early</paytimeid>
+					<cost>80.00</cost>
+				</price>
+				<price>
+					<paytimeid>late</paytimeid>
+					<cost>80.00</cost>
+				</price>
+			</quantity>
+		</choice>
+		<choice>
+			<choiceid>cocktail</choiceid>
+			<name>Welcoming Cocktail Party</name>
+			<description>
+			When paying registration, please include a list of guests and 
+			company for the printing of extra name tags.
+			</description>
+			<quantity maximum="100">
+				<price>
+					<paytimeid>early</paytimeid>
+					<cost>25.00</cost>
+				</price>
+				<price>
+					<paytimeid>late</paytimeid>
+					<cost>25.00</cost>
+				</price>
+			</quantity>
+		</choice>
+		<choice>
+			<choiceid>proceedings</choiceid>
+			<name>Conference Proceedings</name>
+			<description>(Additional)</description>
+			<quantity maximum="100">
+				<price>
+					<paytimeid>early</paytimeid>
+					<cost>150.00</cost>
+				</price>
+				<price>
+					<paytimeid>late</paytimeid>
+					<cost>150.00</cost>
+				</price>
+			</quantity>
+		</choice>
+		<choice>
+			<choiceid>proceedings pages</choiceid>
+			<name>Additional Proceedings Pages</name>
+			<description>
+			Three pages have been allocated within the conference proceedings
+			for your accepted paper. Additional pages may be inserted if
+			required.
+			</description>
+			<quantity maximum="100">
+				<price>
+					<paytimeid>early</paytimeid>
+					<cost>150.00</cost>
+				</price>
+				<price>
+					<paytimeid>late</paytimeid>
+					<cost>150.00</cost>
+				</price>
+			</quantity>
+		</choice>
+	</section>
+	<section>
+		<name>Tutorials</name>
+		<description>
+		These tutorials are optional. Should you wish to attend any of the
+		listed tutorials, please indicate below.
+		</description>
+		<choice>
+			<choiceid>morningtutorials</choiceid>
+			<name>Morning Session</name>
+			<option>
+				<optionid>none</optionid>
+				<name>none</name>
+			</option>
+			<option>
+				<optionid>1</optionid>
+				<name>
+				Mathematical Morphology for Image Analysis 
+				and Pattern Recognition
+				</name>
+				<description>
+				Presenter is Pierre Soille.
+				</description>
+				<price>
+					<paytimeid>early</paytimeid>
+					<cost>150.00</cost>
+				</price>
+				<price>
+					<paytimeid>late</paytimeid>
+					<cost>175.00</cost>
+				</price>
+				<discount>
+					<regtypeid>student</regtypeid>
+					<cost>50.00</cost>
+				</discount>
+			</option>
+			<option>
+				<optionid>2</optionid>
+				<name>
+				Robust Techniques for Computer Vision
+				</name>
+				<description>
+				Presenter is Peter Meer.
+				</description>
+				<price>
+					<paytimeid>early</paytimeid>
+					<cost>150.00</cost>
+				</price>
+				<price>
+					<paytimeid>late</paytimeid>
+					<cost>175.00</cost>
+				</price>
+				<discount>
+					<regtypeid>student</regtypeid>
+					<cost>50.00</cost>
+				</discount>
+			</option>
+			<option>
+				<optionid>3</optionid>
+				<name>
+				Geographic Information Systems
+				</name>
+				<description>
+				Presenter is Hanan Samet.
+				</description>
+				<price>
+					<paytimeid>early</paytimeid>
+					<cost>150.00</cost>
+				</price>
+				<price>
+					<paytimeid>late</paytimeid>
+					<cost>175.00</cost>
+				</price>
+				<discount>
+					<regtypeid>student</regtypeid>
+					<cost>50.00</cost>
+				</discount>
+			</option>
+		</choice>
+		<choice>
+			<choiceid>afternoontutorials</choiceid>
+			<name>Afternoon Session</name>
+			<option>
+				<optionid>none</optionid>
+				<name>none</name>
+			</option>
+			<option>
+				<optionid>4</optionid>
+				<name>
+				Minimum encoding length inference methods
+				</name>
+				<description>
+				Presenter is David Dowe.
+				</description>
+				<price>
+					<paytimeid>early</paytimeid>
+					<cost>150.00</cost>
+				</price>
+				<price>
+					<paytimeid>late</paytimeid>
+					<cost>175.00</cost>
+				</price>
+				<discount>
+					<regtypeid>student</regtypeid>
+					<cost>50.00</cost>
+				</discount>
+			</option>
+			<option>
+				<optionid>5</optionid>
+				<name>
+				Automated Biometrics
+				</name>
+				<description>
+				Presenters are 
+				Nalini Ratha,
+				Andrew Senior,
+				Ruud M. Bolle and
+				Anil K. Jain.
+				</description>
+				<price>
+					<paytimeid>early</paytimeid>
+					<cost>150.00</cost>
+				</price>
+				<price>
+					<paytimeid>late</paytimeid>
+					<cost>175.00</cost>
+				</price>
+				<discount>
+					<regtypeid>student</regtypeid>
+					<cost>50.00</cost>
+				</discount>
+			</option>
+			<option>
+				<optionid>6</optionid>
+				<name>
+				Augmented Reality: 
+				Confluence of Computer Vision and Computer Graphics
+				</name>
+				<description>
+				Presenter is Mihran Tuceryan.
+				</description>
+				<price>
+					<paytimeid>early</paytimeid>
+					<cost>150.00</cost>
+				</price>
+				<price>
+					<paytimeid>late</paytimeid>
+					<cost>175.00</cost>
+				</price>
+				<discount>
+					<regtypeid>student</regtypeid>
+					<cost>50.00</cost>
+				</discount>
+			</option>
+		</choice>
+		<choice>
+			<choiceid>fulldaytutorials</choiceid>
+			<name>Full Day</name>
+			<option>
+				<optionid>7</optionid>
+				<name>
+				3D Objects - Representation, Recognition and Coding
+				</name>
+				<description>
+				Presenters are Chitra Dorai and Patrick Flynn.
+				</description>
+				<price>
+					<paytimeid>early</paytimeid>
+					<cost>300.00</cost>
+				</price>
+				<price>
+					<paytimeid>late</paytimeid>
+					<cost>350.00</cost>
+				</price>
+				<discount>
+					<regtypeid>student</regtypeid>
+					<cost>100.00</cost>
+				</discount>
+			</option>
+		</choice>
+	</section>
+</orderform>

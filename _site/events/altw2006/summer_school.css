@@ -1,0 +1,209 @@
+/*************************************************************************************
+** File: summer_school.css
+** Based on alta.css
+** Description: Styles that apply to the Macquarie University corporate web templates
+** Version: 1.0
+** Created: 25 June 2002
+** Group: Internet Information Projects and Services
+** Copyright (c) Macquarie University
+*************************************************************************************/
+
+/* This section sets the default styles for common page elements */
+body {
+  margin: 0 0 0 0;
+  background: #ffffff;
+}
+
+p,td,tr,table,body,li,ul,i,b { 
+  font-size: small; 
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  color: #000000;
+}
+
+h1 {
+  color: #186568;
+  background-color: #ffffff;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: large;
+  font-weight: bold;
+  line-height: 140%;
+  border-bottom: 1px solid #7D0552;
+  padding-top: 1ex; 
+}
+
+h2 {
+  color: #186568;
+  background-color: #ffffff;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-weight: bold;
+}
+
+
+h3 {
+  color: #186568;
+  background-color: #ffffff;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-weight: bold;
+}
+ 
+a:link {
+  color: #000000
+}
+
+a:visited {
+  color: #000000
+}
+
+a:hover {
+  color: #000000
+}
+
+/* This is the style for the site name that appears in the upper right-hand corner */
+.sitename {
+  color: #186568; 
+  background-color: #ffffff;
+  font-family: Georgia, Times New Roman, Times, serif;
+  font-size: 18pt;
+  font-weight: bold;
+  line-height: 140%;
+  padding-right: 1ex;
+}
+
+/* These styles apply to the dark green bar near the top containing navigational links */
+.headerbar {
+  background: #186568;
+  color: #ffffff;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: small;
+  padding-left: 1ex;
+  padding-right: 2ex;
+}
+
+.headercell {
+  padding-top: 2ex
+}
+
+.headerhighlight, a.headerhighlight {
+  padding-top: 2ex;
+  color: #aaaaff;
+  font-weight: bold;
+  text-decoration: none
+}
+
+.subheadercell {
+  padding-top: 2ex;
+  padding-left: 2em;
+  font-size: x-small
+}
+
+.subheaderhighlight {
+  padding-top: 2ex;
+  padding-left: 1em;
+  font-size: x-small;
+  color: #aaaaff;
+  font-weight: bold;
+  text-decoration: none
+}  
+
+a.subheaderhighlight {
+  font-size: x-small;
+  color: #aaaaff;
+  font-weight: bold;
+  text-decoration: none
+}  
+
+.headerlink {
+  color: #cc99ff;
+  background-color: #186568; 
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a.headerlink:link, a.headerlink:visited {
+  color: #ffffff;
+  background-color: #186568;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a.headerlink:hover {
+  color: #aaaaff;
+  background-color: #186568;
+  font-style: normal;
+  text-decoration: none;
+}
+
+strong {
+  font-weight:bold;
+  color:#186568;
+}
+
+dt {
+  font-weight:bold;
+  color:#186568;
+  margin-top:0.2cm;
+}
+
+/* Use this style for the optional navigational breadcrumb trail underneath the header bar */
+.breadcrumbs {
+  font-size: x-small;
+  padding-bottom: 1ex;
+}
+
+/* These styles apply to the box containing the What's new section */
+.channel {
+  border: 1px solid #7D0552;
+  background: #ffeeee;
+  color: #000000;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+
+.channelhead {
+  background: #186568;
+  color: #ffffff;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-weight: bold;
+  line-height: 140%;
+  padding-left: 1ex;
+  padding-right: 1ex
+}
+
+.channelbody {
+  padding-left: 1ex;
+  padding-right: 1ex;
+  padding-top: 0.5ex;
+  padding-bottom: 0.5ex
+}
+
+.news {
+  background: #eeccff;
+  color: #000000;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: small;
+  line-height: 140%;
+  padding: 1ex;
+}
+
+.newsdate {
+  font-size: smaller;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: #186568;
+  font-weight:bold;
+}
+/* Use this style for footer information, such as copyright and contact details */
+.footertext {
+  color: #999999;
+  background-color: #ffffff;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: small;
+  padding-left: 2ex;
+  padding-top: 1ex
+}
+
+
+
+

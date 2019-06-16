@@ -1,0 +1,53 @@
+To: Andrew Calder
+GPO Box 2702
+Canberra ACT 2601
+
+Dear Andrew,
+
+For the upcoming ERA exercise, I understand that the ARC decided to
+exclude conferences assigned the Field of Research code 0807 (Library
+and Information Studies) from the ERA rankings at the request of the
+Australian Library and Information Association.
+
+Unfortunately, there are a number of conferences that have been
+allocated to this code which are not generally attended by members of
+ALIA, but are key events for Australian researchers in Computing
+Science, for whom conferences are a key component of their regular
+research outputs.  The exclusion of these conferences from the
+rankings was therefore carried out without any consultation with the
+affected communities.
+
+The decision to exclude these conferences from the ERA rankings has
+two significant effects:
+
+First, it will damage researchers who have targeted these conferences
+as part of their publication strategy.
+
+Second, for two computing-focused Australian conferences -- the
+Australasian Document Computing Symposium (ADCS) and the Australasian
+Language Technology Association Workshop (ALTW) -- this will adversely
+affect the number of submissions they receive, and this as a result
+will then damage the quality of these conferences.
+
+In particular, since these two conferences are the natural meeting
+places for Australian researchers in the information retrieval and
+natural language processing areas, the action will actively harm these
+research communities.
+
+I request that you consider amending this decision urgently, and that
+you reinstate the ALTW and ADCS conferences to their original B
+ranking before these conferences and research communities are
+adversely affected.
+
+The problem appears to have arisen because of an assumption that there
+are single bodies, such as ALIA, which are best placed to comment on
+entire groups of FOR codes.  This assumption fails to recognise that
+interdisciplinary research does not obey such rigid demarcation.  It
+seems likely that, in the absence of more fine-grained assessments of
+FOR codes and the publication venues that fall under them, there will
+be many other groups affected by decisions of this kind.
+
+Yours,
+
+<signed>
+
