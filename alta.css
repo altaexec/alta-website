@@ -211,18 +211,20 @@ background-color: #ffffff;
 }
 
 .pagehead div {
-padding: 100px;
+margin: auto;
+padding: 100px 100px 100px 0px;
 font-weight: 500;
 line-height: 1.1;
-width: 1170px;
+width: 870px;
 max-width: 100%;
-text-align: center;
+text-align: left;
 font-size:30px;
 text-shadow: 2px 2px #ffffff;
 color: #000000;
-background-image: url(../images/logo_sm.png);
+background-image: url(../images/logo_la.png);
 background-repeat: no-repeat;
 background-position: right center;
+background-size: 80px 45px;
 }
 
 .navigation {
