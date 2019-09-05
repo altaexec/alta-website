@@ -202,6 +202,7 @@ strong {
 
 
 .pagehead {
+padding: 0px 100px;
 height:200px;
 text-shadow: 2px 2px #ffffff;
 background-repeat: no-repeat;
@@ -223,7 +224,7 @@ text-shadow: 2px 2px #ffffff;
 color: #000000;
 background-image: url(../images/logo_la.png);
 background-repeat: no-repeat;
-background-position: right center;
+background-position: 90% center;
 background-size: 80px 45px;
 }
 
@@ -242,7 +243,8 @@ text-align: center
 .navigation div {
 width:1200px;
 margin-left: auto;
-margin-right: auto
+margin-right: auto;
+background-color: #005544
 }
 
 .navigation a {
