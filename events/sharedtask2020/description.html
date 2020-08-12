@@ -3,7 +3,7 @@ HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
         "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
 <html lang="en">   
 <head>
-  <title>ALTA 2019 Shared Task Description</title>
+  <title>ALTA 2020 Shared Task Description</title>
   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
   <link rel="stylesheet" href="sharedtask.css" type="text/css">
 </head>
@@ -17,7 +17,7 @@ HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
     <td width="85" align="center"><a href="http://www.alta.asn.au"><img src="http://www.alta.asn.au/images/logo_sm.jpg" width="74" height="65" border="0" alt="ALTA logo"></a></td>
     <!-- Title -->
     <td width="100%" colspan="5" class="sitename" align="center">
-Language Technology Programming Competition 2019</td>
+Language Technology Programming Competition 2020</td>
   </tr>
 
   <tr valign="top">
@@ -66,33 +66,35 @@ Language Technology Programming Competition 2019</td>
 
 
 
-<h2>2019 Shared Task Description: Sarcasm Target Identification</h2>
+<h2>2020 Shared Task Description: Assess Human Behaviour</h2>
 
 <h3>Basic Task Description</h3>
 
-<p>Sarcasm is a form of verbal irony that is intended to express contempt or
-    ridicule. Sarcastic text has been reported to be detrimental to sentiment
-    analysis. The connection between sarcasm detection and sentiment analysis is the
-    target of ridicule since it is this target that receives negative sentiment in
-    the sarcastic sentence.</p>
+<p>Can we assess human behaviour automatically from textual data?</p>
 
-The goal of this task is, given a sarcastic text, to identify the set of words
-which are the target of sarcasm. The words are returned as a list with all words
-in lowercase, where all duplicates have been removed. If such set of words is
-not found, return a fall-back label "OUTSIDE". 
+<p>Human behaviour can be negatively or positively assessed based on a reference set of social norms. When judgement is explicitly stated in narratives, e.g., <em>"They are hard-working and honest."</em>, we encounter appraisal words such as <em>"hard-working"</em> and <em>"honest"</em> used between interlocutors for advancing an opinion.</p>
 
-For example,
+<p>Attitude positioning plays an important role in Martin and White's (2005) proposed Appraisal framework for analysing someone's use of evaluative language to negotiate solidarity. The APPRAISAL framework is concerned with the use of linguistic markers for identifying and track the ways attitudes are invoked in authored text. The framework defines three subsystems for evaluative meaning making: (1) ATTITUDE; (2) ENGAGEMENT; and (3) GRADUATION. The ATTITUDE framework is further divided into three subsystems: (1) AFFECT (registering of emotions); (2) APPRECIATION (evaluations of natural and semiotic phenomena); and (3) JUDGEMENT (evaluations of people and their behavior).</p>
 
-<ol>
-    <li>"Your shirt reminds me of my 10-year-old": Target: your shirt</li>
-    <li>"This is the best film ever!": Target: film</li>
-    <li>"Oh, and I suppose the apple ate the cheese": Target: OUTSIDE</li>
-</ol>
+<p>The judgement subsystem has two regions: social esteem and social sanction.<p>
+  
+<p>Social esteem tends to function as admiration or criticism and can be subdivided into three subcategories:</p> 
+<ul>
+    <li><strong>normality</strong> (how unusual one is):		<em>"He is <strong>old-fashioned</strong>"</em>.</li>
+    <li><strong>capacity</strong> (how capable one is):		<em>"Self-driven 12 year old is a <strong>maths genius</strong>"</em>.</li>
+    <li><strong>tenacity</strong> (how resolute one is): 		<em>"They are <strong>hard-working</strong> and honest</em>".</li>
+</ul>
 
-The assumption in each of these examples is that they are sarcastic.
+<p>Social sanction functions as praise or condemnation and can be subdivided into two subcategories:</p>
+<ul>
+    <li><strong>veracity</strong> (how honest/truthful one is):	<em>"They are hard-working and <strong>honest</strong>"</em></li>
+    <li><strong>propriety</strong> (how ethical one is): 		<em>"She is too <strong>arrogant</strong> to learn the error of her ways"</em>.</li>
+</ul>
 
-While it is a typical sequence labelling task like many other classic NLP tasks,
-there has been little work on sarcasm target identification.
+<p>Participants are referred to <a href="http://www.languageofevaluation.info/appraisal/">The Appraisal website</a> for further reading about the Appraisal framework.</p>
+
+
+<p>The goal of this task is <strong>to develop a computational model that can identify and classify judgements expressed in textual segments</strong>. Participants are challenged to predict the judgement appraised by classifying each short-text messages into one or more label candidates (or none): <strong>normality, capacity, tenacity, veracity, propriety</strong>.</p>
 
 <h3>Evaluation</h3>
 
@@ -104,13 +106,17 @@ We will use Kaggle in Class to evaluate the systems.
 
 <a>We will use <a href="http://inclass.kaggle.com">Kaggle in Class</a>
 for this year's competition (look for
-the <a href="https://inclass.kaggle.com/c/alta-2019-challenge">ALTA
-2019 Challenge</a>). The data files and submission instructions will
+the <a href="https://inclass.kaggle.com/c/alta-2020-challenge">ALTA
+2020 Challenge</a>). The data files and submission instructions will
 be provided in the competition website.</a>
 
 <p>In order to access the Kaggle in Class pages, you need
-to <a href="index.html#register">register with this shared
-task</a>.</p>
+to <a href="index.html#register">register</a>.</p>
+
+
+<h4>Dataset and descriptions</h4>
+
+<p>The task includes one dataset sourced from the <a href="">(FIX LINK) SemEval 2018 AIT DISC</a> annotated with Judgement categories.</p>
 
 
 <h3>Important Dates</h3>
@@ -123,20 +129,20 @@ task</a>.</p>
         </tr>
         <tr>
             <td align="left">Deadline for submission of results over test data</td>
-            <td align="left">18 Oct 2019</td>
+            <td align="left">30 Oct 2019</td>
         </tr>
         <tr>
             <td align="left">Notification of results</td>
-            <td align="left">21 Oct 2019</td>
+            <td align="left">3 Nov 2020</td>
         </tr>
         <tr>
             <td align="left">Deadline for submission of system description</td>
-            <td align="left">4 Nov 2018</td>
+            <td align="left">20 Nov 2020</td>
         </tr>
         <tr>
-            <td align="left">Presentation of results at ALTA
-            workshop, Sydney (Australia)</td>
-            <td align="left">5-6 Dec 2019</td>
+            <td align="left">Presentation of results at the ALTA
+            workshop</td>
+            <td align="left">13-15 Jan 2021</td>
         </tr>
     </tbody>
 </table>
@@ -176,7 +182,7 @@ organisers (altw2010 AT gmail DOT com)
 </table>
 <!-- End of footer -->
 <hr>
-&copy; ALTA 2019. <a href="mailto:shared.task@alta.asn.au">Competition
+&copy; ALTA 2020. <a href="mailto:shared.task@alta.asn.au">Competition
 Organisers</a>.
 </body>
 </html>
