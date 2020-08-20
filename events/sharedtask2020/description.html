@@ -94,7 +94,23 @@ Language Technology Programming Competition 2020</td>
 <p>Participants are referred to <a href="http://www.languageofevaluation.info/appraisal/">The Appraisal website</a> for further reading about the Appraisal framework.</p>
 
 
-<p>The goal of this task is <strong>to develop a computational model that can identify and classify judgements expressed in textual segments</strong>. Participants are challenged to predict the judgement appraised by classifying each short-text messages into one or more label candidates (or none): <strong>normality, capacity, tenacity, veracity, propriety</strong>.</p>
+<p>The goal of this task is <strong>to develop a computational model that can identify and classify judgements expressed in textual segments</strong>. Participants are challenged to predict the judgement appraised by classifying each short-text messages into one or more label candidates (or none): <strong>normality, capacity, tenacity, veracity, propriety</strong>. The follow table shows examples of messages and their classification.</p>
+
+<table>
+  <tr><th>Text</th><th>Normality</th><th>Capacity</th><th>Tenacity</th><th>Veracity</th><th>Propriety</th></tr>
+  <tr><td><em>Read and try to comprehend what you have commented on.</em></td>
+  <td>0</td><td>1</td><td>0</td><td>0</td><td>0</td></tr>
+  <tr><td><em>Fans of adoring Dictatorships and Totalitarians</em></td>
+    <td>0</td><td>0</td><td>0</td><td>0</td><td>1</td></tr>
+  <tr><td><em>Keep going like you always have done.</em></td>
+    <td>0</td><td>0</td><td>1</td><td>0</td><td>0</td></tr>
+  <tr><td><em>She showed her true colors.</em></td>
+    <td>0</td><td>0</td><td>0</td><td>0</td><td>1</td></tr>
+  <tr><td><em>He is a nasty person.</em></td>
+    <td>1</td><td>0</td><td>0</td><td>0</td><td>1</td></tr>
+  <tr><td><em>Corruption 101</em></td>
+    <td>0</td><td>0</td><td>0</td><td>1</td><td>0</td></tr>
+</table>
 
 <h3>Evaluation</h3>
 
@@ -116,7 +132,7 @@ to <a href="index.html#register">register</a>.</p>
 
 <h4>Dataset and descriptions</h4>
 
-<p>The task includes one dataset sourced from the <a href="">(FIX LINK) SemEval 2018 AIT DISC</a> annotated with Judgement categories.</p>
+<p>The task includes one dataset sourced from the <a href="https://competitions.codalab.org/competitions/17751#learn_the_details-datasets">SemEval 2018 AIT DISC</a> annotated with Judgement categories.</p>
 
 
 <h3>Important Dates</h3>

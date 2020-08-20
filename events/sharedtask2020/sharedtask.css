@@ -20,6 +20,13 @@ p,td,tr,table,body,li,ul,i,b {
   color: #000000;
 }
 
+th {
+  font-size: small; 
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  color: #ffffff;
+  background-color: #294c5c;
+}
+
 h1 {
   color: #294c5c;
   background-color: #ffffff;
