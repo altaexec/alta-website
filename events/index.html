@@ -33,12 +33,12 @@ to the ALTA-Announce</a> mailing list.</p>
 <ul>
   {% for proc in site.proceedings %}
     <li>
-      <!-- <a target="_blank" href="http://aclweb.org/anthology/U/{{ proc.aclkey }}"> -->
-      <!--   Vol. {{ proc.year | minus: site.zeroth_proc_year }} ({{ proc.year }}) -->
-      <!-- </a> -->
-      <a target="_blank" href="https://aclanthology.coli.uni-saarland.de/events/alta-{{ proc.year }}">
+       <a target="_blank" href="http://aclweb.org/anthology/events/alta-{{ proc.year }}"> 
+         Vol. {{ proc.year | minus: site.zeroth_proc_year }} ({{ proc.year }}) 
+      </a> 
+      {% comment %} <a target="_blank" href="https://aclanthology.coli.uni-saarland.de/events/alta-{{ proc.year }}">
         Vol. {{ proc.year | minus: site.zeroth_proc_year }} ({{ proc.year }})
-      </a>
+      </a> {% endcomment %}
     </li>
   {% endfor %} 
 </ul>
