@@ -69,5 +69,11 @@ proceedings:
     aclkey: U16
   - year: 2017
     aclkey: U17
+  - year: 2018
+    aclkey: U18
+  - year: 2019
+    aclkey: U19
+  - year: 2020
+    aclkey: U20
 zeroth_proc_year: 2002
 
