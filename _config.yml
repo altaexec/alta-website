@@ -1,6 +1,5 @@
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages" 
     values:
@@ -35,7 +34,7 @@ navlinks:
   - name: "Resources"
     key: resources
     href: "/resources/index.html"
-    
+  
   # - name: "Student Pages"
   #   key: students
 proceedings:
@@ -75,5 +74,7 @@ proceedings:
     aclkey: U19
   - year: 2020
     aclkey: U20
+  - year: 2021
+    aclkey: U21
 zeroth_proc_year: 2002
 
