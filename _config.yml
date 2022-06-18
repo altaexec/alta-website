@@ -34,6 +34,9 @@ navlinks:
   - name: "Resources"
     key: resources
     href: "/resources/index.html"
+  - name: "Mentoring"
+    key: mentoring
+    href: "/mentoring/index.html"
   
   # - name: "Student Pages"
   #   key: students
