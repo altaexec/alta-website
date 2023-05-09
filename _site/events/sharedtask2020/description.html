@@ -1,0 +1,204 @@
+<!DOCTYPE 
+HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html lang="en">   
+<head>
+  <title>ALTA 2020 Shared Task Description</title>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+  <link rel="stylesheet" href="sharedtask.css" type="text/css">
+</head>
+
+<body>
+<!-- This table contains the main structure of the page -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="This table contains the main structure">
+
+  <tr valign="middle">
+    <!-- Logo -->
+    <td width="85" align="center"><a href="http://www.alta.asn.au"><img src="http://www.alta.asn.au/images/logo_sm.jpg" width="74" height="65" border="0" alt="ALTA logo"></a></td>
+    <!-- Title -->
+    <td width="100%" colspan="5" class="sitename" align="center">
+Language Technology Programming Competition 2020</td>
+  </tr>
+
+  <tr valign="top">
+
+<td width="15%">
+ 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="headerbar" summary="This table contains the top level navigation links">
+
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="index.html">Home</a> 
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="description.html">Task Description</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="info.html">Useful Information</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="submission.html">Submission</a>
+    </td> 
+ </tr>
+
+
+<tr><td>&nbsp;</td></tr>
+</table>
+<!-- End Macquarie navigation table -->
+</td>
+
+<td width="2%">&nbsp;</td>
+
+
+<td width="53%">
+
+<!-- END OF HEADER - DO NOT EDIT ABOVE THIS LINE - Document Id: "altw"  -->
+
+
+
+
+<h2>2020 Shared Task Description: Assess Human Behaviour</h2>
+
+<h3>Basic Task Description</h3>
+
+<p>Can we assess human behaviour automatically from textual data?</p>
+
+<p>Human behaviour can be negatively or positively assessed based on a reference set of social norms. When judgement is explicitly stated in narratives, e.g., <em>"They are hard-working and honest."</em>, we encounter appraisal words such as <em>"hard-working"</em> and <em>"honest"</em> used between interlocutors for advancing an opinion.</p>
+
+<p>Attitude positioning plays an important role in Martin and White's (2005) proposed Appraisal framework for analysing someone's use of evaluative language to negotiate solidarity. The APPRAISAL framework is concerned with the use of linguistic markers for identifying and track the ways attitudes are invoked in authored text. The framework defines three subsystems for evaluative meaning making: (1) ATTITUDE; (2) ENGAGEMENT; and (3) GRADUATION. The ATTITUDE framework is further divided into three subsystems: (1) AFFECT (registering of emotions); (2) APPRECIATION (evaluations of natural and semiotic phenomena); and (3) JUDGEMENT (evaluations of people and their behavior).</p>
+
+<p>The judgement subsystem has two regions: social esteem and social sanction.<p>
+  
+<p>Social esteem tends to function as admiration or criticism and can be subdivided into three subcategories:</p> 
+<ul>
+    <li><strong>normality</strong> (how unusual one is):		<em>"He is <strong>old-fashioned</strong>"</em>.</li>
+    <li><strong>capacity</strong> (how capable one is):		<em>"Self-driven 12 year old is a <strong>maths genius</strong>"</em>.</li>
+    <li><strong>tenacity</strong> (how resolute one is): 		<em>"They are <strong>hard-working</strong> and honest</em>".</li>
+</ul>
+
+<p>Social sanction functions as praise or condemnation and can be subdivided into two subcategories:</p>
+<ul>
+    <li><strong>veracity</strong> (how honest/truthful one is):	<em>"They are hard-working and <strong>honest</strong>"</em></li>
+    <li><strong>propriety</strong> (how ethical one is): 		<em>"She is too <strong>arrogant</strong> to learn the error of her ways"</em>.</li>
+</ul>
+
+<p>Participants are referred to <a href="http://www.languageofevaluation.info/appraisal/">The Appraisal website</a> for further reading about the Appraisal framework.</p>
+
+
+<p>The goal of this task is <strong>to develop a computational model that can identify and classify judgements expressed in textual segments</strong>. Participants are challenged to predict the judgement appraised by classifying each short-text messages into one or more label candidates (or none): <strong>normality, capacity, tenacity, veracity, propriety</strong>. The follow table shows examples of messages and their classification.</p>
+
+<table>
+  <tr><th>Text</th><th>Normality</th><th>Capacity</th><th>Tenacity</th><th>Veracity</th><th>Propriety</th></tr>
+  <tr><td><em>Read and try to comprehend what you have commented on.</em></td>
+  <td>0</td><td>1</td><td>0</td><td>0</td><td>0</td></tr>
+  <tr><td><em>Fans of adoring Dictatorships and Totalitarians</em></td>
+    <td>0</td><td>0</td><td>0</td><td>0</td><td>1</td></tr>
+  <tr><td><em>Keep going like you always have done.</em></td>
+    <td>0</td><td>0</td><td>1</td><td>0</td><td>0</td></tr>
+  <tr><td><em>She showed her true colors.</em></td>
+    <td>0</td><td>0</td><td>0</td><td>0</td><td>1</td></tr>
+  <tr><td><em>He is a nasty person.</em></td>
+    <td>1</td><td>0</td><td>0</td><td>0</td><td>1</td></tr>
+  <tr><td><em>Corruption 101</em></td>
+    <td>0</td><td>0</td><td>0</td><td>1</td><td>0</td></tr>
+</table>
+
+<h3>Evaluation</h3>
+
+<p>
+We will use Kaggle in Class to evaluate the systems.
+</p>
+
+<h3>Data Files and Submission</h3>
+
+<a>We will use <a href="http://inclass.kaggle.com">Kaggle in Class</a>
+for this year's competition (look for
+the <a href="https://inclass.kaggle.com/c/alta-2020-challenge">ALTA
+2020 Challenge</a>). The data files and submission instructions will
+be provided in the competition website.</a>
+
+<p>In order to access the Kaggle in Class pages, you need
+to <a href="index.html#register">register</a>.</p>
+
+
+<h4>Dataset and descriptions</h4>
+
+<p>The task includes one dataset sourced from the <a href="https://competitions.codalab.org/competitions/17751#learn_the_details-datasets">SemEval 2018 AIT DISC</a> annotated with Judgement categories.</p>
+
+
+<h3>Important Dates</h3>
+
+<table cellpadding="3">
+    <tbody>
+        <tr>
+            <td align="left">Release of training data</td>
+            <td align="left">On registration</td>
+        </tr>
+        <tr>
+            <td align="left">Deadline for submission of results over test data</td>
+            <td align="left">30 Oct 2020</td>
+        </tr>
+        <tr>
+            <td align="left">Notification of results</td>
+            <td align="left">3 Nov 2020</td>
+        </tr>
+        <tr>
+            <td align="left">Deadline for submission of system description</td>
+            <td align="left">20 Nov 2020</td>
+        </tr>
+        <tr>
+            <td align="left">Presentation of results at the ALTA
+            workshop</td>
+            <td align="left">13-15 Jan 2021</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- End of body content -->  </td>
+ <td width="2%"> </td>
+ <td width="28%"><br>
+
+<tr>
+<td colspan="6">
+
+<!-- Logos -->
+
+<!-- ----- FOOTER - DO NOT EDIT BEYOND THIS LINE ----- -->
+
+
+</td>
+
+<td width="2%">&nbsp;</td>
+
+</tr>
+</table>
+<!-- End of main table -->
+
+<!-- Start of footer -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<!-- <td class="footertext"> 
+<td>
+For any comments or questions about these pages please contact the
+ALTA Workshop 2010
+organisers (altw2010 AT gmail DOT com)
+<p></p> -->
+</td>
+</tr>
+</table>
+<!-- End of footer -->
+<hr>
+&copy; ALTA 2020. <a href="mailto:shared.task@alta.asn.au">Competition
+Organisers</a>.
+</body>
+</html>

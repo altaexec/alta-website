@@ -1,109 +1,185 @@
 Constitution of the Australasian Language Technology Association
+
 [Fifth Draft, 2002-11-10; minor edit 2002-11-12]
 
 I. Statement of Purpose
 
 The purpose of the Australasian Language Technology Association (the
+
 Association, ALTA) shall be to promote language technology research
+
 and development in Australia and New Zealand; to organise regular
+
 events for the exchange of research results and for academic and
+
 industrial training; to co-ordinate activities with those of allied
+
 fields in the region and with umbrella organisations at the
+
 international level; and to engage with institutions in the
+
 government, commercial, academic and public sectors in the pursuit of
+
 these objectives.
 
 II. Membership
 
-Membership is open to anyone who professes an interest in language
+Membership is open to anyone with an interest in language
+
 technology. Membership will be terminated on request, or automatically
+
 if no reply is received within six months of posting an annual
+
 membership list update message.
 
 III. Elected Officers
 
-The elected officers of the Association shall consist of a President
-and a Secretary/Treasurer and up to four others including one
-postgraduate student, together forming the Executive Committee.  Only
+The elected officers of the Association shall consist of a President, a Secretary and/or Treasurer and up to four others including one
+
+postgraduate student, together forming the Executive Committee. Only
+
 Australasian-based members are eligible to stand as elected
+
 officers. The term of all elected officers of the Association shall be
-two years.  The President shall remain as an additional member of the
+
+two years. The President shall remain as an additional member of the
+
 Executive Committee for the subsequent term to provide continuity.
 
 The duties of the President shall be:
-1. To have primary executive authority over actions and activities
-   of the Association.
-2. To prepare a written annual report on the activities of the Association.
-3. To designate Liaison Representatives responsible for communication
-   with allied associations.
-4. To designate such other officers as are appropriate to the
-   fulfilment of the goals of the Association, including a returning
-   officer as specified in Sections IV and VI below.
 
-The duties of the Secretary/Treasurer shall be:
+1. To have primary executive authority over actions and activities
+
+of the Association.
+
+2. To prepare a written annual report on the activities of the Association.
+
+3. To designate Liaison Representatives responsible for communication
+
+with allied associations.
+
+4. To designate such other officers as are appropriate to the
+
+fulfilment of the goals of the Association, including a returning
+
+officer as specified in Sections IV and VI below.
+
+The duties of the Elected Officers shall be:
+
 1. To maintain a membership roster of the Association.
+
 2. To manage the website, the electronic mailing list, and associated
-   online resources.
+
+online resources.
+
 3. To ensure that the Association's documents are kept up to date and
-   made available to members.
+
+made available to members.
+
 4. To be responsible for any moneys awarded to the Association; to
-   collect and manage any dues that may be required by the organization;
-   and to present a written annual report on the Association finances.
+
+collect and manage any dues that may be required by the organization;
+
+and to present a written annual report on the Association finances.
 
 IV. Election of Officers
- 
+
 All officers of the Association shall be elected by a vote of the
-Australasian-based membership.  Elections shall normally be carried
+
+Australasian-based membership. Elections shall normally be carried
+
 out at least one month, and at most two months, before the expiry of
-current terms of office.  Nominations shall be called at least two
+
+current terms of office. Nominations shall be called at least two
+
 months prior to the election, and shall close one month prior to the
-election.  Candidates must be nominated by two members, must accept
+
+election. Candidates must be nominated by two members, must accept
+
 nomination, and must be members of the Association.
 
 Votes may be entered electronically, and votes submitted by the
+
 notified closing date will be counted by a returning officer appointed
-by the President and agreed to by all candidates.  All members shall
+
+by the President and agreed to by all candidates. All members shall
+
 be notified of the closing date and the nominations at least one month
+
 prior to the close of voting, and results shall be notified to the
-members within two weeks of the closing date.  Notification shall
+
+members within two weeks of the closing date. Notification shall
+
 signify dispatch of mail by the medium and to the address last
-notified to the secretary.
+
+notified to the Secretary.
 
 In the event of a casual vacancy, an extraordinary election shall be
+
 held for an officer to complete the current term of office.
 
 V. Dues
- 
+
 Dues may be charged by the Association as determined from time to time
-by the elected officers.  A scale of dues may be charged which depends
+
+by the elected officers. A scale of dues may be charged which depends
+
 on the member's geographical location, and the medium by which the
+
 member receives mailings (e.g. electronic or physical mail).
 
 VI. Referenda
- 
+
 A change to this constitution, or a motion on any other matter, may be
+
 initiated by five members (petitioners) in writing, addressed to the
+
 president and secretary, or else by agreement of the President and
-Secretary (on the suggestion of a member or otherwise).  The motions
+
+Secretary (on the suggestion of a member or otherwise). The motions
+
 will be put to the members within six months of receipt of a petition,
-if the petitioners so request.  Otherwise, constitutional amendments
+
+if the petitioners so request. Otherwise, constitutional amendments
+
 and other motions will be put to the vote in conjunction with the
+
 regular elections.
 
 Members will be given notification at least three months in advance of
+
 any referendum, and further motions or amendments proposed by two
+
 members shall be accepted up to two months before the close of voting.
+
 Votes may be entered electronically, and votes arriving by the
+
 notified closing date will be counted by a returning officer appointed
-by the President and agreed to by all petitioners.  All members shall
+
+by the President and agreed to by all petitioners. All members shall
+
 be notified of the date of the referendum and the proposed motions and
+
 amendments at least four weeks prior to the close of voting, and
+
 results shall be notified to the members within four weeks of the
+
 close of voting.
 
 Any change to this constitution requires a two-thirds majority of
-those eligible to vote.  Any other matter requires a simple majority
-of those actually voting.  Notification shall signify dispatch of mail
+
+those eligible to vote. Any other matter requires a simple majority
+
+of those actually voting. Notification shall signify dispatch of mail
+
 by the medium and to the address last notified to the secretary.
+
+VII. Not-for-profit
+
+The assets and income of the organisation shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.
+
+VIII. Dissolution
+
+In the event of the organisation being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to another organisation with similar purposes which is not carried on for the profit or gain of its individual members.
 
 --end--
