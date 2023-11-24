@@ -17,4 +17,4 @@ Content is mostly stored in normal HTML files. The key other files to know about
 
 ## Questions
 
-Contact Andy. 
+Contact Rui. 
