@@ -6,7 +6,7 @@ This site is built using [Jekyll](http://jekyllrb.com) and designed to be hosted
 
 To build locally (eg to test changes) you can simply clone the repository and then run
 
-`jekyll serve`
+`jekyll serve` or `bundle exec Jekyll serve`
 
 and browse to http://127.0.0.1:4000
 
@@ -17,4 +17,4 @@ Content is mostly stored in normal HTML files. The key other files to know about
 
 ## Questions
 
-Contact Andy. 
+Contact Rui. 
