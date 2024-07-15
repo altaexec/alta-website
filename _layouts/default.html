@@ -80,7 +80,9 @@ For any comments or questions about these pages please contact the <a href="mail
 </p>
 <!-- End of footer -->
 <br>
-Copyright 2003-2023 ALTA. Last updated: {{ site.time | date_to_string }}
+<!-- add current year dynamically to save from manual updates -->
+{%assign current_year = site.time | date: "%Y" %}
+Copyright 2003-{{current_year}} ALTA. Last updated: {{ site.time | date_to_string }}
 </div>
 </body>
 </html>
