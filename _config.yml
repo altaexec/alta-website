@@ -81,5 +81,9 @@ proceedings:
     aclkey: U21
   - year: 2022
     aclkey: U22
+  - year: 2023
+    aclkey: U23
+  # - year: 2024
+  #   aclkey: U24
 zeroth_proc_year: 2002
 
