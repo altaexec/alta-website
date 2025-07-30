@@ -1,0 +1,167 @@
+<!DOCTYPE 
+HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html lang="en">   
+<head>
+  <title>ALTA 2025 Shared Task Description</title>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+  <link rel="stylesheet" href="sharedtask.css" type="text/css">
+</head>
+
+<body>
+<!-- This table contains the main structure of the page -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" summary="This table contains the main structure">
+
+  <tr valign="middle">
+    <!-- Logo -->
+    <td width="85" align="center"><a href="http://www.alta.asn.au"><img src="http://www.alta.asn.au/images/logo_sm.jpg" width="74" height="65" border="0" alt="ALTA logo"></a></td>
+    <!-- Title -->
+    <td width="100%" colspan="5" class="sitename" align="center">
+Language Technology Programming Competition 2025</td>
+  </tr>
+
+  <tr valign="top">
+
+<td width="15%">
+ 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="headerbar" summary="This table contains the top level navigation links">
+
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="index.html">Home</a> 
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="description.html">Task Description</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="info.html">Useful Information</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" class = "headercell">
+      <a class="headerlink" href="submission.html">Submission</a>
+    </td> 
+ </tr>
+
+
+<tr><td>&nbsp;</td></tr>
+</table>
+<!-- End Macquarie navigation table -->
+</td>
+
+<td width="2%">&nbsp;</td>
+
+
+<td width="53%">
+
+<!-- END OF HEADER - DO NOT EDIT ABOVE THIS LINE - Document Id: "altw"  -->
+
+
+
+
+<h2>2025 Shared Task Description</h2>
+
+<h3>Basic Task Description</h3>
+
+<h4>Background</h4>
+
+<p>Active adverse event surveillance monitors Adverse Drug Events (ADEs) across various data sources, such as electronic health records, medical literature, social media, and search engine logs.</p>
+
+<p>Three key NLP tasks—forming a typical monitoring pipeline—are:</p>
+<ol>
+  <li>Determining whether a text discusses an ADE</li>
+  <li>Extracting the text span of ADEs along with other drug-related information</li>
+  <li>Normalizing ADE mentions to standardized medical terminology, such as MedDRA (Medical Dictionary for Regulatory Activities)</li>
+</ol>
+
+<h4>Goal</h4>
+
+<p>The goal of this shared task is to focus on the third task described above—--normalizing ADE mentions to MedDRA.</p>
+
+<p>That is, participants are expected to develop a system that takes as input a user-written post with identified adverse drug event descriptions and outputs a ranked list of the most relevant MedDRA terms for each adverse drug event.</p>
+
+<p>The performance of the systems will be evaluated using the Accuracy@n score. Specifically, for each test instance (i.e., one adverse drug event), we check whether the ground truth label appears among the top n results in the system's predictions.</p>
+
+<p>We will use Accuracy@1 as the primary evaluation metric to rank participant systems. Additionally, Accuracy@5 and Accuracy@10 will be calculated as reference metrics.</p>
+
+<h3>Data Files and Submission</h3>
+
+<p>We will use CodaBench for this year's competition (<a href="https://www.codabench.org/competitions/9717/">ALTA Shared Task 2025</a>). The details about data formats and the submission will
+be provided in the competition website.</p>
+
+<h3>Important Dates</h3>
+<table cellpadding="3">
+    <tbody>
+        <tr>
+            <td align="left">Release of training data</td>
+            <td align="left">On registration</td>
+        </tr>
+        <tr>
+          <td align="left">Release of test data</td>
+          <td align="left">24 September 2025</td>
+      </tr>
+      <tr>
+            <td align="left">Deadline for submission of results over test data</td>
+            <td align="left">29 September 2025</td>
+        </tr>
+        <tr>
+            <td align="left">Notification of results</td>
+            <td align="left">3 October 2025</td>
+        </tr>
+        <tr>
+            <td align="left">Deadline for submission of system description</td>
+            <td align="left">27 October 2025</td>
+        </tr>
+        <tr>
+          <td align="left">Presentation of results at ALTA 2025</td>
+          <td align="left">26-28 November 2025</td>
+      </tr>
+  </tbody>
+</table>
+
+
+<!-- End of body content -->  </td>
+ <td width="2%"> </td>
+ <td width="28%"><br>
+
+<tr>
+<td colspan="6">
+
+<!-- Logos -->
+
+<!-- ----- FOOTER - DO NOT EDIT BEYOND THIS LINE ----- -->
+
+
+</td>
+
+<td width="2%">&nbsp;</td>
+
+</tr>
+</table>
+<!-- End of main table -->
+
+<!-- Start of footer -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<!-- <td class="footertext"> 
+<td>
+For any comments or questions about these pages please contact the
+ALTA Workshop 2010
+organisers (altw2010 AT gmail DOT com)
+<p></p> -->
+</td>
+</tr>
+</table>
+<!-- End of footer -->
+<hr>
+&copy; ALTA 2025. <a href="mailto:shared.task@alta.asn.au">Competition
+Organisers</a>.
+</body>
+</html>
