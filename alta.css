@@ -250,12 +250,13 @@ background-color: #005544
 .navigation a {
 float: left;
 height: 50px;
-padding: 0px 50px;
+padding: 0px 30px;
 font-size: 18px;
 line-height: 50px;
 text-decoration: none;
 text-transform: uppercase;
-color: #eee
+color: #eee;
+white-space: nowrap;
 }
 
 .pagabody {
