@@ -28,6 +28,9 @@ navlinks:
   - name: "Events"
     key: events
     href: "/events/index.html"
+  - name: "Seminars"
+    key: seminars
+    href: "/seminars/index.html"
   - name: "Training"
     key: training
     href: "/training/index.html"
