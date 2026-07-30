@@ -40,7 +40,10 @@ navlinks:
   - name: "Mentoring"
     key: mentoring
     href: "/mentoring/index.html"
-  
+  - name: "Fellows Program"
+    key: fellows
+    href: "/fellows/index.html"
+
   # - name: "Student Pages"
   #   key: students
 proceedings:
